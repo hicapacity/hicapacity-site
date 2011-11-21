@@ -1,0 +1,6 @@
+auto: false
+markdown: rdiscount
+permalink: /:year/:month/:day/:title
+exclude: [Rakefile, README.md]
+rdiscount
+  extensions: [smart]

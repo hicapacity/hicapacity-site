@@ -7,11 +7,11 @@ and we are currently migrating.
 [Jekyll](https://github.com/mojombo/jekyll) is needed to generate the site.
 Install it..
 
-  $ gem install jekyll
+    $ gem install jekyll
 
 Run the site locally:
 
-  $ jekyll --server
+    $ jekyll --server
 
 #### Contact
 Github: [wangbus](http://github.com/wangbus)

@@ -1,0 +1,30 @@
+#repos {
+  font: 13px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #777;
+}
+
+#repos ul {
+  margin-left: 0px;
+  padding-left: 0px;
+  line-height: 1.25;
+  list-style: none;
+}
+
+#repos ul li{
+  margin-left: 0px;
+  padding-left: 0px;
+} 
+
+#repos  a:link {
+  color: #777; 
+  text-decoration: none;
+  font-weight: 400;
+  text-shadow: 0px 1px 0px white;
+}      /* unvisited link */
+#repos a:visited {color: #777;}  /* visited link */
+#repos a:hover {color: #777; text-decoration: underline;}  /* mouse over link */
+#repos a:active {color: #777;}  /* selected link */
+
+.altRow {
+  background-color: #DDD;
+}

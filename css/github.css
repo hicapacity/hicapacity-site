@@ -1,5 +1,5 @@
 #repos {
-  font: 13px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 12px "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #777;
 }
 
@@ -8,11 +8,13 @@
   padding-left: 0px;
   line-height: 1.25;
   list-style: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
 }
 
 #repos ul li{
   margin-left: 0px;
-  padding-left: 0px;
+  padding: 1px 1px 1px 2px;
 } 
 
 #repos  a:link {

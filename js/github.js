@@ -6,7 +6,7 @@ function populateProjects() {
   $.getJSON(url, function(json) {
     var repoCount = json.data.length;
     
-    var html = '<ul>'
+    var html = '<ul style="margin-bottom: 0px">'
     
     var indiciesUsed = []; // keep track of indicies used
     
@@ -36,7 +36,7 @@ function populateProjects() {
     html += '</ul>'
     
     // add link to all HICAP on github
-    html += '<a href="http://github.com/hicapacity">More Projects...</a>';
+    html += '<a href="http://github.com/hicapacity" style="padding: 2px 0px 0px 2px">More Projects...</a>';
     
     $('#repos').html(html);
   })

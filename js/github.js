@@ -36,7 +36,7 @@ function populateProjects() {
     html += '</ul>'
     
     // add link to all HICAP on github
-    html += '<a href="http://github.com/hicapacity" style="padding: 2px 0px 0px 2px">More Projects...</a>';
+    html += '<a href="http://github.com/hicapacity" style="display: block; padding: 5px 0px 0px 2px">More Projects...</a>';
     
     $('#repos').html(html);
   })

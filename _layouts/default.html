@@ -10,6 +10,7 @@
 <script src="/js/jquery-1.7.1.min.js"></script>
 <script src="/js/less-1.1.3.min.js"></script>
 <script src="/js/bootstrap-dropdown.js"></script>
+<script src="/js/bootstrap-twipsy.js"></script>
 <script src="/js/dateFormat.min.js"></script>
 <script src="/js/events.js"></script>
 <script src="/js/github.js"></script>
@@ -18,6 +19,8 @@
   $(document).ready(function() {
     populateEvents();
     populateProjects();
+
+    $('.socialMedia').twipsy({ 'placement': 'below' });
   });
 </script>
 
@@ -73,11 +76,11 @@
     <div class="sidebar">
       <span class="widgetTitle">Connect</span>
       <div>
-        <a href="https://www.facebook.com/hicapacity"><img src="/img/facebook.png" alt="Follow Us on Facebook" title="Follow Us on Facebook"/></a>
-        <a href="https://twitter.com/#!/hnlmakerspace"><img src="/img/twitter.png" alt="Follow Us on Twitter" title="Follow Us on Twitter"/></a>
-        <a href="http://github.com/hicapacity"><img src="/img/github.png" alt="Follow Us on Github" title="Follow Us on Github"/></a>
-	      <a href="http://groups.google.com/group/honolulu-makerspace"><img src="/img/google.png" alt="Join Our Google Group" title="Join Our Google Group"/></a>
-	      <a href="#"><img src="/img/flickr.png" alt="View Our Flickr Stream" title="View Our Flickr Stream"/></a>
+        <a href="https://www.facebook.com/hicapacity" class="socialMedia" title="Follow Us on Facebook"><img src="/img/facebook.png"/></a>
+        <a href="https://twitter.com/#!/hnlmakerspace" class="socialMedia" title="Follow Us on Twitter"><img src="/img/twitter.png"/></a>
+        <a href="http://github.com/hicapacity" class="socialMedia" title="Follow Us on Github"><img src="/img/github.png"/></a>
+	      <a href="http://groups.google.com/group/honolulu-makerspace" class="socialMedia" title="Join Our Google Group"><img src="/img/google.png"/></a>
+	      <a href="#" class="socialMedia" title="View Our Flickr Stream"><img src="/img/flickr.png"/></a>
       </div>  
       <span class="widgetTitle">Upcoming Events</span>
       <div id="events"></div>

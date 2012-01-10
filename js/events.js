@@ -36,7 +36,7 @@ function populateEvents() {
     html += '</ul>';
     
     // add to Google Calendar button
-    html += '<a href="http://www.google.com/calendar/render?cid=https%3A%2F%2Fwww.google.com%2Fcalendar%2Ffeeds%2Fhicapacity.org_vgo8qpscrk4hif3veoka112434%2540group.calendar.google.com%2Fpublic%2Fbasic" target="_blank"><img src="https://www.google.com/calendar/images/calendar_plus_en.gif" alt="0" border="0" style="padding: 2px 0px 0px 2px"></a>';
+    html += '<a href="http://www.google.com/calendar/render?cid=https%3A%2F%2Fwww.google.com%2Fcalendar%2Ffeeds%2Fhicapacity.org_vgo8qpscrk4hif3veoka112434%2540group.calendar.google.com%2Fpublic%2Fbasic" target="_blank"><img src="https://www.google.com/calendar/images/calendar_plus_en.gif" alt="0" border="0" style="padding: 5px 0px 0px 2px"></a>';
 
     $('#events').html(html);
   })

@@ -1,16 +1,14 @@
 /* CSS for the Google Calendar events widget. */
 #events {
   font: 12px "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 300;
   color: #777;
 }
 
 #events ul {
   margin-left: 0px;
-  padding-left: 0px;
+  margin-bottom: 0px;
+  padding-left: 5px;
   line-height: 1.25;
-  border: 1px solid #ccc;
-  border-radius: 4px;
 }
 
 #events ul li{
@@ -19,17 +17,18 @@
 } 
 
 .eventTitle {
-  background-color: #DDD;
   padding: 2px;
+  padding-top: 10px;
+  font-weight: bold;
 }
 .eventTitle  a:link {
+  font-size: 11px;
   color: #777; 
   text-decoration: none;
-  font-weight: 400;
-  text-shadow: 0px 1px 0px white;
+  font-weight: 700;
 }      /* unvisited link */
 .eventTitle a:visited {color: #777;}  /* visited link */
-.eventTitle a:hover {color: #777; text-decoration: underline;}  /* mouse over link */
+.eventTitle a:hover {color: #999; text-decoration: underline;}  /* mouse over link */
 .eventTitle a:active {color: #777;}  /* selected link */
 
 .dateTimeInfo {

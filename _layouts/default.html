@@ -30,7 +30,7 @@
       position: absolute;
       right: 20px;
       left: auto;
-      top: 0;
+      top: 10px;
       width: 220px;
   }
 
@@ -47,7 +47,7 @@
   <div class="topbar" data-dropdown="dropdown" >
     <div class="topbar-inner">
       <div class="container">
-        <img class="brand" src="/img/hicap_logo_sm.png" style="float:left"></img>
+        <img src="/img/hicap_logo_sm.png" style="float:left; padding: 10px 10px 0px 0px"></img>
         <ul class="nav">
           <li class="active"><a href="#">Home</a></li>
           <li><a href="#">Calendar</a></li>
@@ -71,25 +71,35 @@
   </div><!-- /topbar -->
 </div><!-- /topbar-wrapper -->
   
-<h3>{{ page.title }}</h3>
   <div class="container-fluid">
     <div class="sidebar">
-      <span class="widgetTitle">Connect</span>
-      <div>
+      <div class="widget">
+        <span class="widgetTitle">Connect</span>
+        <div style="padding-top: 10px; text-align: center;">
         <a href="https://www.facebook.com/hicapacity" class="socialMedia" title="Follow Us on Facebook"><img src="/img/facebook.png"/></a>
         <a href="https://twitter.com/#!/hnlmakerspace" class="socialMedia" title="Follow Us on Twitter"><img src="/img/twitter.png"/></a>
         <a href="http://github.com/hicapacity" class="socialMedia" title="View Our Projects on Github"><img src="/img/github.png"/></a>
 	      <a href="http://groups.google.com/group/honolulu-makerspace" class="socialMedia" title="Join Our Google Group"><img src="/img/google.png"/></a>
 	      <a href="#" class="socialMedia" title="View Our Flickr Stream"><img src="/img/flickr.png"/></a>
-      </div>  
-      <span class="widgetTitle">Upcoming Events</span>
-      <div id="events"></div>
-      <span class="widgetTitle">Our Projects</span>
-      <div id="repos"></div>
+	      </div>	      
+      </div>
+      <div class="widget">
+        <span class="widgetTitle">Upcoming Events</span>
+        <div id="events">
+        </div>
+      </div>
+      <div class="widget">
+        <span class="widgetTitle">Our Projects</span>
+        <div id="repos"></div>
+      </div>
     </div>
     <div class="content">
       {{ content }}
     </div>
+    <div style="clear: both"></div>
+  </div>
+  <div class="copyright">
+    &copy HICapacity LLC 2012
   </div>
 </body>
 </html>

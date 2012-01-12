@@ -6,7 +6,7 @@ function populateProjects() {
   $.getJSON(url, function(json) {
     var repoCount = json.data.length;
     
-    var html = '<ul style="margin-bottom: 0px">'
+    var html = '<ul>'
     
     var indiciesUsed = []; // keep track of indicies used
     
@@ -22,12 +22,7 @@ function populateProjects() {
       // find the repository at the randomly selected index
       var repo = json.data[randomIndex.toString()];
       
-      if (i == 0 || i % 2 === 0) {
-        html += '<li class="altRow">'
-      }
-      else {
-        html += '<li>';
-      }
+      html += '<li>';
       
       html += '<a href="' + repo.html_url + '">' + repo.name + '</li>'
       indiciesUsed.push(randomIndex); // keep track of used index
@@ -36,7 +31,10 @@ function populateProjects() {
     html += '</ul>'
     
     // add link to all HICAP on github
-    html += '<a href="http://github.com/hicapacity" style="display: block; padding: 5px 0px 0px 2px">More Projects...</a>';
+    html += '<div style="float: right; display: block; padding-top: 5px">';
+    html += '<a href="http://github.com/hicapacity">More Projects...</a>';
+    html += '</div>';
+    html += '<div style="clear: both" />';
     
     $('#repos').html(html);
   })

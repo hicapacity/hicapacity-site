@@ -1,27 +1,37 @@
 body { 
-  font-family: sans-serif; font-size: 0.8em; padding-top: 40px; background: url('/img/bg.png'); 
+  font-family: "Lucida Sans Unicode", "Lucida Sans", Verdana, Helvetica, Arial, sans-serif;
+  font-size: 12px; 
+  padding-top: 40px; 
+  background-color: #353535;
+  background-image: url('/img/bg.png');
+  background-attachment: fixed;
 }
 
 .post {
   background: url('/img/content_bg.png');
   border-radius: 4px;
   font-size: 14px;
-  color: #BFBFBF;
-  text-shadow: 0px 1px 5px #222;
+  color: #E5E5E5;
+  /*text-shadow: 0px 1px 5px #222;*/
   margin-top: 20px;
   padding: 15px;
 }
 
-.post a:link { color: #A21A24; }
-.post a:hover { color: #A21A24; }
-.post a:visited { color: #A21A24; }
-.post a:active { color: #A21A24; }
+.post a:link { color: #c31f2b; text-shadow: 0px 1px 5px #000; }
+.post a:hover { color: #c31f2b; }
+.post a:visited { color: #c31f2b; }
+.post a:active { color: #c31f2b; }
+
+.post ul {
+  list-style-image: url('/img/red_bullet.png');
+}
 
 .postTitle {
   font-size: 28px;
   font-color: #EEEEEE;
   padding-bottom: 5px;
   line-height: 28px;
+  text-shadow: 0px 1px 5px #222;
 }
 
 .postTitle a:link { color: #EEEEEE; }
@@ -44,6 +54,7 @@ body {
 
 .widgetTitle {
   color: #EEEEEE;
+  font-family: sans-serif;
   font-size: 10px;
   font-weight: 500;
   letter-spacing: 0.3em;

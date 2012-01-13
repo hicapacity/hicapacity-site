@@ -1,6 +1,7 @@
 /* CSS for the Google Calendar events widget. */
 #events {
-  font: 12px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /*font: 12px "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+  font-family: "Lucida Sans Unicode", "Lucida Sans", Verdana, Helvetica, Arial, sans-serif;
   color: #777;
 }
 
@@ -23,13 +24,13 @@
 }
 .eventTitle  a:link {
   font-size: 11px;
-  color: #777; 
+  color: #A5A5A5;
   text-decoration: none;
-  font-weight: 700;
+  font-weight: 600;
 }      /* unvisited link */
-.eventTitle a:visited {color: #777;}  /* visited link */
+.eventTitle a:visited {color: #A5A5A5;}  /* visited link */
 .eventTitle a:hover {color: #999; text-decoration: underline;}  /* mouse over link */
-.eventTitle a:active {color: #777;}  /* selected link */
+.eventTitle a:active {color: #A5A5A5;}  /* selected link */
 
 .dateTimeInfo {
   color: #666;

@@ -18,10 +18,10 @@ body {
   box-shadow: 3px 3px 3px #333;
 }
 
-.postContent a:link { color: #c31f2b; }
-.postContent a:hover { color: #FFF; }
-.postContent a:visited { color: #c31f2b; }
-.postContent a:active { color: #c31f2b; }
+.postContent a:link { color: #b71c27; }
+.postContent a:hover { color: #FFF; text-decoration: none ; }
+.postContent a:visited { color: #b71c27; }
+.postContent a:active { color: #b71c27; }
 
 .post ul {
   list-style-image: url('/img/red_bullet.png');
@@ -69,6 +69,7 @@ body {
   border-radius: 4px;
   margin-top: 10px;
   padding: 10px;
+  box-shadow: 3px 3px 3px #333;
 }
 
 .socialMedia {

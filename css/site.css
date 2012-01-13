@@ -16,11 +16,11 @@ body {
   margin-top: 20px;
   padding: 15px;
 }
-
-.post a:link { color: #c31f2b; text-shadow: 0px 1px 5px #000; }
-.post a:hover { color: #c31f2b; }
-.post a:visited { color: #c31f2b; }
-.post a:active { color: #c31f2b; }
+/* c31f2b */
+.post a:link { color: #b41d28; text-shadow: 0px 1px 5px #000; font-weight: 400; }
+.post a:hover { color: #b41d28; font-weight: 400; }
+.post a:visited { color: #b41d28; font-weight: 400; }
+.post a:active { color: #b41d28; font-weight: 400; }
 
 .post ul {
   list-style-image: url('/img/red_bullet.png');

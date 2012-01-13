@@ -29,7 +29,7 @@
   font-weight: 600;
 }      /* unvisited link */
 .eventTitle a:visited {color: #A5A5A5;}  /* visited link */
-.eventTitle a:hover {color: #999; text-decoration: underline;}  /* mouse over link */
+.eventTitle a:hover {color: #888;}  /* mouse over link */
 .eventTitle a:active {color: #A5A5A5;}  /* selected link */
 
 .dateTimeInfo {

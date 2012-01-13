@@ -22,5 +22,5 @@
   font-weight: 400;
 }      /* unvisited link */
 #repos a:visited {color: #777;}  /* visited link */
-#repos a:hover {color: #999; text-decoration: underline;}  /* mouse over link */
+#repos a:hover {color: #888; text-decoration: underline;}  /* mouse over link */
 #repos a:active {color: #777;}  /* selected link */

@@ -34,7 +34,7 @@ Below are the rules of the competition. All members who paid early for their mem
 	<li>Previous membership is not required to redeem the prizes.</li>
 </ul>
 	<li>The t-shirts will be Asphalt and will look similar to the following: <a href="http://www.americanapparel.com/2001.html" target="_blank">http://www.americanapparel.com/2001.html</a></li>
-	<li>The competition will end 2359 HST, 16DEC2011.</li>
+	<li>The competition will end 2359 HST, 16JAN2012.<span style="color: #ff0000;">*</span></li>
 	<li>Multiple submissions are allowed.<span style="color: #ff0000;">*</span></li>
 	<li>Any amendments to rules will be posted to <a title="T-Shirt Competition Thread" href="https://groups.google.com/forum/#!topic/honolulu-makerspace/NwHSKMRU1Og" target="_blank">this</a> thread or this post, and can be made at any time. Please bear with us, it's our first one! (Edits will have a red asterisk. <span style="color: #ff0000;">*</span>)</li>
 	<li>For more information, email <a title="Email us!" href="maker@hicapacity.org">maker@hicapacity.org</a></li>

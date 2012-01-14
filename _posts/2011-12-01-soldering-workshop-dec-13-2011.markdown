@@ -4,6 +4,9 @@ title: Soldering Workshop December 13th
 wordpress_id: 754
 wordpress_url: http://hicapacity.org/?p=754
 date: 2011-12-01 21:09:12 -10:00
+author: Matthew Badeau
+categories: ['Electronics', 'Event', 'HI Capacity']
+tags: ['christmas', 'soldering']
 ---
 We'll be doing an incredibly fun beginner's soldering workshop led by Jeremy Chan. Jeremy Chan is an experienced electrical engineer working at the Hawaii Space Flight Laboratory.
 
@@ -40,7 +43,7 @@ This event is different than our free events. Your payment will help us cover th
 
 The workshop will be on December 13th at The Box Jelly. It will be at 7PM.
 
-Order your tickets through our EventBrite at <a href="http://solderingworkshop.eventbrite.com/">http://solderingworkshop.eventbrite.com/</a>
+Order your tickets through our EventBrite at <a href="http://solderingworkshop.eventbrite.com/">http://solderingworkshop.eventbrite.com/</a>
 
 &nbsp;
 

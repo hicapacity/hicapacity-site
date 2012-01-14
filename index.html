@@ -9,7 +9,7 @@ title: hicapacity.org
       <a href="{{ post.url }}">{{ post.title }}</a>
     </div>
     <div class="postInfo">
-      {{ post.date | date: "%B %e, %Y" }} by [author goes here]
+      {{ post.date | date: "%B %e, %Y" }} by {{ post.author }}
     </div>
     <div class="postHeaderRule"></div>
     <div class="postContent">

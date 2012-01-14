@@ -4,8 +4,11 @@ title: Microcontroller Mondays
 wordpress_id: 703
 wordpress_url: http://hicapacity.org/?p=703
 date: 2011-10-27 21:30:56 -10:00
+author: Matthew Badeau
+categories: ['Uncategorized']
+tags: ['arduino', 'microcontroller', 'microcontroller mondays']
 ---
-Good evening everyone! Unfortunately, I have been unable to make it to a lot of events lately including tonight's Kinect talk. (I heard it was packed though!) One of the things we've had planned for the past few weeks was Microcontroller Mondays. I haven't been able to make it, so I don't think a lot of you knew what it was or that it even existed. It's a slight adaptation from other Maker/Hackerspaces, if you've been to one before.
+Good evening everyone! Unfortunately, I haven't been unable to make it to a lot of events lately including tonight's Kinect talk. (I heard it was packed though!) One of the things we've had planned for the past few weeks was Microcontroller Mondays. I haven't been able to make it, so I don't think a lot of you knew what it was or that it even existed. It's a slight adaptation from other Maker/Hackerspaces, if you've been to one before.
 The idea behind our Microcontroller Mondays is that people show up with an electronics project they made, want to make or are currently in the process of making. On Mondays, it would be a hack night. Much like the programmers had a Saturday weekly meetup, this was intended for more of the hardware crowd to show off their projects and spread ideas. It's also more than just a show and tell, it's a hack night! We don't discriminate against the types of microcontrollers you'd like to hack. Anything that's cool and and exciting is welcome. Hell, even the uncool and boring is welcome.
 We've got tools such as soldering irons, helping hands, magnifying glasses. So you shouldn't have to bring any large tools. Here's a list of our tools: <a href="http://wiki.hicapacity.org/index.php?title=Wish_List" target="_blank">http://wiki.hicapacity.org/<wbr>index.php?title=Wish_List</wbr></a>
 

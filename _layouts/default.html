@@ -7,6 +7,7 @@
 <link rel="stylesheet" href="/css/site.css">
 <link rel="stylesheet" href="/css/events.css">
 <link rel="stylesheet" href="/css/github.css">
+<link rel="stylesheet" href="/css/customSelect.css">
 <script src="/js/jquery-1.7.1.min.js"></script>
 <script src="/js/less-1.1.3.min.js"></script>
 <script src="/js/bootstrap-dropdown.js"></script>
@@ -14,9 +15,12 @@
 <script src="/js/dateFormat.min.js"></script>
 <script src="/js/events.js"></script>
 <script src="/js/github.js"></script>
+<script src="/js/customSelect.jquery.js"></script>
 
 <script type="text/javascript">
   $(document).ready(function() {
+    $('.membershipSelect').customStyle();
+    
     populateEvents();
     populateProjects();
 
@@ -85,9 +89,8 @@
       </div>
       <div class="widget">
         <span class="widgetTitle">Mailing List</span>
-        <div style="padding: 5px">
-          <form style="margin-bottom:0px !important;" action="http://groups.google.com/group/honolulu-makerspace/boxsubscribe">
-            <div><input type="text" name="email" placeholder="Email" style="width: 175px;"></div>
+          <form action="http://groups.google.com/group/honolulu-makerspace/boxsubscribe">
+            <div><input type="text" name="email" placeholder="Email" style="width: 190px;"></div>
             <div style="width: 100%;">
               <div style="width: 45%; float:left; padding-top: 5px">
                 <input type="submit" name="sub" value="Subscribe">
@@ -98,8 +101,32 @@
             </div>
             <div style="clear:both;"></div>
           </form>
-        </div>
-      </div>  
+      </div>
+      <div class="widget">
+        <span class="widgetTitle">Membership</span>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="WUKL7QM723BC6">
+          <input type="hidden" name="on0" value="Select type">
+            <select name="os0" class="membershipSelect" style="width: 200px">
+              <option value="Standard">Standard : $35USD/Month</option>
+              <option value="Help us grow">Help us grow : $50USD/Month</option>
+            </select> 
+          <input type="hidden" name="currency_code" value="USD">
+          <div style="width: 100%;">
+            <div style="width: 20%; float:left; padding-top: 5px">
+              <input type="submit" name="submit" value="Join">
+            </div>
+            <div style="width:80%; float:right;">
+              <img src="/img/card_visa.png" style="padding-top: 2px"/>
+              <img src="/img/card_mastercard.png" style="padding-top: 2px"/>
+              <img src="/img/card_discover.png" style="padding-top: 2px"/>
+              <img src="/img/card_amex.png" style="padding-top: 2px"/>              
+            </div>
+          </div>
+          <div style="clear:both;"></div>          
+        </form>
+      </div>
       <div class="widget">
         <span class="widgetTitle">Upcoming Events</span>
         <div id="events">

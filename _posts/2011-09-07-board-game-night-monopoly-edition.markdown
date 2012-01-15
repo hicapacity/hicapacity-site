@@ -8,7 +8,7 @@ author: Peter Justeson
 categories: ['Uncategorized']
 tags: []
 ---
-<a href="http://hicapacity.org/wp-content/uploads/2011/07/igda.jpg"><img src="http://hicapacity.org/wp-content/uploads/2011/07/igda.jpg" alt="" width="200" height="150" class="imgLeft" /></a>
+<a href="http://hicapacity.org/wp-content/uploads/2011/07/igda.jpg" class="pirobox" rel="single" title="IGDA"><img src="http://hicapacity.org/wp-content/uploads/2011/07/igda.jpg" alt="" width="200" height="150" class="imgLeft" /></a>
 Like Monopoly, but can't stand how long it takes? Did you know there are official rules that make the game much shorter, but that you've probably never heard of?
 
 Come to IGDA Honolulu's Monopoly Edition of our regular board game nights and learn how to play Monopoly as it was intended - and in far less time than you thought possible! If that's not enough, there'll also be the Monopoly card game on hand!

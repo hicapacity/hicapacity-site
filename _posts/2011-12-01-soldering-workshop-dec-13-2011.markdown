@@ -20,7 +20,7 @@ After this lesson, you'll be ready to solder on your own.
 	<li>Basic soldering concepts and how-tos. We will be practicing on PCBs.</li>
 	<li>Then we will be building an LED Christmas tree!</li>
 </ul>
-<img src="http://dlnmh9ip6v2uc.cloudfront.net/images/products/09565-01.jpg" alt="Christmas LED Tree" width="600" height="600" />
+<a href="http://dlnmh9ip6v2uc.cloudfront.net/images/products/09565-01.jpg" class="pirobox" rel="single" title="Christmas LED Tree"><img src="http://dlnmh9ip6v2uc.cloudfront.net/images/products/09565-01.jpg" alt="Christmas LED Tree" width="400" height="400" /></a>
 
 It'll have blinky lights and will be a gift for you to take home! It's an ornament you can show off your DIY skills with your family, friends and coworkers.
 

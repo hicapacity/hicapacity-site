@@ -4,6 +4,9 @@ title: Startup Weekend Honolulu Recap
 wordpress_id: 498
 wordpress_url: http://hicapacity.org/?p=498
 date: 2011-09-25 11:36:41 -10:00
+author: Jason Axelson
+categories: ['HI Capacity', 'Programming']
+tags: ['hi capacity', 'honolulu', 'programming']
 ---
 <p style="float: left; "><img src="http://heartmycity.me/images/logo2.png" alt="HeartMyCity icon" /></p>Startup Weekend Honolulu was a blast. Over a 54 hour period we designed, developed and launched a (mostly) working website! I worked on <a href="http://heartmycity.me/">HeartMyCity</a>, we help people submit reports about their city, such as potholes, grafiti, and trash so that the city or other community members can fix it. It was a blast working with my team members Burt Lum (<a title="@bytemarks" href="https://twitter.com/#!/Bytemarks">@bytemarks</a>) and Patrick Kelly (<a title="@phlatphrog" href="https://twitter.com/#!/phlatphrog">@phlatphrog</a>) and I'm proud to report that we actually came in 2nd place! Over the weekend Patrick and I developed a functioning Android App and website while Burt worked on the business side of things.
 <blockquote>

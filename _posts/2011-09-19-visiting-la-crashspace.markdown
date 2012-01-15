@@ -4,6 +4,9 @@ title: Visiting LA Crashspace
 wordpress_id: 446
 wordpress_url: http://hicapacity.org/?p=446
 date: 2011-09-19 21:45:24 -10:00
+author: Austen Ito
+categories: ['HI Capacity']
+tags: ['makerspace']
 ---
 On a recent visit to the LA Crashspace, Steve Goldstein gave me a
 tour of the 1500 square foot space that included a conference room, multiple

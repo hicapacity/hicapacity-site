@@ -4,6 +4,9 @@ title: Arduino Night - October 11th
 wordpress_id: 611
 wordpress_url: http://hicapacity.org/?p=611
 date: 2011-10-02 14:02:53 -10:00
+author: Matthew Badeau
+categories: ['Electronics', 'Event']
+tags: ['arduino', 'arduino night', 'oceanit', 'processing']
 ---
 Another Arduino Night! Hooray!
 

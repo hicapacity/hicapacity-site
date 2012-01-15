@@ -4,8 +4,12 @@ title: "Board Game Night: Monopoly Edition"
 wordpress_id: 442
 wordpress_url: http://hicapacity.org/?p=442
 date: 2011-09-07 23:14:34 -10:00
+author: Peter Justeson
+categories: ['Uncategorized']
+tags: []
 ---
-Lik<a href="http://hicapacity.org/wp-content/uploads/2011/07/igda.jpg"><img class="alignright size-full wp-image-231" src="http://hicapacity.org/wp-content/uploads/2011/07/igda.jpg" alt="" width="200" height="150" /></a>e Monopoly, but can't stand how long it takes? Did you know there are official rules that make the game much shorter, but that you've probably never heard of?
+<a href="http://hicapacity.org/wp-content/uploads/2011/07/igda.jpg"><img src="http://hicapacity.org/wp-content/uploads/2011/07/igda.jpg" alt="" width="200" height="150" class="imgLeft" /></a>
+Like Monopoly, but can't stand how long it takes? Did you know there are official rules that make the game much shorter, but that you've probably never heard of?
 
 Come to IGDA Honolulu's Monopoly Edition of our regular board game nights and learn how to play Monopoly as it was intended - and in far less time than you thought possible! If that's not enough, there'll also be the Monopoly card game on hand!
 

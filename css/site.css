@@ -7,6 +7,7 @@ body {
   background-attachment: fixed;
 }
 
+/* CSS for the posts */
 .post {
   background: url('/img/content_bg.png');
   border-radius: 4px;
@@ -24,6 +25,15 @@ body {
 
 .post li {
   font-size: 13px;
+  color: #999;
+}
+
+.post h2 {
+  color: #888;
+}
+
+.post h3 {
+  color: #777;
 }
 
 .postContent a:link, .postContent a:active, .postContent a:visited { color:#b71c27; }
@@ -55,6 +65,27 @@ body {
   margin: 10px 0px 10px 0px;
 }
 
+.imgLeft {
+  float: left;
+  margin-right: 10px;
+  box-shadow: 1px 1px 2px #222;
+  border-radius: 2px;
+}
+
+.imgRight {
+  float: right;
+  margin-left: 10px;
+  box-shadow: 1px 1px 2px #222;
+  border-radius: 2px;
+}
+
+.imgCaption {
+  text-align: center;
+  font-style: italic;
+  color: #B71C27;
+}
+
+/* CSS for widgets */
 .widgetTitle {
   color: #EEEEEE;
   font-family: sans-serif;

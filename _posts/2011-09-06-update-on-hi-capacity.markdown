@@ -4,6 +4,9 @@ title: Update on HI Capacity
 wordpress_id: 435
 wordpress_url: http://hicapacity.org/?p=435
 date: 2011-09-06 22:24:53 -10:00
+author: Matthew Badeau
+categories: ['Uncategorized']
+tags: []
 ---
 Good evening, as some of you have noticed, we've got a new image showing up on the right side of the web page. That's our crowd-sourced funding widget! That will show you the current progress of our funding.
 

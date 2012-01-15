@@ -4,6 +4,9 @@ title: 3D INTERACTIVE PROGRAMMING FOR THE REST OF US - Hacking the Microsoft Kin
 wordpress_id: 638
 wordpress_url: http://hicapacity.org/?p=638
 date: 2011-10-14 01:15:43 -10:00
+author: Kyle Oba
+categories: ['Programming', 'Event']
+tags: []
 ---
 <strong>Kyle Oba will be leading a talk on October 27 at 6:30pm at The Box Jelly. This is a public event. You can <a href="http://hacking-the-kinect.eventbrite.com/">RSVP Here</a>.</strong>
 

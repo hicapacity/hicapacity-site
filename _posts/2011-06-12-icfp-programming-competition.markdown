@@ -4,6 +4,9 @@ title: ICFP Programming Competition
 wordpress_id: 203
 wordpress_url: http://hicapacity.org/?p=203
 date: 2011-06-12 21:03:25 -10:00
+author: Jason Axelson
+categories: ['Event', 'Programming']
+tags: []
 ---
 Attention all programmers! We're going to be hosting a kickoff for our entry in the International Conference on Functional Programming this coming Thursday, June 16th.
 

@@ -22,8 +22,9 @@
     populateEvents();
     populateProjects();
 
-    $('.socialMedia').twipsy({ 'placement': 'below' });
+    $('.socialMedia').twipsy({ 'placement': 'below' }); // tooltips for social media icons
     
+    // Setup lightbox
     $.piroBox_ext({
     	piro_speed : 700,
     	bg_alpha : 0.5,
@@ -31,6 +32,17 @@
     	piro_drag :false,
     	piro_nav_pos: 'bottom'
     });
+    
+    // Set the active page on the navigation page
+    var path = location.pathname.substring(1); // strip the slash in the beginning
+    path = path.replace(/\/$/, ""); // strip the trailing slash if it exists
+    
+    if ( path ) {
+      $('#nav a[href$="' + path + '"]').parent().addClass('active');
+    }
+    else {
+      $('#home').addClass('active');
+    }
   });
 </script>
 
@@ -58,20 +70,20 @@
     <div class="topbar-inner">
       <div class="container">
         <img src="/img/hicap_logo_sm.png" style="float:left; padding: 10px 10px 0px 10px"></img>
-        <ul class="nav">
-          <li class="active"><a href="#">Home</a></li>
-          <li><a href="#">Calendar</a></li>
+        <ul id="nav">
+          <li id="home"><a href="/">Home</a></li>
+          <li><a href="/calendar">Calendar</a></li>
           <li class="dropdown">
-            <a href="#" class="dropdown-toggle">Resources</a>
+            <a href="/resources" class="dropdown-toggle">Resources</a>
             <ul class="dropdown-menu">
-              <li><a href="#">Wiki</a></li>
-              <li><a href="#">Got Ideas?</a></li>
+              <li><a href="http://wiki.hicapacity.org/">Wiki</a></li>
+              <li><a href="http://bit.ly/hicapacity-moderator">Got Ideas?</a></li>
             </ul>
           </li>
-          <li><a href="#">Events</a></li>
-          <li><a href="#">Projects</a></li>
-          <li><a href="#">Membership</a></li>
-          <li><a href="#">About</a></li>
+          <li><a href="/events">Events</a></li>
+          <li><a href="/projects">Projects</a></li>
+          <li><a href="/membership">Membership</a></li>
+          <li><a href="/about">About</a></li>
         </ul>
         <form class="pull-left" action="">
           <input type="text" placeholder="Search" />

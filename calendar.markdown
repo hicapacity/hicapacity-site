@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: static
 title: HICapacity Calendar
 ---
 <div style="padding: 20px">

@@ -1,12 +1,7 @@
 ---
-layout: default
+layout: static
 title: About HICapacity
 ---
-<link href="/css/static.css" rel="stylesheet"></link>
-
-About
-=====
-<div class="postHeaderRule"></div>
 
 ### What is HI Capacity? ###
 #### _We're transforming dreamers into doers._ ####

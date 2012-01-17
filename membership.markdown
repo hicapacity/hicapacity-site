@@ -1,13 +1,7 @@
 ---
-layout: default
+layout: static
 title: Membership
 ---
-<link href="/css/static.css" rel="stylesheet"></link>
-
-Membership
-==========
-<div class="postHeaderRule"></div>
-
 There has been a lot of interest from HI Capacity members and the maker community to open a Makerspace. To keep the movement going, [The Box Jelly](http://theboxjelly.com/) has graciously allowed HI Capacity to create an interim Makerspace at it's location while we search for a more permanent home.
 
 We will be open on Monday, October 10th.

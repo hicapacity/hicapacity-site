@@ -1,13 +1,7 @@
 ---
-layout: default
+layout: static
 title: Projects
 ---
-<link href="/css/static.css" rel="stylesheet"></link>
-
-Projects
-==========
-<div class="postHeaderRule"></div>
-
 Current
 -------
 ### > Streetgrindz ###

@@ -8,19 +8,28 @@ body {
 }
 
 h1 {
-  color: #999;
+  color: #888;
+  text-shadow: 2px 2px 3px #222;
 }
 
 h2 {
-  color: #888;
+  color: #BBB;
+  text-shadow: 2px 2px 3px #222;
 }
 
 h3 {
-  color: #777;
+  color: #CCC;
+  text-shadow: 2px 2px 3px #222;
 }
 
 h4 {
-  color: #666;
+  color: #DDD;
+  text-shadow: 2px 2px 3px #222;
+}
+
+h5 {
+  color: #EEE;
+  text-shadow: 2px 2px 3px #222;
 }
 
 /* CSS for the posts */
@@ -52,7 +61,7 @@ h4 {
   color: #EEEEEE;
   padding-bottom: 5px;
   line-height: 28px;
-  text-shadow: 0px 1px 5px #222;
+  text-shadow: 2px 2px 5px #222;
 }
 
 .postTitle a:link { color: #EEEEEE; }

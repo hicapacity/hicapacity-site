@@ -25,3 +25,8 @@
 
 .content a:link, .content a:active, .content a:visited { color:#b71c27; }
 .content a:hover { color: #FFF; text-decoration: none; }
+
+.content hr {
+  color: #111;
+  border-bottom-color: #555;
+}

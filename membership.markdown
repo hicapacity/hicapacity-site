@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About HICapacity
+title: Membership
 ---
 <link href="/css/static.css" rel="stylesheet"></link>
 

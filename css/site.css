@@ -7,6 +7,22 @@ body {
   background-attachment: fixed;
 }
 
+h1 {
+  color: #999;
+}
+
+h2 {
+  color: #888;
+}
+
+h3 {
+  color: #777;
+}
+
+h4 {
+  color: #666;
+}
+
 /* CSS for the posts */
 .post {
   background: url('/img/content_bg.png');
@@ -26,14 +42,6 @@ body {
 .post li {
   font-size: 13px;
   color: #999;
-}
-
-.post h2 {
-  color: #888;
-}
-
-.post h3 {
-  color: #777;
 }
 
 .postContent a:link, .postContent a:active, .postContent a:visited { color:#b71c27; }

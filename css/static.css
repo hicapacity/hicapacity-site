@@ -1,0 +1,27 @@
+/* FOR USE ONLY WITH STATIC PAGES USING MARKDOWN. */
+.content {
+  background: url('/img/content_bg.png');
+  border-radius: 4px;
+  font-size: 13px;
+  color: #E5E5E5;
+  /*text-shadow: 0px 1px 5px #222;*/
+  margin-top: 20px;
+  padding: 15px;
+  box-shadow: 3px 3px 3px #333;
+}
+
+.content h1 {
+  font-size: 28px;
+  color: #EEEEEE;
+  padding-bottom: 5px;
+  line-height: 28px;
+  text-shadow: 0px 1px 5px #222;
+  font-weight: normal;
+}
+
+.content ul {
+  list-style-image: url('/img/red_bullet.png');
+}
+
+.content a:link, .content a:active, .content a:visited { color:#b71c27; }
+.content a:hover { color: #FFF; text-decoration: none; }

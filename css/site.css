@@ -164,10 +164,32 @@ a, a:focus {
 }
 
 .category {
-  background-color: #9f222d;
+  margin-top: 5px;
+  background-color: #901e28;
   color: #DDDDDD;
   border-radius: 3px;
   padding: 2px 10px 2px 10px;
-  font-size: 10px;
+  font-size: 11px;
   display: inline-block;
+  box-shadow: 1px 1px 1px #333;
+}
+
+.paginationWrapper {
+  position: relative;
+  float: left;
+  left: 50%;
+}
+
+#postPagination {
+  position: relative;
+  float: left;
+  left: -50%;
+  background: url('/img/widget_bg.png');
+  border-radius: 3px;
+}
+
+.pagination .active a {
+  display: inline-block;
+  box-shadow: 1px 1px 1px #222222 inset;
+  background-color: #A5A5A5;
 }

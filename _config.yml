@@ -4,3 +4,4 @@ permalink: pretty
 exclude: [Rakefile, README.md]
 rdiscount
   extensions: [smart]
+paginate: 3

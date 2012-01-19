@@ -1,7 +1,12 @@
 ---
-layout: static
+layout: default
 title: HICapacity Calendar
 ---
-<div style="padding: 20px">
-<iframe src="https://www.google.com/calendar/embed?src=hicapacity.org_vgo8qpscrk4hif3veoka112434%40group.calendar.google.com&ctz=Pacific/Honolulu" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<div class="post">
+<div id="loading"></div>
+<div id="calendar"></div>
+<div style="float:right">
+<a href="http://www.google.com/calendar/render?cid=https%3A%2F%2Fwww.google.com%2Fcalendar%2Ffeeds%2Fhicapacity.org_vgo8qpscrk4hif3veoka112434%2540group.calendar.google.com%2Fpublic%2Fbasic"><img src="/img/calendar_plus_en.png"></a>
+</div>
+<br style="clear: both" />
 </div>

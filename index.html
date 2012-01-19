@@ -15,6 +15,12 @@ title: HICapacity ~ Honolulu Makerspace
     <div class="postContent">
       {{ post.content }}
     </div>
+    <div>
+      {% for category in post.categories %}
+        <div class="category">{{ category }}</div>
+      {% endfor %}  
+    </div>
   </div>
   {% endfor %}  
 </div>
+ß

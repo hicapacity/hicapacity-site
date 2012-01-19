@@ -23,8 +23,9 @@ function populateEvents() {
       html += '</div>';
       
       // event date, start time, and end time
-      html += '<div class="dateTimeInfo">' + date + '<br/>';
-      html += '<span class="timeLabel">Start: </span>' + startTime + '</br>' + '<span class="timeLabel">End: </span>' + endTime;
+      html += '<div class="dateTimeInfo">' + '<span class="timeLabel">Date: </span>' + date + '<br/>';
+      //html += '<span class="timeLabel">Start: </span>' + startTime + '</br>' + '<span class="timeLabel">End: </span>' + endTime;
+      html += '<span class="timeLabel">Time: </span>' + startTime + " - " + endTime;
       html += '</div>';        
     })
     html += '</ul>';

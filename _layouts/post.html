@@ -12,4 +12,10 @@ layout: default
   <div class="postContent">
     {{ content }}
   </div>
+  <div>
+    <span class="postInfo">Posted in: </span>
+    {% for category in page.categories %}
+      <div class="category">{{ category }}</div>
+    {% endfor %}  
+  </div>
 </div>

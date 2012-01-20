@@ -12,7 +12,7 @@ tags: []
 
 Everyone is invited to a night of an interesting software development talk. You don't have to be a software professional to come and learn from some intriguing examples.
 <blockquote><em>But what is this all for?</em></blockquote>
-APIs are the way to leverage other services, not too much to chew off for someone trying to do something cool with programming, and a good way to get involved with something cool. So we're going to strive for a <strong>single-day hackathon every month</strong>.  At the start of next month, we'll be having a first ever API hackathon, "<strong>HI Consumption</strong>", featuring the FourSquare API and tentatively on <del>Sunday, November 6</del> <strong>(changed to) Saturday, November 5</strong>.
+APIs are the way to leverage other services, not too much to chew off for someone trying to do something cool with programming, and a good way to get involved with something cool. So we're going to strive for a <strong>single-day hackathon every month</strong>. At the start of next month, we'll be having a first ever API hackathon, "<strong>HI Consumption</strong>", featuring the FourSquare API and tentatively on <del>Sunday, November 6</del> <strong>(changed to) Saturday, November 5</strong>.
 
 Every month we're going to learn a new API, write some code, and think about how to use it or mash it up with other APIs to come up with something awesome.
 

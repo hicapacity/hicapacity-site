@@ -4,7 +4,7 @@ title: Arduino Night II on Tuesday, April 26th at Oceanit!
 wordpress_id: 11
 wordpress_url: http://wp.hicapacity.org/?p=11
 date: 2011-04-14 09:05:36 -10:00
-author: Shu Chen
+author: Shu Zong Chen
 categories: []
 tags: []
 ---

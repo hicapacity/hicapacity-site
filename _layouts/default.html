@@ -47,8 +47,16 @@
       $('#home').addClass('active');
     }
   });
-</script>
+  
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=247762308599581";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
 
+</script>
 <!-- Temporary custom OVERRIDES for bootstrap.css v1.4. When 2.0 comes out we shouldn't need this as it will provide an option to have a right sidebar. Bootstrap v1.4 only comes with a left sidebar option. -->
 <style type="text/css">
   .container-fluid > .sidebar {
@@ -68,6 +76,7 @@
 </head>
 
 <body>
+  <div id="fb-root"></div>
 <div class="topbar-wrapper" style="z-index: 5;">
   <div class="topbar" data-dropdown="dropdown" >
     <div class="topbar-inner">

@@ -188,8 +188,16 @@ a, a:focus {
   border-radius: 3px;
 }
 
+.pagination a {
+  color: #999999;
+}
+
+.pagination a:hover {
+  background-color: #EEEEEE;
+}
+
 .pagination .active a {
   display: inline-block;
   box-shadow: 1px 1px 1px #222222 inset;
-  background-color: #A5A5A5;
+  background-color: #EEEEEE;
 }

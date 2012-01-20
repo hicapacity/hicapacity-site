@@ -128,7 +128,8 @@ html .fc,
 .fc-widget-header,    /* <th>, usually */
 .fc-widget-content {  /* <td>, usually */
 	border: 1px solid #ccc;
-	background-color: #333333;
+	/*background-color: #333333;*/
+	background: url('/img/widget_bg.png');
 	}
 	
 .fc-state-highlight { /* <td> today cell */ /* TODO: add .fc-today to <th> */

@@ -36,6 +36,10 @@ a, a:focus {
   outline: none;
 }
 
+a:hover {
+  text-decoration: none;
+}
+
 /* CSS for the posts */
 .post {
   background: url('/img/content_bg.png');

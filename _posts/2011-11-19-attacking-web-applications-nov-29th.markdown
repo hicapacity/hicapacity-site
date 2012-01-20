@@ -10,7 +10,7 @@ tags: []
 ---
 Please RSVP on eventbrite: <a href="http://hicap-webattacks.eventbrite.com/">http://hicap-webattacks.eventbrite.com/</a>
 
-In this talk we'll discuss the technologies used in web applications and the security attacks they are often vulnerable to. We'll perform real attacks against vulnerable example programs that the audience can also attack to test their understanding as we go.  Some basic understanding of HTML and Javascript will be assumed, but you do not need to be a web wizard to follow along.
+In this talk we'll discuss the technologies used in web applications and the security attacks they are often vulnerable to. We'll perform real attacks against vulnerable example programs that the audience can also attack to test their understanding as we go. Some basic understanding of HTML and Javascript will be assumed, but you do not need to be a web wizard to follow along.
 
 Some of the topics we'll be covering:
 <ul>

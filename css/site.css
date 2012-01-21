@@ -195,6 +195,7 @@ a:hover {
 
 .pagination a {
   color: #999999;
+  border-right: none;
 }
 
 .pagination a:hover {
@@ -203,6 +204,6 @@ a:hover {
 
 .pagination .active a {
   display: inline-block;
-  box-shadow: 1px 1px 1px #222222 inset;
+  box-shadow: 0px 0px 4px #000 inset;
   background-color: #EEEEEE;
 }

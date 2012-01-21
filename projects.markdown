@@ -7,7 +7,7 @@ Current
 ### > Streetgrindz ###
 Web site, API, and mobile application(s) to locate food trucks in Hawaii.
 
-<a href="/img/wp-uploads/2011/08/streetgrindz-iphone-app.png" class="pirobox" rel="single" title="StreetGrindz iPhone App"><img src="/img/wp-uploads/2011/08/streetgrindz-iphone-app.png" width="300"></a>
+<a href="/img/wp-uploads/2011/08/streetgrindz-iphone-app.png" class="pirobox" rel="single" title="StreetGrindz iPhone App"><img src="/img/wp-uploads/2011/08/streetgrindz.png" width="250"></a>
 
 Github: [https://github.com/hicapacity/foodtrucks](https://github.com/hicapacity/foodtrucks)
 

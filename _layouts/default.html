@@ -56,6 +56,13 @@
     fjs.parentNode.insertBefore(js, fjs);
   }(document, 'script', 'facebook-jssdk'));
 
+  function getCommentNum() {
+      $.getJSON('https://graph.facebook.com/http://hicapacity.org{{ page.url }}', function(json) {
+        console.log(json);
+          alert(json);
+          alert(json.comments.count);
+      });
+  }
 </script>
 <!-- Temporary custom OVERRIDES for bootstrap.css v1.4. When 2.0 comes out we shouldn't need this as it will provide an option to have a right sidebar. Bootstrap v1.4 only comes with a left sidebar option. -->
 <style type="text/css">
@@ -190,7 +197,7 @@
     <div style="clear: both"></div>
   </div>
   <div class="copyright">
-    &copy HICapacity LLC 2012
+    &copy HICapacity LLC <script>document.write((new Date()).getFullYear())</script>
   </div>
 </body>
 </html>

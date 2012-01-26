@@ -153,6 +153,11 @@ a:hover {
 
 .widget input {
   line-height: 15px;
+  margin-bottom: 0px;
+}
+
+.widget select{
+  margin-bottom: 0px;
 }
 
 .socialMedia {

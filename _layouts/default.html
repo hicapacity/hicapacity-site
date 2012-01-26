@@ -3,7 +3,7 @@
 <head>
 <title>{{ page.title }}</title>
 
-<link rel="stylesheet" href="http://twitter.github.com/bootstrap/1.4.0/bootstrap.min.css">
+<link rel="stylesheet" href="/css/bootstrap.min.css">
 <link rel="stylesheet" href="/css/site.css">
 <link rel="stylesheet" href="/css/events.css">
 <link rel="stylesheet" href="/css/github.css">
@@ -12,7 +12,7 @@
 <script src="/js/jquery-1.7.1.min.js"></script>
 <script src="/js/less-1.1.3.min.js"></script>
 <script src="/js/bootstrap-dropdown.js"></script>
-<script src="/js/bootstrap-twipsy.js"></script>
+<script src="/js/bootstrap-tooltip.js"></script>
 <script src="/js/dateFormat.min.js"></script>
 <script src="/js/events.js"></script>
 <script src="/js/github.js"></script>
@@ -23,7 +23,7 @@
     populateEvents();
     populateProjects();
 
-    $('.socialMedia').twipsy({ 'placement': 'below' }); // tooltips for social media icons
+    $('.socialMedia').tooltip({ 'placement': 'bottom' }); // tooltips for social media icons
     
     // Setup lightbox
     $.piroBox_ext({
@@ -39,7 +39,7 @@
     path = path.replace(/\/$/, ""); // strip the trailing slash if it exists
     
     if ( path ) {
-      $('#nav a[href$="' + path + '"]').parent().addClass('active');
+      $('.nav a[href$="' + path + '"]').parent().addClass('active');
     }
     else {
       $('#home').addClass('active');
@@ -63,6 +63,7 @@
   }
 </script>
 <!-- Temporary custom OVERRIDES for bootstrap.css v1.4. When 2.0 comes out we shouldn't need this as it will provide an option to have a right sidebar. Bootstrap v1.4 only comes with a left sidebar option. -->
+<!--
 <style type="text/css">
   .container-fluid > .sidebar {
       position: absolute;
@@ -77,14 +78,14 @@
       margin-left: 0px;
   }
 </style>
-
+-->
 </head>
 
 <body>
 {% include navbar.html %}  
-<div class="container-fluid">
+<div class="fluid-container sidebar-right">
   {% include sidebar.html %}
-  <div class="content">
+  <div class="fluid-content">
     {{ content }}
   </div>
   <div style="clear: both"></div>

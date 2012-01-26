@@ -2,6 +2,8 @@
 layout: default
 title: HICapacity Calendar
 ---
+<script src="/js/hicap.calendar.js"></script>
+
 <div class="post">
 <div id="loading"></div>
 <div id="calendar"></div>

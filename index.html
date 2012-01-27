@@ -25,50 +25,34 @@ title: HICapacity ~ Honolulu Makerspace
   {% endfor %}
 </div>
 <!-- Pagination links -->
-<div class="paginationWrapper">
-  <div id="postPagination" class="pagination">
-    <ul>
-      {% if paginator.previous_page %}
-      <li class="prev">
-        {% if paginator.previous_page == 1 %}
-        <a href="/">&larr; Previous</a>
-        {% else %}
-        <a href="/page{{paginator.previous_page}}">&larr; Previous</a>
-        {% endif %}
-      </li>
-      {% else %}
-      <li class="prev disabled">
-        <a href="/">&larr; Previous</a>
-      </li>
-      {% endif %}
-    
-      {% if paginator.page == 1 %}
-        <li class="active"><a href="/">1</a></li>
-      {% else %}  
-        <li><a href="/">1</a></li>
-      {% endif %}
+<div class="pagerWrapper">
+  <!-- NOTE: Jekyll generates the pages newest to oldest. Page number increases when going to older posts. -->
+  <!-- This means that if Older is clicked we go to the next page. If Newer is clicked we go to the previous page. -->
+  <ul class="pager">
+    <!-- Older Link -->
+    {% if paginator.next_page %}
+    <li class="previous">
+      <a href="/page{{paginator.next_page}}">&larr; Older</a>
+    </li>
+    {% else %}
+    <li class="previous">
+      <span>&larr; Older</span>
+    </li>
+    {% endif %}
 
-      {% for count in (2..paginator.total_pages) %}
-        {% if count == paginator.page %}
-        <li class="active">
-          <a href="/page{{count}}">{{count}}</a>
-        </li>
-        {% else %}
-        <li>
-          <a href="/page{{count}}">{{count}}</a>
-        </li>
-        {% endif %}
-      {% endfor %}  
-
-      {% if paginator.next_page %}
-      <li class="next">
-        <a href="/page{{paginator.next_page}}">Next &rarr;</a>
-      </li>
+    <!-- Newer Link -->
+    {% if paginator.previous_page %}
+    <li class="next">
+      {% if paginator.previous_page == 1 %}
+      <a href="/">Newer &rarr;</a>
       {% else %}
-      <li class="next disabled">
-        <a href="#">Next &rarr;</a>
-      </li>
+      <a href="/page{{paginator.previous_page}}">Newer &rarr;</a>
       {% endif %}
-    </ul>
-  </div>
-</div>
+    </li>
+    {% else %}
+    <li class="next">
+      <span>Newer &rarr;</span>
+    </li>
+    {% endif %}
+  </ul>
+</div>  

@@ -167,7 +167,7 @@ a:hover {
 
 .copyright {
   width: 100%;
-  margin: 20px 0px 10px 0px;
+  margin: 10px 0px 10px 0px;
   text-align: center;
   color: #EEEEEE;
 }
@@ -184,32 +184,37 @@ a:hover {
   box-shadow: 1px 1px 1px #333;
 }
 
-.paginationWrapper {
-  position: relative;
-  float: left;
-  left: 50%;
+.pagerWrapper {
+  padding-top: 10px;
 }
 
-#postPagination {
-  position: relative;
-  float: left;
-  left: -50%;
-  background: url('/img/widget_bg.png');
-  border-radius: 3px;
+.pager {
+  margin-bottom: 10px;
 }
 
-.pagination a {
+.pager a {
+  border-radius: 4px;
+  background-color: transparent;
+  background-image: url('/img/widget_bg.png');
   color: #999999;
-  border-right: none;
 }
 
-.pagination a:hover {
-  background-color: #EEEEEE;
+.pager a:hover {
+  color: #EEEEEE;
 }
 
-.pagination .active a {
+.pager .previous span {
+  float: left;
+  border-radius: 4px;
+  background-image: url('/img/widget_bg.png');
   display: inline-block;
-  box-shadow: 0px 0px 4px #000 inset;
-  background-color: #EEEEEE;
+  padding: 6px 15px;
 }
 
+.pager .next span {
+  float: right;
+  border-radius: 4px;
+  background-image: url('/img/widget_bg.png');
+  display: inline-block;
+  padding: 6px 15px;
+}

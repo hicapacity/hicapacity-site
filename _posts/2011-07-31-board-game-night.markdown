@@ -8,7 +8,7 @@ author: Peter Justeson
 categories: ['Uncategorized']
 tags: []
 ---
-It's that time again! IGDA Honolulu is happy to announce the next Board Game Night!<a href="/img/wp-uploads/2011/07/igda.jpg" class="pirobox" rel="single" title="IGDA"><img class="imgLeft" src="http://hicapacity.org/wp-content/uploads/2011/07/igda.jpg" alt="" width="200" height="150" /></a>
+It's that time again! IGDA Honolulu is happy to announce the next Board Game Night!<a href="/img/wp-uploads/2011/07/igda.jpg" class="pirobox" rel="single" title="IGDA"><img class="imgLeft" src="http://hicapacity.org/img/wp-uploads/2011/07/igda.jpg" alt="" width="200" height="150" /></a>
 
 Monday, August 8th 7pm - 11pm
 Petals &amp; Beans

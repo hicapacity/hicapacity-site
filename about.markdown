@@ -1,6 +1,7 @@
 ---
 layout: static
 title: About HICapacity
+permalink: /about/
 ---
 
 ### What is HI Capacity? ###

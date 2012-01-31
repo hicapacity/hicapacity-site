@@ -1,6 +1,7 @@
 ---
 layout: default
 title: HICapacity Calendar
+permalink: /calendar/
 ---
 <script src="/js/hicap.calendar.js"></script>
 

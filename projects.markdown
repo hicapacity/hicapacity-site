@@ -1,6 +1,7 @@
 ---
 layout: static
 title: Projects
+permalink: /projects/
 ---
 Current
 -------

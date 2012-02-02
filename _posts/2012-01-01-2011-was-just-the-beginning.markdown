@@ -10,7 +10,7 @@ tags: []
 ---
 2011 was crazy. Everyone in HI Capacity pulled together and created a community of movers, shakers, and doers. Our community has transformed from a few guys in a taco shop to a growing collection of passionate people getting <del>sh</del> things done. Looking back on the year, it's amazing what HI Capacity has accomplished.
 <ul>
-	<li><a href="http://hicapacity.org/?s=arduino&amp;submit=Search">Arduino Nights</a></li>
+	<li><a href="http://hicapacity.org/search/?q=arduino">Arduino Nights</a></li>
 	<li><a href="http://hicapacity.org/2011/10/17/first-public-night-foursquare-api-night/">Programming nights</a></li>
 	<li><a href="http://hicapacity.org/2011/11/19/attacking-web-applications-nov-29th/">Technical Talks</a></li>
 	<li><a href="http://hicapacity.org/2011/10/14/3d-interactive-programming-for-the-rest-of-us-hacking-the-microsoft-kinect-sensor/">Kinect Workshops</a></li>

@@ -99,6 +99,15 @@ a:hover {
   /*color: #b71c27;*/
 }
 
+.postComments {
+  padding-left: 5px;
+  font-style: normal;
+  margin-top: 5px;
+  color: #DDDDDD;
+  font-size: 11px;
+}
+.postComments:hover { color: #AAAAAA; text-decoration: none; text-shadow: none; }
+
 .postHeaderRule {
   background: url('/img/post_hr.png');
   width: 100%;

@@ -44,15 +44,28 @@
     else {
       $('#home').addClass('active');
     }
-  });
-
-  function getCommentNum() {
+    
+    function getCommentNum() {
       $.getJSON('https://graph.facebook.com/http://hicapacity.org{{ page.url }}', function(json) {
         console.log(json);
           alert(json);
           alert(json.comments.count);
       });
-  }
+    }
+    
+    $('.postComments').each(function(index) {
+      var element = $(this); // keep the element in scope!
+      var page_url = 'http://hicapacity.org' + $(this).attr('id');
+      $.getJSON('https://graph.facebook.com/' + page_url, function(json) {
+        console.log(json);
+          var comments = 0;  
+          if (json.comments !== undefined) {
+            comments = json.comments;
+          }
+          element.html('Comments (' + comments + ')');
+      });
+    });
+  });
 </script>
 </head>
 

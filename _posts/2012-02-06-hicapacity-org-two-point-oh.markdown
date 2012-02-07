@@ -14,4 +14,4 @@ Take a look at the content on most sites. What actually warrants a backend datab
 Read about Jekyll here - [https://github.com/mojombo/jekyll](https://github.com/mojombo/jekyll)
 
 ### Presentation by Julie
-Take time out of your day to come to Julie's presentation about Jekyll on Thursday, February 9, 2012.
+Take time out of your day to come to Julie's presentation about Jekyll on Thursday, February 9, 2012 - 7 PM at the makerspace.

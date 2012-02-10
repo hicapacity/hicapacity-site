@@ -8,6 +8,7 @@ and we are currently migrating.
 Install it..
 
     $ gem install jekyll
+    $ gem install rdiscount
 
 Run the site locally:
 

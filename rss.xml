@@ -4,15 +4,15 @@ layout: nil
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HiCapacity</title>
+    <title>HI Capacity</title>
     <link>http://hicapacity.org/</link>
     <image>
       <url>http://hicapacity.org/img/hicap_logo_sm.png</url>
-      <title>HiCapacity</title>
+      <title>HI Capacity</title>
       <link>http://hicapacity.org/</link>
     </image>
-    <atom:link href="http://hicapcity.org/rss.xml" rel="self" type="application/rss+xml" />
-    <description>HiCapacity - Honolulu Makerspace</description>
+    <atom:link href="http://hicapacity.org/rss.xml" rel="self" type="application/rss+xml" />
+    <description>HI Capacity - Honolulu Makerspace</description>
     <language>en-us</language>
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>

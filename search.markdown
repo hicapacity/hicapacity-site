@@ -3,6 +3,13 @@ layout: static
 title: Search Results
 permalink: /search/
 ---
+<script type="text/javascript">
+  $(function() {
+    var query = $.getUrlVar('q');
+    query = query.replace(/\+/g,  " ");
+    $('#terms').append('<strong>' + decodeURIComponent(query) + '</strong>');
+  });
+</script>
 <script>
   $.extend({
     getUrlVars: function(){
@@ -52,4 +59,5 @@ $.getJSON('https://www.googleapis.com/customsearch/v1?key=' + key + '&cx=0093438
 }
 </script>
 
+<div id="terms">Showing results for: </div>
 <div id="results"></div>

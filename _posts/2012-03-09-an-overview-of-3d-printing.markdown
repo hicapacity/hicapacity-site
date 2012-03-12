@@ -17,4 +17,4 @@ Address: 307c Kamani St Honolulu, HI 96813
 Look for the "The Box Jelly" sign (or the Fishcake sign).
 Street parking is available and there is also parking at Sports Authority (owned by the same land owner).
 
-Please RSVP on EventBrite: http://hicap-3d-overview.eventbrite.com/
+Please RSVP on EventBrite: [http://hicap-3d-overview.eventbrite.com/](http://hicap-3d-overview.eventbrite.com/)

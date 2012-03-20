@@ -45,17 +45,10 @@
       $('#home').addClass('active');
     }
     
-    function getCommentNum() {
-      $.getJSON('https://graph.facebook.com/http://hicapacity.org{{ page.url }}', function(json) {
-        console.log(json);
-          alert(json);
-          alert(json.comments.count);
-      });
-    }
-    
+    // Insert post comment counts
     $('.postComments').each(function(index) {
       var element = $(this); // keep the element in scope!
-      var page_url = 'http://hicapacity.org' + $(this).attr('id');
+      var page_url = element.attr('data-url');
       $.getJSON('https://graph.facebook.com/' + page_url, function(json) {
         console.log(json);
           var comments = 0;  
@@ -64,6 +57,15 @@
           }
           element.html('Comments (' + comments + ')');
       });
+    });
+    
+    // Insert urls for share links
+    $('.postShare').each(function(index) {
+      var element = $(this); // keep the element in scope!
+      var share_link = encodeURIComponent(element.attr('data-url'));
+      var share_title = encodeURIComponent(element.attr('title'));
+      var url = "http://www.facebook.com/sharer.php?u=" + share_link + "&t=" + share_title;
+      element.attr('href', url);
     });
   });
 </script>

@@ -108,6 +108,14 @@ a:hover {
 }
 .postComments:hover { color: #AAAAAA; text-decoration: none; text-shadow: none; }
 
+.postShare {
+  float: right;
+  font-style: normal;
+  margin-top: 5px;
+  font-size: 11px;
+}
+.postShare:hover { color: #002280; text-decoration: none; text-shadow: none; }
+
 .postHeaderRule {
   background: url('/img/post_hr.png');
   width: 100%;

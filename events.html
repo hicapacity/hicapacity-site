@@ -11,6 +11,8 @@ permalink: /events/
     </div>
     <div class="postInfo">
       {{ post.date | date: "%B %e, %Y" }} by {{ post.author }}
+      <a href="http://hicapacity.org{{ post.url }}#comments" data-url="http://hicapacity.org{{ post.url }}" class="postComments"></a>
+      <a href="" title="{{ post.title }}" data-url="http://hicapacity.org{{ post.url }}" class="postShare">Share on Facebook</a>
     </div>
     <div class="postHeaderRule"></div>
     <div class="postContent">

@@ -1,0 +1,20 @@
+---
+---
+{
+  "posts" : [
+    {% for post in site.posts limit:20 %}
+    "post" : {
+      "title" : "{{ post.title }}",
+      "link" : "http://hicapacity.org{{ post.url }}",
+      "date" : "{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}",
+      "author" : "{{ post.author }}",
+      "categories" : {{ post.categories | json }},
+      "tags" : {{ post.tags | json }},
+      "content" : {{ post.content | json }}
+    }
+    {% if post != site.posts[19] %}
+      ,
+    {% endif %}
+    {% endfor %}
+  ]
+}

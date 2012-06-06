@@ -7,7 +7,11 @@ permalink: /about/
 ### What is HI Capacity? ###
 #### _We're transforming dreamers into doers._ ####
 
-![Arduino](http://farm6.static.flickr.com/5229/5663399761_b31f4c1aa2_z.jpg)
+<!-- ![Arduino](http://farm6.static.flickr.com/5229/5663399761_b31f4c1aa2_z.jpg) -->
+<div style="padding: 5px 0 5px 0">
+<iframe width="560" height="315" src="http://www.youtube.com/embed/LqFuv1QGxs0?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+The video above shows HI Capacity's humble beginnings. Even though we have moved to a new space, the goal of HI Capacity remains unchanged. Listen to co-founders Matthew Badeau, Austen Ito, and Jason Axelson talk about what HI Capacity is and what they hope HI Capacity accomplishes.
 
 We've been meeting a lot of people in the community over the past few weeks. Whether it was at the [Hawaii Geek Meet](http://hawaiigeek.com/), or our first/[second](http://www.facebook.com/media/set/fbx/?set=a.150614461670608.37454.138211559577565) electronic Arduino night, we often hear people asking what exactly is a Hackerspace?  We know the name sounds extremely intimidating &mdash; shoot, it even intimidates us at times!  We wanted to clear up the confusion on what exactly we are and what we're trying to do on Oahu.
 

@@ -2,7 +2,7 @@
 layout: post
 title: OUDL - Introduction to Machine Learning
 date: 2012-06-18 23:30:00 -10:00
-author: Jason Axelson
+author: Kyle Oba
 categories: ['Event']
 tags: []
 ---

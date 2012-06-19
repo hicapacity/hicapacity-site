@@ -1,0 +1,38 @@
+--- 
+layout: post
+title: OUDL - Introduction to Machine Learning
+date: 2012-06-18 23:30:00 -10:00
+author: Jason Axelson
+categories: ['Event']
+tags: []
+---
+Kevin McCarthy will present a gentle introduction to Machine Learning.
+
+Note day and location change, just for this meeting.
+
+Tuesday, 6/26, 7pm - Interisland Terminal R/D
+
+691 Auahi St., Honolulu, HI 96813 - [http://goo.gl/maps/aTvk](http://goo.gl/maps/aTvk)
+
+RSVP Here: [http://www.meetup.com/dynamic/events/69285152/](http://www.meetup.com/dynamic/events/69285152/)
+
+Have you ever wished your computer could do more than what you tell it to do explicitly?  Maybe you want to write a recommendation engine like the one Amazon and Netflix use to recommend similar products, or maybe you just want to build Skynet. The goal of this talk is to give a broad but shallow overview of machine learning techniques and applications.  Topics covered will (probably) include:
+
+* What is machine learning?
+* Supervised vs unsupervised machine learning
+* Linear Regression
+* Partitioning your data into training, test, and cross-validation sets
+* Bias/variance tradeoff
+* Regularization
+* Logistic Regression
+* Clustering
+* Brief overview of more advanced algorithms such as neural networks and support vector machines
+* Advanced applications such as digit recognition and collaborative filtering
+
+Should be fun!
+
+More on Machine Learning:
+
+Machine learning, a branch of artificial intelligence, is a scientific discipline concerned with the design and development of algorithms that allow computers to evolve behaviors based on empirical data, such as from sensor data or databases. A learner can take advantage of examples (data) to capture characteristics of interest of their unknown underlying probability distribution. Data can be seen as examples that illustrate relations between observed variables. A major focus of machine learning research is to automatically learn to recognize complex patterns and make intelligent decisions based on data; the difficulty lies in the fact that the set of all possible behaviors given all possible inputs is too large to be covered by the set of observed examples (training data). Hence the learner must generalize from the given examples, so as to be able to produce a useful output in new cases.
+
+From Wikipedia

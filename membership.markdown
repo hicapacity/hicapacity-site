@@ -23,12 +23,13 @@ Certain evenings will be closed due to Box Jelly events. We will notify you in a
 * Comfortable chairs and tables.
 * Whiteboards.
 * A community of people that want to do things!
+* Check out the [perks](/perks) page for more details.
 
 **Monthly Dues**
 
-$35/month &mdash; Basic membership, which includes access to the space.
+$50/month &mdash; Basic membership, which includes access to the space.
 
-$50/month &mdash; This includes basic membership and a personal web page on the hicapacity.org subdomain. You can advertise your membership or talk about your projects! Your additional contribution will go towards opening a larger Makerspace and equipment. By contributing a little more, you can help our Makerspace grow even faster!
+$75/month &mdash; This includes basic membership, a HI Capacity email address, and a personal web page on the hicapacity.org subdomain. You can advertise your membership or talk about your projects! Your additional contribution will go towards opening a larger Makerspace and equipment. By contributing a little more, you can help our Makerspace grow even faster!
 
 
 <div> <!-- Membership Widget -->

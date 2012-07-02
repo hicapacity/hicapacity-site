@@ -34,11 +34,11 @@ $50/month &mdash; This includes basic membership and a personal web page on the 
 <div> <!-- Membership Widget -->
   <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
     <input type="hidden" name="cmd" value="_s-xclick">
-    <input type="hidden" name="hosted_button_id" value="WUKL7QM723BC6">
+    <input type="hidden" name="hosted_button_id" value="HMFEJ9YAEPYB6">
     <input type="hidden" name="on0" value="Select type">
       <select name="os0" style="width: 200px; height: 25px;" id="normalSelect">
-        <option value="Standard">Standard : $35USD/Month</option>
-        <option value="Help us grow">Help us grow : $50USD/Month</option>
+        <option value="Standard">Standard : $50USD/Month</option>
+        <option value="Help us grow">Help us grow : $75USD/Month</option>
       </select> 
     <input type="hidden" name="currency_code" value="USD">
     <div style="width: 100%;">

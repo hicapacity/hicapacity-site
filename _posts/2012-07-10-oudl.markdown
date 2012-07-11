@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: OUDL - Git and GitHub ~ A lovely combination
+date: 2012-07-10 20:00:00 -10:00
+author: Kyle Oba
+categories: ['Event']
+tags: []
+---
+Git has rapidly become the standard in distributed source control. Find out how to use it, and while we're at at, what's this GitHub stuff all about?
+
+Jason Axelson ([http://hicapacity.org](http://hicapacity.org)) will introduce you to the Git version control system. He'll also cover GitHub, and how you can begin using it today.
+
+If there's time after the talk, we can take questions and perhaps share some l337 hax0r Git tips among the crowd. Also, consider this a good segue to our GitHub speaker in September.
+
+RSVP: [http://www.meetup.com/dynamic/events/72498612/](http://www.meetup.com/dynamic/events/72498612/)
+
+Tuesday, July 17, 2012 @ 7:00 PM
+
+The Box Jelly - 307c Kamani Street ([map](http://bit.ly/fishcake))

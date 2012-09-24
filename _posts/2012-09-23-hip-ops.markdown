@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Hip Ops with Rob
+date: 2012-09-23 19:45:00 -10:00
+author: Kyle Oba
+categories: ['Event']
+tags: []
+---
+
+<img src="http://photos3.meetupstatic.com/photos/event/3/6/0/8/event_161773832.jpeg"></img>
+
+Rob will present his approach to treating Infrastructure as Code, in which he will speak about deploying complex services to the cloud using Ruby and Chef.
+
+Rob Berger is a founder and the CTO of Runa Inc., an early stage start-up developing a Software as a Service for online merchants. Runa increases conversion of shoppers while on the merchant's site using real-time, individualized promotions.
+
+At Runa, Rob is leading an agile development effort that is pushing the state-of-the-art in personalization, service scaling, statistical / semantic processing and ajax technologies. Their system architecture includes the use of HBase/Hadoop, Clojure, Swarmiji, AMQP/RabbitMQ, Redis and Opscode Chef.
+
+Rob is also the President and Founder of Internet Bandwidth Development, a consultancy focusing on providing technology consulting specializing in backbone networks, access networks, wireless networks, and innovative Internet/Web applications and services. IBD has provided services to technology start-ups, top names in Internet hardware and software, as well as venture capital firms, including Panorama Capital, SkyPilot Networks, VISA, Cisco, Ascend, iPass, and Oki Networks.
+
+RSVP: [http://www.meetup.com/dynamic/events/81091042/](http://www.meetup.com/dynamic/events/81091042/)
+
+Tuesday, October 2, 2012 @ 7:00 PM
+
+The Box Jelly - 307a Kamani Street ([map](http://bit.ly/fishcake))

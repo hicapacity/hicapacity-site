@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Knitting night on Wednesday 10/24 at 6pm
-date: 2012-10-13 18:00:00 -10:00
+date: 2012-10-17 18:00:00 -10:00
 author: Jason Axelson
 categories: ['Event']
 tags: []

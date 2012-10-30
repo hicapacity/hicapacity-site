@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Node.js Introduction 2012 Version
+date: 2012-10-29 18:00:00 -10:00
+author: James Wang
+categories: ['Event']
+tags: []
+---
+
+Node.js intro from James Wang (Hicap). Let's take a look at this powerful framework of server side Javascript and how certain businesses are taking advantage of this technology for scalable realtime web and mobile solutions. There will be lots of code.
+
+Another reason for this event is the upcoming hackathon Node Knockout November 10-12. Let's get ready and let people know what Hawaii is capable of!
+
+RSVP:
+[http://www.meetup.com/dynamic/events/89065182/](http://www.meetup.com/dynamic/events/89065182/)
+
+When: Thursday, November 1st @ 7pm
+
+Where: HI Capacity - 307a Kamani Street, Honolulu, HI ([map](https://maps.google.com/maps?q=307a+Kamani+St.+,+Honolulu,+HI))

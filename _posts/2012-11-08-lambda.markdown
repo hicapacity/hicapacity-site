@@ -1,0 +1,38 @@
+--- 
+layout: post
+title: The Lambda Calculus - An Introduction
+date: 2012-11-08 11:10:00 -10:00
+author: Kyle Oba
+categories: ['Event']
+tags: []
+---
+
+<img src="http://photos1.meetupstatic.com/photos/event/6/0/6/a/event_178044682.jpeg"></img>
+
+LISP is awesome. No, stop laughing. Haskell is awesome too. Both are notable for the way that they expand your way of thinking about computation.
+
+Lambda Calculus lies at the core of these two styles of programming. Come out and hear Tim Newsham introduce us to these interesting and mind-expanding ideas.
+
+-- Ways to learn more --
+Wikipedia:
+
+[http://en.wikipedia.org/wiki/Lambda_calculus](http://en.wikipedia.org/wiki/Lambda_calculus)
+
+Online tutorial:
+
+[http://classes.soe.ucsc.edu/cmps112/Spring03/readings/lambdacalculus/project3.html](http://classes.soe.ucsc.edu/cmps112/Spring03/readings/lambdacalculus/project3.html)
+
+A painless tutorial:
+
+[http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf](http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf)
+
+A Game:
+
+[http://worrydream.com/AlligatorEggs/](http://worrydream.com/AlligatorEggs/)
+
+RSVP on Meetup:
+[http://www.meetup.com/dynamic/events/89262352/](http://www.meetup.com/dynamic/events/89262352/)
+
+When: Thursday, November 8 @ 7pm
+
+Where: HI Capacity - 307a Kamani Street, Honolulu, HI ([map](https://maps.google.com/maps?q=307a+Kamani+St.+,+Honolulu,+HI))

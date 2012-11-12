@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: How to build an HTTP-compliant server/client
+date: 2012-11-12 11:32:00 -10:00
+author: Kyle Oba
+categories: ['Event']
+tags: []
+---
+
+<img src="http://photos4.meetupstatic.com/photos/event/6/0/9/c/event_178044732.jpeg"></img>
+
+Ever wonder what's going on under the hood of your internet-connected devices? Like, how browsers talk to web servers? Shu Chen will spend an evening showing us the ins and outs of the HTTP protocol. This sessions is sure to enlighten and amuse the hacker in all of us.
+
+RSVP on Meetup:
+[http://www.meetup.com/dynamic/events/89262592/](http://www.meetup.com/dynamic/events/89262592/)
+
+When: Thursday, November 15 @ 7pm
+
+Where: HI Capacity - 307a Kamani Street, Honolulu, HI ([map](https://maps.google.com/maps?q=307a+Kamani+St.+,+Honolulu,+HI))

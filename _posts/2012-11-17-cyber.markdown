@@ -1,0 +1,33 @@
+--- 
+layout: post
+title: Cyber security talk by HI Capacity member Tony Dow on Tuesday Nov 28 6pm
+date: 2012-11-17 11:00:00 -10:00
+author: Jason Axelson
+categories: ['Event']
+tags: []
+---
+
+The talk is titled Attack Methodologies for Overlooked Security Mistakes and will cover common mistakes that weaken our security posture.  From patching overlooked applications to securing Windows passwords, Tony will discuss mitigation techniques as well as a look into the methodologies used by attackers to exploit these vulnerabilities such as local exploits via spear-phishing and SNMP enumeration. There will be a discussion afterward. There will also be some free snacks!
+
+The talk will be held on 28 November 2012, 6:00pm (doors open at 5:30)
+
+Register on:
+[http://www.cyber50.org/attack-methodologies](http://www.cyber50.org/attack-methodologies)
+
+Address:
+
+Referentia Systems Incorporated
+
+Cyber Collaboration Center
+
+155 Kapalulu Place, Suite 200
+
+Honolulu, HI 96819
+
+Here's the map for directions and parking:
+
+[http://www.cyber50.org/map/Referentia%20Map%20-%20155%20Kapalulu%20Place%20-%20Event%20Entrance.pdf](http://www.cyber50.org/map/Referentia%20Map%20-%20155%20Kapalulu%20Place%20-%20Event%20Entrance.pdf)
+
+I hope to see you there,
+
+Jason

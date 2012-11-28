@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: TData Mining for Fun & Profit
+title: Data Mining for Fun & Profit
 date: 2012-11-27 22:00:00 -10:00
 author: Kyle Oba
 categories: ['Event']

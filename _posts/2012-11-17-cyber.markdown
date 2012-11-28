@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Cyber security talk by HI Capacity member Tony Dow on Tuesday Nov 28 6pm
+title: Cyber security talk by HI Capacity member Tony Dow on Wednesday Nov 28 6pm
 date: 2012-11-17 11:00:00 -10:00
 author: Jason Axelson
 categories: ['Event']
@@ -31,3 +31,5 @@ Here's the map for directions and parking:
 I hope to see you there,
 
 Jason
+
+EDIT: The event was originally posted as being on Tuesday November 28. The date is correct but the day of the week has been amended to WEDNESDAY.

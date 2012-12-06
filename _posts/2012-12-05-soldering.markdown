@@ -32,6 +32,14 @@ This event is different than our free events. Your payment will help us cover th
 - The LED Christmas tree ornament costs roughly $20 with shipping
 - Any remaining profit will directly towards improving our current and future Makerspace.
 
+__RSVP on Eventbrite:__
+ 
+[http://solderingworkshop.eventbrite.com/](http://solderingworkshop.eventbrite.com/)
+
+__Location/Time__
+ 
+The workshop will be held at HI Capacity at 307a Kamani St, 96813 on Dec 12th at 7pm.
+
 __Parking Tips__
 
 At HI Capacity, there will be street parking available, although it is limited. You can park at the Sports Authority across the street. Questions can be directed to maker@hicapacity.org.

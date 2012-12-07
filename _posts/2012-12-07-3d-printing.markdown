@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: 3D Printing Workshop
+date: 2012-12-07 09:00:00 -10:00
+author: Jason Axelson
+categories: ['Event']
+tags: []
+---
+We would like to invite you to HI Capacity's first annual Christmas Ornament Making Workshop using our 3D printer. Come learn about 3D printing technology and decorate a Christmas ornament to take home or give away as a gift.
+
+Go from this...
+
+<img src="https://evbdn.eventbrite.com/s3-s3/eventlogos/14288055/makerbot.jpg"></img>
+
+To this...
+
+<a href="https://evbdn.eventbrite.com/s3-s3/eventlogos/14288055/2012120419.12.06.jpg" class="pirobox" rel="single" title="3D Printed Ornament">
+  <img src="https://evbdn.eventbrite.com/s3-s3/eventlogos/14288055/2012120419.12.06.jpg" width="25%"></img>
+</a>
+
+__When:__ Saturday, December 8, 2012 from 1:00pm - 4:00pm
+
+__Where:__ HI Capacity (in the Box Jelly), 307a Kamani Street Honolulu, 96813. (Please park on Ward Ave, Kamani street, or surrounding street parking).
+
+If you have any questions please email maker@hicapacity.org or call Marion at 398-6520.
+
+Register for this event now at :
+[http://3d-ornament-rss.eventbrite.com](http://3d-ornament-rss.eventbrite.com)

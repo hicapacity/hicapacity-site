@@ -6,6 +6,10 @@ author: Jason Axelson
 categories: ['Event']
 tags: []
 ---
+
+As seen on KITV 4:
+[http://www.kitv.com/news/thismorning/Learn-how-you-can-make-3D-Christmas-ornaments/-/16414272/17694524/-/8nc13gz/-/index.html](http://www.kitv.com/news/thismorning/Learn-how-you-can-make-3D-Christmas-ornaments/-/16414272/17694524/-/8nc13gz/-/index.html)
+
 We would like to invite you to HI Capacity's first annual Christmas Ornament Making Workshop using our 3D printer. Come learn about 3D printing technology and decorate a Christmas ornament to take home or give away as a gift.
 
 Go from this...

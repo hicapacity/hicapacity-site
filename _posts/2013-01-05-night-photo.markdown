@@ -1,23 +1,31 @@
 --- 
 layout: post
-title: Night Photography 101
-date: 2013-01-05 01:00:00 -10:00
+title: Night Photography at Mokuleia
+date: 2013-01-09 22:00:00 -10:00
 author: Jason Axelson
 categories: ['Event']
 tags: []
 ---
 
-<img src="http://i813.photobucket.com/albums/zz51/armendaskinner/aurora-borealis-lake-yabbedoo_zps32e93119-1_zpsf08d3c44.jpg" width="50%"></img>
+<img src="http://i429.photobucket.com/albums/qq13/Phoenix_Jackson/DSLR%20Journey/NotCropped.jpg" width="30%"></img>
 
 
-Bob Matcuk will talk about preparing your camera settings to take photos at night. Please bring your camera and a tripod (if you have one). We will be taking practice photos outside after the talk. This introductory talk is to prepare us for our night photography project that will take place over the next few months.
+Aloha, 
+Join us this Friday for our first Night Photography session following our first Night Photography 101 talk this past Tuesday evening.
 
-So, please join us and learn more about night photo so you can help us with a collaborative art and arduino project. We will share details at the event.
-Parking may be hard to find on Kamani street, so please consider parking at the Sports Authority Parking Lot (off of Ward Ave.) 
+A bunch of us will be meeting at 6pm to grab some food together around the Ward area. We'll then meet up at HI Capacity around 7:30pm to grab our camera equipment and then leave from here. 
+You can park at Sports Authority if you plan to join up for dinner at 6pm but before we head out to North shore you should probably plan on moving your car to the street if you will not be driving.
 
-RSVP on Eventbrite:
-[http://hicapnightphoto1-rss.eventbrite.com](http://hicapnightphoto1-rss.eventbrite.com)
+If you have any questions or concerns, please contact <a href=mailto:marion@hicapacity.org>marion@hicapacity.org</a>
+ 
+What to bring:
 
-When: Tuesday, January 8 @ 8:00pm
-
-Where: HI Capacity - 307a Kamani Street, Honolulu, HI ([map](https://maps.google.com/maps?q=307a+Kamani+St.+,+Honolulu,+HI))
+* Camera
+* Tripod
+* Jacket (waterproof)
+* Sweater
+* Jeans (advised)
+* Headlamp or flashlight
+* Toilet Paper
+* Food
+* Drinks

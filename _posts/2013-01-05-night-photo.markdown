@@ -29,3 +29,6 @@ What to bring:
 * Toilet Paper
 * Food
 * Drinks
+
+RSVP on Eventbrite:
+[http://www.eventbrite.com/event/5199971254](http://www.eventbrite.com/event/5199971254)

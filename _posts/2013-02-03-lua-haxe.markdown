@@ -1,0 +1,66 @@
+--- 
+layout: post
+title: Lua and Haxe - A Pair of Game Development Languages
+date: 2013-02-03 12:30:00 -10:00
+author: Kyle Oba
+categories: ['Event']
+tags: []
+---
+
+<img src="http://photos4.meetupstatic.com/photos/event/c/5/f/0/global_119870672.jpeg"></img>
+
+I was going to call this the "Lua Luau" but I don't want to do that to you.
+
+Do you folks know Jon Borgonia?  He's deep into building games at [GomaGames](http://gomagames.com/).  He's really good at what he does, check him out.  Sometimes he even uses Lua and Haxe and he'd like to share with us.
+
+Lua is Jon's second most used language. He primarily uses it in the Coronasdk and Love2d frameworks to build games.  And, he's agreed to give us a peek into his years of experience with it.  Jon is also passionate about Haxe.  He has been using Haxe for over four years, and it is easily his favorite language + compiler.
+
+<br/>
+__I his words:__
+
+"It can compile a single codebase into a few different targets, such as neko, flash, php, javascript (HaXeJS and HaXeNode), swf, c++, and soon java. It also brings with it all the HaXe goodness to each target like Strict datatyping, OOP, macros, and inlining, while still allowing the power and plugins from the native target... and optimizes bytecode/compiled language, wherever it can.
+
+One of the features of Haxe that is gaining the most momentum is HaxeNME, which is a haxe library that compiles Haxe into iOS, Android, Blackberry, linux, and win32... Also very recently, there has been much activity and quick porting to the OUYA console (odk)."
+
+[What is Lua?](http://goo.gl/XswD6) And, well [what is Haxe](http://en.wikipedia.org/wiki/Haxe)? It turns out that they're both interesting languages used for programming games.
+
+What can I use Lua for? Unity, WoW, [Minecraft](http://www.simonmonk.org/?page_id=253). What can I use Haxe for? In the short term, "web stuff™."  In the long term, "mobile stuff™."
+
+Is this interesting? [Yes](http://gifs.gifbin.com/20048442yu.gif).
+
+So, come and learn.  If you still need more info, see the brief Lua and Haxe summaries below (courtesy of Wikipedia).
+
+Otherwise, see you at the Meetup!
+
+ 
+<br/>
+__Here's a brief summary of Lua:__
+
+Lua is a lightweight multi-paradigm programming language designed as a scripting language with "extensible semantics" as a primary goal. Lua is cross-platform since it is built on a simple C API.
+
+Lua is commonly described as a “multi-paradigm” language, with a small, flexible set of general features. Lua, for instance, does not contain explicit support for inheritance, but allows it to be implemented relatively easily with metatables.  As a result, the base language is light – the full reference interpreter is only about 180 kB compiled.
+
+Lua is a dynamically typed language intended for use as an extension or scripting language, and is compact enough to fit on a variety of host platforms. It supports only a small number of atomic data structures such as boolean values, numbers (double-precision floating point by default), and strings. Typical data structures such as arrays, sets, lists, and records can be represented using Lua’s single native data structure, the table, which is essentially a heterogeneous associative array.
+
+Lua implements a small set of advanced features such as first-class functions, garbage collection, closures, proper tail calls, coercion (automatic conversion between string and number values at run time), coroutines (cooperative multitasking) and dynamic module loading.
+
+And it's got a register based VM, like Perl's Parrot and Android's Dalvik.
+
+<br/>
+__And, Haxe:__
+
+Haxe is an open-source high-level multiplatform programming language and compiler that can produce applications and source code for many different platforms from a single code-base. Code written in the Haxe language can be compiled into Adobe Flash, JavaScript, PHP, Apache CGI and NodeJS server-side applications. It has experimental support for C++ (that's iOS, Android, and webOS kids).
+
+Haxe is the successor to the open-source ActionScript 2 compiler MTASC, with much in common with ActionScript 3. The Haxe compiler is developed in the OCaml language, but no knowledge of OCaml is necessary to develop applications.
+
+The Haxe language can compile into bytecode for different virtual machines such as the Adobe Flash Player and Neko, and can generate source code in ActionScript 3, JavaScript, and includes experimental support for C++ and C#.
+
+<br/>
+
+__When:__ Monday, February 18, 2013 @ 7pm to 9pm
+
+__Where:__ HI Capacity (in the Box Jelly), 307a Kamani Street Honolulu, 96813. (Please park on Ward Ave, Kamani street, or surrounding street parking).
+
+
+Register for this event now at :
+[http://www.meetup.com/dynamic/events/102440902/](http://www.meetup.com/dynamic/events/102440902/)

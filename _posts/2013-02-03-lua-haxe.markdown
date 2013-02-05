@@ -16,25 +16,28 @@ Do you folks know Jon Borgonia?  He's deep into building games at [GomaGames](ht
 Lua is Jon's second most used language. He primarily uses it in the Coronasdk and Love2d frameworks to build games.  And, he's agreed to give us a peek into his years of experience with it.  Jon is also passionate about Haxe.  He has been using Haxe for over four years, and it is easily his favorite language + compiler.
 
 <br/>
-__I his words:__
+__In Jon's words:__
 
 "It can compile a single codebase into a few different targets, such as neko, flash, php, javascript (HaXeJS and HaXeNode), swf, c++, and soon java. It also brings with it all the HaXe goodness to each target like Strict datatyping, OOP, macros, and inlining, while still allowing the power and plugins from the native target... and optimizes bytecode/compiled language, wherever it can.
 
 One of the features of Haxe that is gaining the most momentum is HaxeNME, which is a haxe library that compiles Haxe into iOS, Android, Blackberry, linux, and win32... Also very recently, there has been much activity and quick porting to the OUYA console (odk)."
 
-[What is Lua?](http://goo.gl/XswD6) And, well [what is Haxe](http://en.wikipedia.org/wiki/Haxe)? It turns out that they're both interesting languages used for programming games.
-
-What can I use Lua for? Unity, WoW, [Minecraft](http://www.simonmonk.org/?page_id=253). What can I use Haxe for? In the short term, "web stuff™."  In the long term, "mobile stuff™."
-
-Is this interesting? [Yes](http://gifs.gifbin.com/20048442yu.gif).
-
-So, come and learn.  If you still need more info, see the brief Lua and Haxe summaries below (courtesy of Wikipedia).
-
-Otherwise, see you at the Meetup!
-
- 
 <br/>
-__Here's a brief summary of Lua:__
+__What can I use Lua for?__
+
+Lua is an incredibly fast and powerful scripting language. You can embed it into your C or C++ applications and allow your users to extend it. It is also very great for making games.
+
+<br/>
+__What can I use Haxe for?__
+
+Haxe is a great option for creating websites and games. Since it is cross platform, it can do elegant remoting between client and server. Imagine having a nodejs server that can connect to a ios app and an html5 browser app, all using the same language with shared classes. Or if you wanted to create a game and compile it to webos, android, ios, flash, js/canvas, win32, osx, and linux, you can use the same Haxe codebase to compile to each target!
+
+If you still need more info... see brief Lua and Haxe summaries below (courtesy of Wikipedia).
+
+Otherwise, __see you at the Meetup!__
+
+<br/>
+__Here's a brief summary of [Lua (from Wikipedia)](http://goo.gl/XswD6):__
 
 Lua is a lightweight multi-paradigm programming language designed as a scripting language with "extensible semantics" as a primary goal. Lua is cross-platform since it is built on a simple C API.
 
@@ -46,8 +49,7 @@ Lua implements a small set of advanced features such as first-class functions, g
 
 And it's got a register based VM, like Perl's Parrot and Android's Dalvik.
 
-<br/>
-__And, Haxe:__
+__And, [Haxe (from Wikipedia)](http://en.wikipedia.org/wiki/Haxe):__
 
 Haxe is an open-source high-level multiplatform programming language and compiler that can produce applications and source code for many different platforms from a single code-base. Code written in the Haxe language can be compiled into Adobe Flash, JavaScript, PHP, Apache CGI and NodeJS server-side applications. It has experimental support for C++ (that's iOS, Android, and webOS kids).
 

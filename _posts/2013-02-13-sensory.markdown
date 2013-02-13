@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Sensory Overload!
+date: 2013-02-13 07:05:00 -10:00
+author: Matthew Badeau
+categories: ['Event']
+tags: []
+---
+
+<img src="http://i1151.photobucket.com/albums/o621/mailypr/mi%20mundo%20slideshow/nest-1.jpg"></img>
+
+For the next week and a half, we're going to be placing sensors (temp, sound, etc) around HI Capacity.  WE NEED YOUR HELP! We need to put various sensors hooked up to a wireless node network. We're going to place this network around the space and log data. Then we'll visualize this data with cool graphs and make the data accessible via API. Details will be discussed this Wednesday the 13th about the types of data and how we're going to present the data.
+We will be at the space on Wednesday the 13th from 6:30PM - 9PM, Saturday the 16th from 11AM - 4PM and Wednesday the 20th from 6PM - 9PM. Please stop by, let us develop our computer overloads. We'll be one step closer to Skynet!
+We'll see you there!
+
+<br/>
+
+__When:__ 
+
+*  Wednesday, February 13, 2013 @ 6:30pm to 9pm
+*  Saturday, February 16, 2013 @ 11am to 4pm
+*  Wednesday, February 20, 2013 @ 6pm to 9pm
+
+__Where:__ HI Capacity (in the Box Jelly), 307a Kamani Street Honolulu, 96813. (Please park on Ward Ave, Kamani street, or surrounding street parking).

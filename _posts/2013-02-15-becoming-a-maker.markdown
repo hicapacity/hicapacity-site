@@ -6,6 +6,7 @@ author: Alan Solidum
 categories: ['Event']
 tags: []
 ---
+<a href="http://imgur.com/t8jKCFt"><img src="http://i.imgur.com/t8jKCFt.jpg" alt="" title="Hosted by imgur.com" /></a>
 
 HICapacity will be the featured program for this month's Wetware Wednesday.  If you haven't been down to HICap in some time or want to see some of the interesting projects some other members have been working on, please come to this event.  Free food and beer will be provided.  In fact, some of our very own members are currently brewing some of the beer you'll be enjoying that night.
 

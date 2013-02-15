@@ -14,9 +14,9 @@ HICapacity will be the featured program for this month's Wetware Wednesday.  If 
 
 __Featured presentations__ - topics ranging from Arduinos to IOS apps to bamboo bikes
 
-__Sensory Overload__ - Raspberry Pis get your electronic taste buds watering but we’ll be using them to stimulate your remaining senses.
+__Sensory Overload__ - Raspberry Pis get your electronic taste buds watering but we'll be using them to stimulate your remaining senses.
 
-__Interactive Demos__ - 3D printers printing, Kinects connecting and Leap motions... leaping? Don’t worry they’ll be cool stuff to see.
+__Interactive Demos__ - 3D printers printing, Kinects connecting and Leap motions... leaping? Don't worry they'll be cool stuff to see.
 
 __QR Contest__ - Win prizes
 

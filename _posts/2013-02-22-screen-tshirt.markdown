@@ -6,8 +6,6 @@ author: Matthew Badeau
 categories: ['Event']
 tags: []
 ---
-<meta property="og:image" content="http://imgur.com/dUFcQrm.png"/>
-
 <img src="http://imgur.com/dUFcQrm.png"></img>
 
 __Basic Screen Printing Workshop__

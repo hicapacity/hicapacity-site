@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Screen Your Own T-Shirt
-date: 2013-03-22 22:00:00 -10:00
+date: 2013-02-22 22:00:00 -10:00
 author: Matthew Badeau
 categories: ['Event']
 tags: []

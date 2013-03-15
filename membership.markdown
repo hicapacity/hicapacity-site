@@ -31,6 +31,7 @@ $50/month &mdash; Basic membership, which includes access to the space.
 
 $75/month &mdash; This includes basic membership, a HI Capacity email address, and a personal web page on the hicapacity.org subdomain. You can advertise your membership or talk about your projects! Your additional contribution will go towards opening a larger Makerspace and equipment. By contributing a little more, you can help our Makerspace grow even faster!
 
+Starving Hacker and Student rates are available. Please email maker(a)hicapacity.org
 
 <div> <!-- Membership Widget -->
   <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -71,8 +72,6 @@ $75/month &mdash; This includes basic membership, a HI Capacity email address, a
 Parking is available at Sports Authority (owned by the same land owner). There is also street parking around the neighborhood.
 
 **Our Future**
-
-The monthly **membership cost will increase** when we move to a new space, but with the increased price, we will continuously improve our Makerspace. We want to open our own Makerspace soon. When that happens we'll be able to add more to your membership.
 
 * 24-hour access for upper tier members
 * More storage space

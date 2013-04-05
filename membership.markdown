@@ -9,7 +9,7 @@ We will be open on Monday, October 10th.
 
 **Hours of Operation**
 
-Monday-Friday, 6pm-12am
+Monday-Friday, 8am-12am
 Saturday-Sunday, 11am-6pm
 
 **Restrictions**

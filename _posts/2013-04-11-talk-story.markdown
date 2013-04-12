@@ -37,7 +37,7 @@ AS. Unfortunately we didn't take first or second place, the cash prizes.  But pl
 AS. Well our dev key from Campbells is still active so you can still see what we submitted.  Better yet, go to [www.antisociallabs.com](http://www.antisociallabs.com) and keep following our story and see how it unfolds.
 
 ### HC. Anything else you wanna share?
-AS. That if you put the time in, things will happen.  What we accomplished is certainly within reach of anyone in our community.  So I encourage you to come down and get more involved with events, workshops and hackathons.  Speaking of hackathons... this weekend is [Startup Weekend](http://honolulu.startupweekend.org) and a good opportunity to execute on an idea you've been thinking of.  And I'm sure it'll be an incredible experience plus you'll meet a lot of the other members in our community.  But even if you can't make Startup Weekend, come down and meet the community.  HICap is what it is today because of our community.
+AS. That if you put the time in, things will happen.  What we accomplished is certainly within reach of anyone in our community.  So I encourage you to come down and get more involved with events, workshops and hackathons and meet the community.  HICap is what it is today because of our community.
 
 ### HC. Mahalo for sharing your story with us.
 AS. Thanks having me.

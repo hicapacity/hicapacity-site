@@ -7,7 +7,7 @@ categories: ['Talk Story']
 tags: []
 ---
 <div style="float: right; margin-left: 15px">
-<a href="http://imgur.com/pssPOgh"><img src="http://i.imgur.com/pssPOgh.jpg" width="400" alt="" title="Hosted by imgur.com" /></a>
+<a href="http://i.imgur.com/VFo4DN3"><img src="http://i.imgur.com/VFo4DN3.jpg" width="400" alt="" title="Hosted by imgur.com" /></a>
 <br>
 <p>Image courtesy of marin / <a href="http://www.freedigitalphotos.net" target="_blank">FreeDigitalPhotos.net</a></p>
 </div>

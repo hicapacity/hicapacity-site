@@ -4,6 +4,7 @@ title: Talking Story with a Maker
 date: 2013-04-11 20:30:00 -10:00
 author: Marion Ano
 categories: ['Talk Story']
+image: imgur.com/pssPOgh
 tags: []
 ---
 <div style="float: right; margin-left: 15px">

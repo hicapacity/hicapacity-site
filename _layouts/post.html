@@ -11,6 +11,10 @@ layout: default
   }(document, 'script', 'facebook-jssdk'));
 </script>
 <div id="fb-root"></div>
+<meta property='og:image' content="http://{{ post.image }}" />
+<meta property='og:type' content="article" />
+<meta property='og:title' content="{{ page.title }}" />
+<meta property='og:site_name' content='HI Capacity' />
 <div class="post">
   <div class="postTitle">
     <a href="{{ post.url }}">{{ page.title }}</a>

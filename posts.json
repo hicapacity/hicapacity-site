@@ -10,6 +10,7 @@
       "author" : "{{ post.author }}",
       "categories" : {{ post.categories | json }},
       "tags" : {{ post.tags | json }},
+      "image" : "{{ post.image | "hicapacity.org" }}",
       "content" : {{ post.content | json }}
     }
     {% if post != site.posts[19] %}

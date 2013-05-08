@@ -2,7 +2,7 @@
 layout: post
 title: Command Line Basics
 date: 2013-05-02 21:15:00 -10:00
-author: Kyle Oba
+author: Jason Axelson
 categories: ['Event']
 image: i.imgur.com/LpDsPUy.png
 tags: []

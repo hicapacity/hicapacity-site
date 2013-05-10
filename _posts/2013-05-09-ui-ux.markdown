@@ -14,7 +14,7 @@ tags: []
 <p>Image courtesy of kangshutters / <a href="http://www.freedigitalphotos.net" target="_blank">FreeDigitalPhotos.net</a></p>
 </div>
 
-This talk is to inform others of the necessary steps in creating a website and understanding the importance of UI (User Interface) + UX (User Experience) design. These steps may seem tedious, but as you dive into the design or even the development stage, you’ll quickly find out that this process will help to diminish problems that could occur down the road.
+This talk is to inform others of the necessary steps in creating a website and understanding the importance of UI (User Interface) + UX (User Experience) design. These steps may seem tedious, but as you dive into the design or even the development stage, you'll quickly find out that this process will help to diminish problems that could occur down the road.
 
 <br/>
 

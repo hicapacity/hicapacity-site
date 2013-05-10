@@ -1,0 +1,38 @@
+--- 
+layout: post
+title: Industry Practices on UI + UX
+date: 2013-05-09 22:40:00 -10:00
+author: Alan Solidum
+categories: ['Event']
+image: i.imgur.com/PNlPmOn.png
+description: HI Capacity presents Industry Practices on UI/UX
+tags: []
+---
+<div style="float: right; margin-left: 15px">
+<a href="http://imgur.com/PNlPmOn"><img src="http://i.imgur.com/PNlPmOn.jpg?1" title="Hosted by imgur.com" /></a>
+<br/>
+<p>Image courtesy of kangshutters / <a href="http://www.freedigitalphotos.net" target="_blank">FreeDigitalPhotos.net</a></p>
+</div>
+
+This talk is to inform others of the necessary steps in creating a website and understanding the importance of UI (User Interface) + UX (User Experience) design. These steps may seem tedious, but as you dive into the design or even the development stage, you’ll quickly find out that this process will help to diminish problems that could occur down the road.
+
+<br/>
+
+<div>
+<img src="http://i.imgur.com/ezYK0Sg.jpg" width="100" style="float: left; margin-right: 15px"></img>
+Kat received her graphic design degree from the New Media Arts Interface Design Program at Kapiolani Community College. She is currently a Graphic Designer and Web Developer at Design Asylum, Inc. and the Lead UI Designer at Undefeated Games, Inc. Kat enjoys engaging with new people and sharing her enthusiasm for design. She is an active member of AIGA Honolulu, HI-Capacity and Alakai Young Professionals and participates in various events including Startup Weekend, HNL New Tech Meetup, and WetWare Weds.
+</div>
+
+<div style="clear: left; margin-top: 20px;">
+<img src="http://i.imgur.com/Vgi2c5w.jpg" width="100" style="float: left; margin-right: 15px"></img>
+Tiff's ackground includes marketing and design, with degrees from UH Manoa and Kapiolani Community College. She recently began working at Anthology Marketing Group as an Associate UX Designer. Outside of work, Tiffany enjoys being a member of various organizations such as AIGA Honolulu, HI Capacity, and Alakai Young Professionals. She also enjoys activities such as DIY projects, hiking, and looking at penguins. 
+</div>
+
+<br style="clear: both;"/>
+
+__When:__ Wednesday, May 29, 2013 @ 7pm to 8:00pm HST
+
+__Where:__ HI Capacity (in the Box Jelly), 307a Kamani Street Honolulu, 96813. (Please park on Ward Ave, Kamani street, or surrounding street parking).
+
+Register for this event now at :
+[http://hicap-uiux.eventbrite.com](http://hicap-uiux.eventbrite.com)

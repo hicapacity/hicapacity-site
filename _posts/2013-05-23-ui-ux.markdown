@@ -1,7 +1,7 @@
 --- 
 layout: post
-title: Industry Practices on UI + UX
-date: 2013-05-09 22:40:00 -10:00
+title: Industry Practices on UI + UX (DATE CORRECTED)
+date: 2013-05-23 18:30:00 -10:00
 author: Kathryne Sakata and Tiffany Higa 
 categories: ['Event']
 image: i.imgur.com/ZgnXSDY.jpg
@@ -14,7 +14,7 @@ tags: [user experience, user interaction]
 #### This talk is to inform others of the necessary steps in creating a website and understanding the importance of UI (User Interface) + UX (User Experience) design. These steps may seem tedious, but as you dive into the design or even the development stage, you'll quickly find out that this process will help to diminish problems that could occur down the road. ####
 
 <br />
-__When:__ Wed, May 29, 2013 @7pm to 8pm (DATE CORRECTED)
+__When:__ Wed, May 29, 2013 @7pm to 8pm
 
 __Where:__ HI Capacity (in the Box Jelly), 307a Kamani Street Honolulu, 96813. (Please park on Ward Ave, Kamani street, or surrounding street parking).
 

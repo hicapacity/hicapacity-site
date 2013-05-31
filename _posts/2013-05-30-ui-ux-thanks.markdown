@@ -5,12 +5,12 @@ date: 2013-05-30 18:30:00 -10:00
 author: Alan Solidum
 categories: ['Event']
 image: i.imgur.com/ZgnXSDY.jpg
-description: Mahalo to Kathryne Sakata and Tiffany Higa for their informative and interestin talk on UI+UX.  If you missed it or just want to review the material, here are the slides.
+description: Mahalo to Kathryne Sakata (@katroppi) and Tiffany Higa (@thinktifferent) for their informative and interestin talk on UI+UX.  If you missed it or just want to review the material, here are the slides. #hicapuiux
 tags: [user experience, user interaction, presentation, slides]
 ---
-#### Mahalo to Kathryne Sakata and Tiffany Higa for their informative and interestin talk on UI+UX.  If you missed it or just want to review the material, here are the slides...
+#### Mahalo to [Kathryne Sakata][kat] and [Tiffany Higa][tiff] for their informative and interesting talk on UI+UX.  If you missed it or just want to review the material, here are the slides...
 <br>
-#### And let 'em know how much you enjoyed the talk ([@katroppi][kat] and [@thinktifferent][tiff] [#hicapuiux][hicap]), I'm sure they'd appreciate it.
+#### And let 'em know how much you enjoyed the [talk][hicap], I'm sure they'd appreciate it.
 ------
 <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/hicapacity/ui-talk" title="HICapacity UI talk by Kathryne Sakata" target="_blank">HICapacity UI talk by Kathryne Sakata</a> </strong></div>
 <div style="float: left; margin-right: 15px">

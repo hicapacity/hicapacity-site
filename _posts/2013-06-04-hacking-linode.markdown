@@ -4,6 +4,7 @@ title: Hacking Linode Workshop
 date: 2013-06-04 10:30:00 -10:00
 author: Matthew Badeau
 categories: ['Event']
+image: i.imgur.com/mslV9kV.png
 tags: []
 ---
 

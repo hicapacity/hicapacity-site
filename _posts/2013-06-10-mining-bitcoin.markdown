@@ -27,6 +27,9 @@ Here is the agenda:
 
 The talk will be informal, with an emphasis on discussion about Bitcoin. The speaker is Ta'a Pyland. The talk will be held on June 18th at 7pm. The location is HI Capacity, which is located in the back of The Box Jelly (and to the left of Fishcake).
 
+RSVP on Eventbrite:
+[http://hicap-bitcoin.eventbrite.com](http://hicap-bitcoin.eventbrite.com)
+
 __When:__ Wednesday, June 18, 2013 @ 7pm
 
 __Where:__ HI Capacity (in the Box Jelly), 307a Kamani Street Honolulu, 96813. (Please park on Ward Ave, Kamani street, or surrounding street parking).

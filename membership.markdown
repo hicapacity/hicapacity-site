@@ -48,10 +48,7 @@ Starving Hacker and Student rates are available. Please email maker(a)hicapacity
         <input type="submit" name="submit" value="Join" style="width: 55px" class="btn primary">
       </div>
       <div style="padding-left: 5px; float:left;">
-        <img src="/img/card_visa.png" style="padding-top: 2px">
-        <img src="/img/card_mastercard.png" style="padding-top: 2px">
-        <img src="/img/card_discover.png" style="padding-top: 2px">
-        <img src="/img/card_amex.png" style="padding-top: 2px">              
+        <img src="/img/creditcard_paypal.png" style="padding-top: 6px">           
       </div>
     </div>
     <div style="clear:both;"></div>          

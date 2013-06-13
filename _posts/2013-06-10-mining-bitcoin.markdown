@@ -30,7 +30,7 @@ The talk will be informal, with an emphasis on discussion about Bitcoin. The spe
 RSVP on Eventbrite:
 [http://hicap-bitcoin.eventbrite.com](http://hicap-bitcoin.eventbrite.com)
 
-__When:__ Wednesday, June 18, 2013 @ 7pm
+__When:__ Tuesday, June 18, 2013 @ 7pm
 
 __Where:__ HI Capacity (in the Box Jelly), 307a Kamani Street Honolulu, 96813. (Please park on Ward Ave, Kamani street, or surrounding street parking).
 

@@ -1,0 +1,34 @@
+--- 
+layout: post
+title: Hawaii VR Club's First Meetup
+date: 2013-06-13 00:40:00 -10:00
+author: Kai Kau
+categories: ['Event']
+image: i.imgur.com/C0zLkW9.jpg
+description: Introducing the first meetup of Hawaii's Virtual Reality Club!
+tags: [oculus rift, vr]
+---
+<div style="float: left; margin-right: 15px" >
+<a href="hhttp://i.imgur.com/C0zLkW9"><img src="http://i.imgur.com/C0zLkW9.jpg" width="300" alt="" title="Hosted by imgur.com" /></a>
+</div>
+Virtual Reality is making a comeback. If you've ever wanted to be IN the game, fully immersed like never before, you'll want to join HI Capacity and IGDA Honolulu for Hawaii VR Club's First Meetup.
+The Oculus Rift is a new device that delivers a virtual reality experience that once cost thousands of dollars. We have two Oculus Rifts (and accompanying dev kits), and we'll be demonstrating the technology for the local community. To further stoke interest in developers and designers for the new platform, we'll have a pair of talks about the Oculus Rift, virtual reality, and how Hawaii developers have the opportunity to get involved early creating for this innovative hardware.
+ 
+See you there!
+ #hicapvr 
+
+<br />
+__When:__ Tuesday, June 25, 2013 6:30pm to 8:30pm
+
+__Where:__ HI Capacity (in the Box Jelly), 307a Kamani Street Honolulu, 96813. (Please park on Ward Ave, Kamani street, or surrounding street parking).
+
+Register for this event now at: [http://hicap-vrclub.eventbrite.com](http://hicap-vrclub.eventbrite.com)
+
+---
+<div style="float: left; margin-right: 15px;">
+<a href="http://i.imgur.com/HhmnFdm"><img src="http://i.imgur.com/HhmnFdm.jpg" width="75" alt="" title="Hosted by imgur.com" /></a>
+</div>
+#### Ka'i Kau ####
+Ka'i is a freelance graphic designer and web entrepreneur with a love for new and emerging technologies. He was an early backer of the Oculus Rift on Kickstarter and is interested in spurring local interest in VR. Ka'i enjoys robotics, starting clubs to bring people with like interests together, and producing music in his spare time.
+
+<br style="clear:both" />

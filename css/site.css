@@ -80,6 +80,8 @@ a:hover {
 	border: 0 none !important;
 }
 
+.postContent p { font-family: 'Merriweather Sans', sans-serif; }
+
 .postTitle {
   font-size: 28px;
   color: #EEEEEE;
@@ -87,6 +89,7 @@ a:hover {
   line-height: 28px;
   text-shadow: 2px 2px 5px #222;
   /*text-shadow: 2px 2px 5px #000;*/
+  font-family: 'Questrial', sans-serif;
 }
 
 .postTitle a:link, .postTitle a:visited, .postTitle a:active { color: #EEEEEE; }

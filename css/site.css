@@ -114,7 +114,7 @@ a:hover {
 .postShare {
   float: right;
   font-style: normal;
-  margin-top: 5px;
+  margin-top: -5px;
   font-size: 11px;
 }
 .postShare:hover { color: #002280; text-decoration: none; text-shadow: none; }

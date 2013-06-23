@@ -18,7 +18,9 @@ tags: [user experience, user interaction, presentation, slides]
 </div>
 Kat received her graphic design degree from the New Media Arts Interface Design Program at Kapiolani Community College. She is currently a Graphic Designer and Web Developer at Design Asylum, Inc. and the Lead UI Designer at Undefeated Games, Inc. Kat enjoys engaging with new people and sharing her enthusiasm for design. She is an active member of AIGA Honolulu, HI-Capacity and Alakai Young Professionals and participates in various events including Startup Weekend, HNL New Tech Meetup, and WetWare Weds.
 <br>
+<div class="embed-container">
 <iframe src="http://www.slideshare.net/slideshow/embed_code/22225771" width="750" height="610" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe>
+</div> <!-- embed container -->
 -----
 <div style="margin-bottom:5px"> <strong><a href="http://www.slideshare.net/hicapacity/hicapacity-ui-talk-by-tiffany-higa" title="HICapacity UI talk by Tiffany Higa" target="_blank">HICapacity UI talk by Tiffany Higa</a> </strong></div>
 <div style="float: left; margin-right: 15px">
@@ -26,7 +28,9 @@ Kat received her graphic design degree from the New Media Arts Interface Design 
 </div>
 Tiff's ackground includes marketing and design, with degrees from UH Manoa and Kapi‘olani Community College. She recently began working at Anthology Marketing Group as an Associate UX Designer. Outside of work, Tiffany enjoys being a member of various organizations such as AIGA Honolulu, HI Capacity, and Alaka‘i Young Professionals. She also enjoys activities such as DIY projects, hiking, and looking at penguins.
 <br>
+<div class="embed-container">
 <iframe src="http://www.slideshare.net/slideshow/embed_code/22226750" width="750" height="610" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+</div> <!-- embed container -->
 
 [kat]: http://twitter.com/katroppi
 [tiff]: http://twitter.com/thinktifferent

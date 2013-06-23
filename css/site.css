@@ -40,6 +40,10 @@ a:hover {
   text-decoration: none;
 }
 
+.span3 {
+  margin-top: 20px;
+}
+
 /* CSS for the posts */
 .post {
   background: url('/img/content_bg.png');
@@ -80,7 +84,7 @@ a:hover {
 	border: 0 none !important;
 }
 
-.postContent p { font-family: 'Muli', sans-serif; }
+.postContent p { font-family: 'Muli', sans-serif; word-wrap: break-word; }
 
 .postTitle {
   font-size: 28px;
@@ -124,6 +128,7 @@ a:hover {
   width: 100%;
   height: 2px;
   margin: 10px 0px 10px 0px;
+  clear: both;
 }
 
 .imgLeft {
@@ -161,7 +166,7 @@ a:hover {
 .widget {
   background: url('/img/widget_bg.png');
   border-radius: 4px;
-  margin-top: 10px;
+  margin-bottom: 10px;
   padding: 10px;
   box-shadow: 3px 3px 3px #333;
 }
@@ -210,6 +215,7 @@ a:hover {
 
 .pager {
   margin-bottom: 10px;
+  margin-top: 0px;
 }
 
 .pager a {
@@ -239,6 +245,23 @@ a:hover {
   padding: 6px 15px;
 }
 
+.pager li > a {
+  background-color: transparent;
+  border-radius: 4px;
+  border: 0px;
+}
+
+.pager li > span {
+  background-color: transparent;
+  border-radius: 4px;
+  border: 0px;
+  color: #555555;
+}
+
+.pager li > a:hover, .pager li > a:focus {
+  background-color: transparent;
+}
+
 /* CSS for search page  */
 #more {
   background: url('/img/show_more.png') no-repeat;
@@ -249,4 +272,47 @@ a:hover {
 #terms {
   height: 24px;
   font-style: italic;
+}
+
+/* Responsive CSS */
+/*@media screen and (max-width: 767px) {
+  body { padding-top: 0px; }
+}*/
+
+@media screen and (max-width: 480px) {
+  .postShare {
+    float: none;
+  }
+}
+
+@media (max-width: 1200px) {
+  body { padding-top: 0px; }
+  .post { margin-top: 0px; margin-bottom: 20px; }
+  .span3 { margin-top: 0px; }
+  .pagerWrapper { margin-top: -20px; }
+}
+
+.embed-container  {
+   position: relative;
+   padding-bottom: 56.25%; /* 16:9 ratio */
+   padding-top: 30px; /* IE 6 workaround*/
+   height: 0;
+   overflow: hidden;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+}
+
+@media only screen and (max-width: 1100px) {
+.fb-comments{width: 100% !important;}
+.fb-comments iframe[style]{width: 100% !important;}
+.fb-comments span{width: 100% !important;}
+.fb-comments iframe span[style]{width: 100% !important;}
 }

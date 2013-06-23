@@ -1,25 +1,34 @@
 function populateEvents() {
+  var api_key = 'AIzaSyDR5Hb48TfsF-jfYy1UWgyd_ocSjSBW1B8';
   var cal_id = 'hicapacity.org_vgo8qpscrk4hif3veoka112434%40group.calendar.google.com';
   var max_results = 5;
-  var start_min = (new Date()).format('Y-m-d'); // today's date
+  var start_min = ISODateString(new Date()); // today's date as RFC 3339
   // var start_max = new Date();
   
-  var url = 'http://www.google.com/calendar/feeds/' + cal_id + 
-              '/public/full?alt=json&orderby=starttime&sortorder=ascending&max-results=' + max_results +
-              '&start-min=' + start_min + '&singleevents=true&futureevents=true&showdeleted=false';
-  $.getJSON(url, function(events) {
-    
+  var url = 'https://www.googleapis.com/calendar/v3/calendars/' + cal_id + 
+              '/events?alt=json&orderBy=startTime&sortorder=ascending&maxResults=' + max_results +
+              '&timeMin=' + start_min + '&singleEvents=true&futureevents=true&showDeleted=false&key=' + api_key;
+  $.getJSON(url, function(json) {
     var html = '<ul>';
 
-    $.each(events.feed.entry,function(i,entry) {
-      var date = (new Date(entry['gd$when'][0].startTime)).format("F j, Y");
-      var startTime = (new Date(entry['gd$when'][0].startTime)).format("h:i A");
-      var endTime = (new Date(entry['gd$when'][0].endTime)).format("h:i A");
+    $.each(json.items, function(i, entry) {
+      console.log(entry);
+
+      var visibility = entry.visibility;      
+      if (visibility !== undefined ) {
+        if (visibility === 'private') {
+          return true; // this will go to the next iteration, acts like a continue statement          
+        }
+      }
+      
+      var date = (new Date(entry.start.dateTime)).format("F j, Y");
+      var startTime = (new Date(entry.start.dateTime)).format("h:i A");
+      var endTime = (new Date(entry.end.dateTime)).format("h:i A");
 
       html += '<div class="eventTitle">';
 
       
-      html += '<a href="' + entry.link[0].href + '">' + entry.title['$t'] + '</a>';
+      html += '<a href="' + entry.htmlLink + '">' + entry.summary + '</a>';
       html += '</div>';
       
       // event date, start time, and end time
@@ -39,3 +48,13 @@ function populateEvents() {
     $('#events').html(html);
   })
 }
+
+function ISODateString(d){
+ function pad(n){return n<10 ? '0'+n : n}
+ return d.getUTCFullYear()+'-'
+      + pad(d.getUTCMonth()+1)+'-'
+      + pad(d.getUTCDate())+'T'
+      + pad(d.getUTCHours())+':'
+      + pad(d.getUTCMinutes())+':'
+      + pad(d.getUTCSeconds())+'Z'}
+

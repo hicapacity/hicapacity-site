@@ -1,0 +1,36 @@
+--- 
+layout: post
+title: Hardware Start-ups - Taking our idea to a successfully funded Kickstarter project
+date: 2013-06-24 00:40:00 -10:00
+author: Alan Solidum
+categories: ['Event']
+image: http://snapzooms.com/assets/img/snapzoomadaptor.png
+description: In this talk we'll take a look at our journey to make our project, Snapzoom, the universal smartphone scope adapter, a reality.
+tags: [snapzoom, kickstarter, 3d printer, event]
+---
+<div style="float: left; margin-right: 15px" >
+<a href="http://snapzooms.com/assets/img/snapzoomadaptor.png"><img src="http://snapzooms.com/assets/img/snapzoomadaptor.png" width="300" alt="" title="Hosted on snapzooms.com" /></a>
+</div>
+In this talk we'll take a look at our journey to make our project, Snapzoom: the universal smartphone scope adapter, a reality. We'll focus on how we developed our idea into prototypes with CAD and rapid prototyping 3D printers, and the importance of IP (patents and trademarks).  We'll also touch on how we created a successful Kickstarter project, the importance of social media and what production hurdles lie ahead of us.
+
+Here's the [Kickstarter]
+
+Tell your friends #hicapsnapzoom 
+
+<br />
+__When:__ Tuesday, July 2, 2013 6:30pm to 8:30pm
+
+__Where:__ HI Capacity (in the Box Jelly), 307a Kamani Street Honolulu, 96813. (Please park on Ward Ave, Kamani street, or surrounding street parking).
+
+Register for this event now at: [http://hicap-snapzoom.eventbrite.com](http://hicap-snapzoom.eventbrite.com)
+
+---
+<div style="float: left; margin-right: 15px;">
+<a href="http://i.imgur.com/hSTDMovs.jpg"><img src="http://i.imgur.com/hSTDMovs.jpg" width="75" alt="" title="Hosted by imgur.com" /></a>
+</div>
+#### Daniel Fujikake ####
+Daniel is born and raised in Honolulu and is a full-time stay at home dad of twins. He loves spending time with his family, photography and surfing. His background in surfing and photography is what inspired the blend of the two, leading to the invention of Snapzoom
+
+<br style="clear:both" />
+
+[Kickstarter]: http://www.kickstarter.com/projects/1409008983/snapzoom-the-universal-smartphone-scope-adapter

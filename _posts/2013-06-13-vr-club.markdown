@@ -31,4 +31,12 @@ Register for this event now at: [http://hicap-vrclub.eventbrite.com](http://hica
 #### Ka'i Kau ####
 Ka'i is a freelance graphic designer and web entrepreneur with a love for new and emerging technologies. He was an early backer of the Oculus Rift on Kickstarter and is interested in spurring local interest in VR. Ka'i enjoys robotics, starting clubs to bring people with like interests together, and producing music in his spare time.
 
+
+
+<div style="float: left; margin-right: 15px;">
+<a href="http://i.imgur.com/f3ErGiJs.jpg"><img src="http://i.imgur.com/f3ErGiJs.jpg" width="75" alt="" title="Hosted by imgur.com" /></a>
+</div>
+#### Peter Justeson ####
+Peter is an independent game developer whose previous work includes Tetris Battle & online virtual world Blue Mars. Peter also runs the Honolulu chapter of the IGDA, a community group that unites & supports game developers in Hawaii. In addition to games as pure entertainment, Peter has a strong interest in educational games that engage children in learning through play.
+
 <br style="clear:both" />

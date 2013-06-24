@@ -2,11 +2,11 @@
 layout: post
 title: Hawaii VR Club's First Meetup
 date: 2013-06-13 00:40:00 -10:00
-author: Kai Kau
+author: Alan Solidum
 categories: ['Event']
 image: i.imgur.com/C0zLkW9.jpg
 description: Introducing the first meetup of Hawaii's Virtual Reality Club!
-tags: [oculus rift, vr]
+tags: [oculus rift, vr, event]
 ---
 <div style="float: left; margin-right: 15px" >
 <a href="hhttp://i.imgur.com/C0zLkW9"><img src="http://i.imgur.com/C0zLkW9.jpg" width="300" alt="" title="Hosted by imgur.com" /></a>

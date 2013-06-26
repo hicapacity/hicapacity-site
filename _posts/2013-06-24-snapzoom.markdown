@@ -4,12 +4,12 @@ title: Hardware Start-ups - Taking our idea to a successfully funded Kickstarter
 date: 2013-06-24 00:40:00 -10:00
 author: Alan Solidum
 categories: ['Event']
-image: http://snapzooms.com/assets/img/snapzoomadaptor.png
+image: http://i.imgur.com/9YdzyqZs.jpg
 description: In this talk we'll take a look at our journey to make our project, Snapzoom, the universal smartphone scope adapter, a reality.
 tags: [snapzoom, kickstarter, 3d printer, event]
 ---
 <div style="float: left; margin-right: 15px" >
-<a href="http://snapzooms.com/assets/img/snapzoomadaptor.png"><img src="http://snapzooms.com/assets/img/snapzoomadaptor.png" width="300" alt="" title="Hosted on snapzooms.com" /></a>
+<a href="http://i.imgur.com/9YdzyqZ.jpg"><img src="http://i.imgur.com/9YdzyqZ.jpg" width="300" alt="" title="Hosted on imgur.com" /></a>
 </div>
 In this talk we'll take a look at our journey to make our project, Snapzoom: the universal smartphone scope adapter, a reality. We'll focus on how we developed our idea into prototypes with CAD and rapid prototyping 3D printers, and the importance of IP (patents and trademarks).  We'll also touch on how we created a successful Kickstarter project, the importance of social media and what production hurdles lie ahead of us.
 

@@ -1,0 +1,41 @@
+--- 
+layout: post
+title: Node.js and Node.js KO
+date: 2013-08-12 00:40:00 -10:00
+author: Julie Ann Sakuda
+categories: ['Event']
+image: http://i.imgur.com/knXqWfz.png
+description: Node.js and Node Knockout Prep
+tags: [node, event]
+---
+<div style="float: left; margin-right: 15px" >
+<a href="http://imgur.com/knXqWfz"><img src="http://i.imgur.com/knXqWfz.png" title="Hosted by imgur.com" /></a>
+</div>
+Node.js is Javascript runtime for the server-side that is based on Google Chrome's V8 Javascript engine. Its popularity and use have taken off in the past 2 years due to its surprising performance advantages over other scripting languages. Its event loop concurrency model is similar to those that are used in Nginx, Python's Twisted, and Ruby's EventMachine. Javascript on the server side allows complicated server-side products to be written with a minimal amount of code.
+
+This talk will cover the following topics:
+
+* [Common.js Modules](http://nodejs.org/docs/latest/api/modules.html)
+* [HTTP](http://nodejs.org/api/http.html)
+* [Streams API](http://nodejs.org/api/stream.html)
+* [Debugging](http://nodejs.org/api/debugger.html)
+* [NPM](https://npmjs.org) - community based package manager for modules
+* [Node.js Knockout](http://nodeknockout.com) past experiences
+
+If you would like to read about Node.js before the talk visit [http://nodejs.org](http://nodejs.org) for more information. The api documentation can be found at [http://nodejs.org/api/](http://nodejs.org/api/).
+
+<br />
+__When:__ Tuesday, August 13, 2013 7:00pm to 8:00pm
+
+__Where:__ HI Capacity (in the Box Jelly), 307a Kamani Street Honolulu, 96813. (Please park on Ward Ave, Kamani street, or surrounding street parking).
+
+Register for this event now at: [http://www.eventbrite.com/event/7744958379](http://www.eventbrite.com/event/7744958379)
+
+---
+<div style="float: left; margin-right: 15px;">
+<a href="http://imgur.com/zCMOHqZ"><img src="http://i.imgur.com/zCMOHqZ.jpg" width="75" title="Hosted by imgur.com" /></a>
+</div>
+#### James Wang ####
+James Wang is an independent software developer in Honolulu, Hawaii and the owner of Slickage Studios. He is also one of the co-founders of HI Capacity. He enjoys experimenting in all aspects of the development process including backend, frontend, and dev ops. When James is not coding he enjoys playing fighting games competetively.
+
+<br style="clear:both" />

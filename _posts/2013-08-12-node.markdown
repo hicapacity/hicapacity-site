@@ -4,7 +4,7 @@ title: Node.js and Node.js KO
 date: 2013-08-12 00:40:00 -10:00
 author: Julie Ann Sakuda
 categories: ['Event']
-image: http://i.imgur.com/knXqWfz.png
+image: i.imgur.com/knXqWfz.png
 description: Node.js and Node Knockout Prep
 tags: [node, event]
 ---

@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Bitcon Talk
+title: Bitcoin Talk
 date: 2013-08-13 23:40:00 -10:00
 author: Julie Ann Sakuda
 categories: ['Event']

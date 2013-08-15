@@ -5,7 +5,7 @@ date: 2013-08-14 23:10:00 -10:00
 author: Julie Ann Sakuda
 categories: ['Event']
 image: i.imgur.com/MnJgxGi.jpg
-description: Node.js and Node Knockout Prep
+description: Programming and sweets together in HI Capacity's new Programming is Sweet series!
 tags: [node, event]
 ---
 <div style="float: left; margin-right: 15px; padding-right: 10px;" >

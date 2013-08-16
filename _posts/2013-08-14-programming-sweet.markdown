@@ -16,7 +16,7 @@ HI Capacity will be hosting a new series, entitled "Programming is Sweet" to ral
 __Sweets will be provided based on pre-orders. If you wish to eat, please purchase a ticket.__ This event will feature cupcakes from Hokulani Bakery. Yum! This will also serve as a small fundraiser for HI Capacity to save up for our Makerspace/Hackerspace Wishlist.
 
 <br />
-__When:__ Tuesday, August 22, 2013 7:00pm to 9:00pm
+__When:__ Thursday, August 22, 2013 7:00pm to 9:00pm
 
 __Where:__ HI Capacity (in the Box Jelly), 307a Kamani Street Honolulu, 96813. (Please park on Ward Ave, Kamani street, or surrounding street parking).
 

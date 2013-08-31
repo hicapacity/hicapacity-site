@@ -3,9 +3,7 @@ layout: static
 title: Membership
 permalink: /membership/
 ---
-There has been a lot of interest from HI Capacity members and the maker community to open a Makerspace. To keep the movement going, [The Box Jelly](http://theboxjelly.com/) has graciously allowed HI Capacity to create an interim Makerspace at it's location while we search for a more permanent home.
-
-We will be open on Monday, October 10th.
+There has been a lot of interest from HI Capacity members and the maker community to open a Makerspace. We have attained our dedicated space! We are located at the very back of The Box Jelly. Enter through the front of The Box Jelly and go all the way to the back (past the conference rooms and the canvas door). We are on the right inside of the white sliding doors!
 
 **Hours of Operation**
 
@@ -57,7 +55,7 @@ Starving Hacker and Student rates are available. Please email maker(a)hicapacity
 
 ** Where **
 
-307c Kamani Street, Honolulu, HI
+307a Kamani Street, Honolulu, HI
 <div>
   <iframe src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=The+Box+Jelly,+Kamani+Street,+Honolulu,+HI&amp;aq=0&amp;sll=37.0625,-95.677068&amp;sspn=46.946584,88.857422&amp;vpsrc=0&amp;ie=UTF8&amp;hq=The+Box+Jelly,&amp;hnear=Kamani+St,+Honolulu,+Hawaii&amp;t=m&amp;ll=21.296642,-157.856993&amp;spn=0.006295,0.006295&amp;output=embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="425" height="350"></iframe><br>
 </div>
@@ -66,7 +64,7 @@ Starving Hacker and Student rates are available. Please email maker(a)hicapacity
 
 **Parking**
 
-Parking is available at Sports Authority (owned by the same land owner). There is also street parking around the neighborhood.
+Parking for HI Capacity is street parking only. There is parking on side streets surrounding Kamani Street and also on Ward Avenue.
 
 **Our Future**
 

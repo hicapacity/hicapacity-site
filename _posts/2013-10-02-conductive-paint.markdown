@@ -5,10 +5,10 @@ date: 2013-10-02 19:40:00 -10:00
 author: Julie Ann Sakuda
 categories: ['Event']
 image: i.imgur.com/kUt16oF.jpg
-description: Learn about simple circuits using conductive paint!
+description: Interested in learning about simple circuits? Enjoy making things light up? Join us for our conductive paint workshop!
 tags: [node, event]
 ---
-Interested in learning about simple circuits? Enjoy making things light up? Join us for our conductive paint workshop! 
+Interested in learning about simple circuits? Enjoy making things light up? Join us for our conductive paint workshop!
 
 This is a simple project where art meets electronics. We'll be decorating and designing paper houses and lighting them up using conductive paint! No wires or soldering involved here! 
 

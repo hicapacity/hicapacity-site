@@ -18,7 +18,7 @@ __When:__ Tuesday, October 23, 2013 7:00pm
 
 __Where:__ HI Capacity (in the Box Jelly), 307a Kamani Street Honolulu, 96813. (Please park on Ward Ave, Kamani street, or surrounding street parking).
 
-Register for this event now at: TBD
+Register for this event now at: [https://www.eventbrite.com/event/8796555735](https://www.eventbrite.com/event/8796555735)
 
 ---
 #### Trevor Alexander ####

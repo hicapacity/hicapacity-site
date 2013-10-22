@@ -14,7 +14,7 @@ tags: [node,event]
 This talk will introduce brain-computer interfaces (BCI) assuming no background in the field. Beginning with the basic phenomenon of neural conduction, the talk will introduce major measurement technologies with a focus on electroencephalography (EEG) and offer examples of current BCI paradigms and their applications. Next, active areas of research and development, good DIY projects, and public data stores will be introduced. The talk will conclude with a discussion of current problems and future issues.
 
 <br />
-__When:__ Tuesday, October 23, 2013 7:00pm
+__When:__ Wednesday, October 23, 2013 7:00pm
 
 __Where:__ HI Capacity (in the Box Jelly), 307a Kamani Street Honolulu, 96813. (Please park on Ward Ave, Kamani street, or surrounding street parking).
 

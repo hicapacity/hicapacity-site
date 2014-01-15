@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: HI Capacity All Hands Meeting
+date: 2014-01-14 08:00:00 -10:00
+author: James Wang
+categories: ['Event']
+description: HI Capacity is having an all hands meeting to discuss our future in 2014.
+image: i.imgur.com/qqUXpcv.png
+tags: [node,event]
+---
+<div style="float: left; margin-right: 15px; padding-right: 10px;" >
+<a href="http://i.imgur.com/qqUXpcv.png"><img src="http://i.imgur.com/qqUXpcv.png" width="250" title="Hosted by imgur.com" /></a>
+</div>
+We hope everyone is having a good new year!
+
+We haven't done this in quite a long time and the HI Capacity space has come quite a long way. Join us after a year of being in our own space to talk about some current challenges that we have been and are facing. There are a lot of pros and cons about our current situation and we will be addressing the changes for our beloved hackerspace.
+
+Although we want to provide the best experience for members at a very good rate, it has become an issue for us financially and we need to take action to be able to sustain the space.
+
+Value for the members need to be very concrete and put forth to the public. Although we would love all the support we can get from the community, we need to also have a compelling product for not just the members but for the public as a whole. Our public events have been proven to be worthwhile to the tech community but we need to provide more for our existing paying members to differentiate the membership value. The purpose of this all-hands meeting is to take in public's opinions with a Q and A session with what people are looking for in the space, both physically and virtually.
+
+
+
+Please join us on the 23rd of January for the HI Capacity all hands meeting!
+

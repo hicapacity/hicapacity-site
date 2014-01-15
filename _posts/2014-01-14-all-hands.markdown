@@ -5,11 +5,11 @@ date: 2014-01-14 08:00:00 -10:00
 author: James Wang
 categories: ['Event']
 description: HI Capacity is having an all hands meeting to discuss our future in 2014.
-image: i.imgur.com/qqUXpcv.png
+image: i.imgur.com/u3qW1yQ.jpg
 tags: [node,event]
 ---
 <div style="float: left; margin-right: 15px; padding-right: 10px;" >
-<a href="http://i.imgur.com/qqUXpcv.png"><img src="http://i.imgur.com/qqUXpcv.png" width="250" title="Hosted by imgur.com" /></a>
+<a href="http://i.imgur.com/u3qW1yQ"><img src="http://i.imgur.com/u3qW1yQ.jpg" width="300" title="Hosted by imgur.com" /></a>
 </div>
 We hope everyone is having a good new year!
 

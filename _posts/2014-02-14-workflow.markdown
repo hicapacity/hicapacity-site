@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: HiCapacity Presents, Discussion Series - What's your Workflow?
+date: 2014-02-13 01:30:00 -10:00
+author: Edward Kim
+categories: ['Event']
+image: i.imgur.com/FvEUrDv.png
+description: For our third monthly meetup, we'll be asking the question, "What's your workflow?"
+tags: [workflow, event]
+---
+For our third monthly meetup, we'll be asking the question, "What's your workflow?" This discussion was sparked by the a fellow HiCapacity member (fellow capacitor?). He noticed that whenever he was working with someone at a hackathon or Startup Weekend, another developer always had some sort of shortcut that he'd never seen before. Whether it was a simple keystroke that would save him half a second or a full framework that made building webpages simpler, there was always something to learn. So let's go over what tools you use to work your craft. Let's talk about specifics here. What's your IDE? What plugins do you run? What extra tools do you use to make thing easier for you? We can even talk about what keystrokes save you that extra half second. Because we know even half a second here and there help out tremendously over time.
+
+Apart from tools, we can also discuss workflow hacks that make building applications smoother. Let's talk about how you set up your directory structure to make your intent clearer, how you arrange icons on your desktop to keep the things within your view, we can even go over proper hardware setups! Two monitors? Three monitors? Specific type of keyboard you really like that everyone should use? Mouse or touchpad? 
+
+As with most of our discussions, please come prepared to talk and be engaged. Let's make sure we have a lively discussion going because the more people are involved the more tips we can share. You never know, maybe that one thing you thought everyone knew, is something nobody bothered to think about. 
+
+<br />
+
+__When:__ Thursday, February 20, 2014 7:00pm
+
+__Where:__ HI Capacity (in the Box Jelly), 307a Kamani Street Honolulu, 96813. (Please park on Ward Ave, Kamani street, or surrounding street parking).
+
+Register for this event now at: [https://www.eventbrite.com/e/discussion-series-whats-your-workflow-tickets-10337276071](https://www.eventbrite.com/e/discussion-series-whats-your-workflow-tickets-10337276071)
+
+---
+
+#### Edward Kim ####
+Edward Kim is a developer for Lockheed Martin and Slickage Studios. He graduated from the University of Manoa with a Bachelor of Science degree in Information and Computer Science. Since graduating, he has mainly focused on building web services and applications for both the client and server side. He's also has experience building Machine Learning Frameworks and A.I. type applications, worked with GIS type applications for the military, and has also dabbled in buzz words like Big Data and Cloud.

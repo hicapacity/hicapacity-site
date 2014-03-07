@@ -4,7 +4,7 @@ title: Pair Programming
 date: 2014-03-06 18:00:00 -10:00
 author: Austen Ito
 categories: ['Event']
-image: i.imgur.com/FvEUrDv.png
+image: i.imgur.com/k3U60m0.png
 description: Austen Ito discusses how Kitchensurfing ships code using pair programming.
 tags: [workflow, event]
 ---

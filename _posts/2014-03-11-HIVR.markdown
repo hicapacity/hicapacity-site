@@ -1,0 +1,47 @@
+--- 
+layout: post
+title: HIVR Demo Release
+date: 2014-03-11 
+author: Jesse Thompson
+categories: ['Announcement']
+image: i.imgur.com/fnrmFa6.jpg
+description: HIVR & HICAPACITY VR Demo Release
+tags: [VR, Oculus, Leap, HIVR]
+---
+<div style="float: left; margin-right: 15px; padding-right: 10px;" >
+<a href="http://i.imgur.com/fnrmFa6.jpg"><img src="http://i.imgur.com/fnrmFa6.jpg" width="300" title="Hosted by imgur.com" /></a>
+</div>
+The Hawaii VR group and HICAPACITY have released the first version of their Oculus Rift and Leap Motion enabled VR Demo Scene.
+Using a [Leap Motion](https://www.leapmotion.com/) you can grab food objects and bring them to the camera for fun munching action. Press 2 to load the [Oculus Rift](http://www.oculusvr.com) enabled scene. The scene also features image based lighting using [Marmoset SkyShop](http://www.marmoset.co/skyshop) using an image of the actual 
+HICAPACITY space in the Box Jelly.
+
+We've also uploaded an android build of the scene so you can view the space on an android enabled mobile device.
+
+For those of you without a Leap Motion or Oculus HIVR, we will be demoing this scene at the [Honolulu Mini Maker Faire](http://makerfairehonolulu.com/) on March 15, 2014 at
+'Iolani School. 
+
+<br />
+
+
+
+Here are the download links on sendpace!
+
+
+* File Name: HICAP_OSX.zip
+	Description: OSX APP HICAP Scene
+	File Size: 33.5 MB
+	Download Link: [download](http://www.sendspace.com/file/fd6ttv)
+* File Name: HICAP_Windows.zip
+	Description: Windows EXE HICAP Scene
+	File Size: 34.4 MB
+	Download Link: [download](http://www.sendspace.com/file/8x3ngi)
+* File Name: HICAP.apk
+	Description: Android HICAP Scene
+	File Size: 18 MB
+	Download Link: [download](http://www.sendspace.com/file/0bz8in)
+
+
+<br />
+
+
+

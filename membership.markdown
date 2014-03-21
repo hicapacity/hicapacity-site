@@ -25,32 +25,14 @@ Certain evenings will be closed due to Box Jelly events. We will notify you in a
 
 **Monthly Dues**
 
-$50/month &mdash; Basic membership, which includes access to the space.
+$60/month &mdash; Basic membership, which includes access to the space.
 
 $75/month &mdash; This includes basic membership, a HI Capacity email address, and a personal web page on the hicapacity.org subdomain. You can advertise your membership or talk about your projects! Your additional contribution will go towards opening a larger Makerspace and equipment. By contributing a little more, you can help our Makerspace grow even faster!
 
 Starving Hacker and Student rates are available. Please email maker(a)hicapacity.org
 
 <div> <!-- Membership Widget -->
-  <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-    <input type="hidden" name="cmd" value="_s-xclick">
-    <input type="hidden" name="hosted_button_id" value="SDXG5NJQPKQQQ">
-    <input type="hidden" name="on0" value="Select type">
-      <select name="os0" style="width: 200px; height: 25px;" id="normalSelect">
-        <option value="Standard">Standard : $50USD/Month</option>
-        <option value="Help us grow">Help us grow : $75USD/Month</option>
-      </select> 
-    <input type="hidden" name="currency_code" value="USD">
-    <div style="width: 100%;">
-      <div style="float:left; padding-top: 5px">
-        <input type="submit" name="submit" value="Join" style="width: 55px" class="btn primary">
-      </div>
-      <div style="padding-left: 5px; float:left;">
-        <img src="/img/creditcard_paypal.png" style="padding-top: 6px">           
-      </div>
-    </div>
-    <div style="clear:both;"></div>          
-  </form>
+{% include paypal.html %}
 </div>
 
 ** Where **

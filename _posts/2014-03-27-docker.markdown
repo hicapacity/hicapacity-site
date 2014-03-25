@@ -5,7 +5,7 @@ date: 2014-03-27
 author: James Wang
 categories: ['Event']
 image: i.imgur.com/HfwA9DR.png
-description: Docker - Ops for Software Developers
+description: Join James for a talk about Docker, an open-source project that can be used to create lightweight VMs.
 tags: [docker, development, deployment]
 ---
 <div style="float: left; margin-right: 15px; padding-right: 10px; background-color: #fff" >

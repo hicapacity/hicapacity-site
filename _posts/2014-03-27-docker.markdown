@@ -1,0 +1,52 @@
+--- 
+layout: post
+title: Docker - Ops for Software Developers
+date: 2014-03-27
+author: James Wang
+categories: ['Event']
+image: i.imgur.com/HfwA9DR.png
+description: Docker - Ops for Software Developers
+tags: [docker, development, deployment]
+---
+<div style="float: left; margin-right: 15px; padding-right: 10px; background-color: #fff" >
+<a href="http://i.imgur.com/HfwA9DR.png"><img src="http://i.imgur.com/HfwA9DR.png" title="Hosted by imgur.com" /></a>
+</div>
+
+_Docker is an open-source project to easily create lightweight, portable, self-sufficient containers from any application. The same container that a developer builds and tests on a laptop can run at scale, in production, on VMs, bare metal, OpenStack clusters, public clouds and more. -- docker.io_
+
+<br/><br/>
+Developers are key to any business invested into technology. They are the heart and soul of getting the product off the ground. However traditionally, systems are kept up by admininistrators and ops people. Good developers write code that's useful for production and great developers are able to reproduce the production infrastructure in development.
+
+As a newcomer to Docker, one can simply think about this piece of technology as being a lightweight VM that is cheap to create, destroy, and even share. Synonymously think about how Git has changed the world of software development by being distributed and incredibly cheap and quick to do things that were not done in the past.
+
+Technology advancements allow for newly revised workflows optimizing speed of integration between development versus production and allows for testing and accurate visibility.
+
+This is a talk for administrators and developers.
+
+Demos:
+
+* Web servers/applications
+* Databases
+* Deployment
+* Various software services
+* Container linking
+
+<br />
+__When:__ Thursday, March 27, 2014 7:00pm to 8:30pm
+
+__Where:__ HI Capacity (in the Box Jelly), 307a Kamani Street Honolulu, 96813. (Please park on Ward Ave, Kamani street, or surrounding street parking).
+
+Register for this event now at: [https://www.eventbrite.com/e/docker-ops-for-software-developers-tickets-11067213333](https://www.eventbrite.com/e/docker-ops-for-software-developers-tickets-11067213333)
+
+<br />
+
+---
+<div style="float: left; margin-right: 15px;">
+<a href="http://imgur.com/zCMOHqZ"><img src="http://i.imgur.com/zCMOHqZ.jpg" width="75" title="Hosted by imgur.com" /></a>
+</div>
+#### James Wang ####
+James Wang is the CEO and Principal Software Engineer of Slickage, a Honolulu based software engineering firm. He is also a co-founder of HI Capacity, a hackerspace in Honolulu formed in 2011. When hacking he enjoys the intricacies of large scale systems all the way up to the response times of beautiful user interfaces. When James is not coding he engages in competitive fighting games and competes in tournaments across the US.
+
+<br style="clear:both" />
+
+

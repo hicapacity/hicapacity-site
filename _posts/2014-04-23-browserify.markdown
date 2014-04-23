@@ -8,8 +8,8 @@ image: i.imgur.com/dFifkOW.png
 description: Join James for a talk about Browserify and learn how to modularize your browser code in a the same manner as Node.js code.
 tags: [development, node]
 ---
-<div style="float: left; margin-right: 15px; padding-right: 10px; background-color: #fff" >
-<a href="http://i.imgur.com/dFifkOW><img src="http://i.imgur.com/dFifkOW.png" title="Hosted by imgur.com" /></a>
+<div style="float: left; margin-right: 15px; padding-right: 10px;>
+<a href="http://i.imgur.com/dFifkOW"><img src="http://i.imgur.com/dFifkOW.png" width="200" title="Hosted by imgur.com" /></a>
 </div>
 
 [Browserify](http://browserify.org) lets you modularize your code for the browser the same way you do for Node.js. This allows for tiny modules of code to be written that does 1 thing and 1 thing well -- the essence of Unix philosophy. Synchronous dependencies are ok on the server-side but not ok for the browser. Browserify gives you the same type of require method control as Node.js. Browserify parses the AST for require() calls to traverse the entire dependency graph of your project.

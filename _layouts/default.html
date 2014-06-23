@@ -4,11 +4,13 @@
 <title>{{ page.title }}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<link rel="stylesheet" href="/css/bootstrap.min.css">
 <link rel="stylesheet" href="/css/socicon.css">
 <link rel="stylesheet" href="/css/site.css">
 <link rel="stylesheet" href="/css/menu.css">
 
 <script src="/js/jquery-2.1.1.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="/js/menu_jquery.js"></script>
 
 <script>
@@ -30,6 +32,17 @@
 <body>
   {% include header.html %}
   {% include navbar.html %}
+  
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-9 blog-main">
+        {{ content }}
+      </div>
+      <div class="col-sm-3 blog-sidebar">
+        {% include sidebar.html %}        
+      </div>
+    </div>
+  </div>
   
   <div class="copyright">
     &copy HICapacity LLC 2014</script>

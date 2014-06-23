@@ -80,13 +80,22 @@ a:hover {
   padding: 5px;
 }
 
+.header .subtitle a {
+  color: #525252;
+}
+
+.header .subtitle a:hover {
+  color: #BBBBBB;
+}
+
 .span3 {
   margin-top: 20px;
 }
 
 /* CSS for the posts */
 .post {
-/*  background: url('/img/content_bg.png');*/
+  background: url('/img/content_bg.png');
+/*  background-color: white;*/
   border-radius: 4px;
   font-size: 13px;
   color: #E5E5E5;

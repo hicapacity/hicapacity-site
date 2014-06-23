@@ -4,6 +4,23 @@
 <title>{{ page.title }}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<!-- OpenGraph tag stuff -->
+{% if page.type == "main" %}
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="HI Capacity" />
+<meta property="og:image" content="http://hicapacity.org/img/hicap_logo.svg" />
+<meta property="og:description" content="{{ page.description }}" />
+<meta property="og:url" content="http://hicapacity.org{{ page.url }}">
+{% else %}
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="HI Capacity" />
+<meta property="og:image" content="http://{{ page.image | image_url }}" />
+<meta property="og:description" content="{{ page.description }}" />
+<meta property="og:url" content="http://hicapacity.org{{ page.url }}">
+{% endif %}
+
 <link rel="stylesheet" href="/css/bootstrap.min.css">
 <link rel="stylesheet" href="/css/socicon.css">
 <link rel="stylesheet" href="/css/site.css">

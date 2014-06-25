@@ -240,6 +240,7 @@
     border-bottom: 2px solid #ffffff;
     right: 25px;
     top: 18px;
+    box-sizing: content-box;
   }
   #cssmenu #menu-button::before {
     display: block;
@@ -250,6 +251,7 @@
     border-top: 2px solid #ffffff;
     right: 25px;
     top: 28px;
+    box-sizing: content-box;    
   }
   #cssmenu > ul > li.has-sub > a::after,
   #cssmenu ul ul li.has-sub > a::after {

@@ -23,7 +23,7 @@ h3 {
 }
 
 h4 {
-  color: #888888;    
+  color: #888888;
 }
 
 h5 {
@@ -130,7 +130,7 @@ a:hover {
 }
 
 .postContent a:link, .postContent a:active, .postContent a:visited { 
-  color: #AABBAA;
+  color: #3F8686;
   text-decoration: underline;
 }
 .postContent a:hover { color: #DDDDDD; text-decoration: none; text-shadow: none; }

@@ -84,7 +84,7 @@
   position: absolute;
   left: -9999px;
   top: 60px;
-  padding-top: 6px;
+/*  padding-top: 6px;*/
   font-size: 13px;
   opacity: 0;
   -webkit-transition: top 0.2s ease, opacity 0.2s ease-in;
@@ -242,7 +242,7 @@
     top: 18px;
     box-sizing: content-box;
   }
-  #cssmenu #menu-button::before {
+ #cssmenu #menu-button::before {
     display: block;
     content: '';
     position: absolute;
@@ -251,7 +251,7 @@
     border-top: 2px solid #ffffff;
     right: 25px;
     top: 28px;
-    box-sizing: content-box;    
+    box-sizing: content-box;
   }
   #cssmenu > ul > li.has-sub > a::after,
   #cssmenu ul ul li.has-sub > a::after {

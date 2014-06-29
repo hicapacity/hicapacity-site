@@ -7,8 +7,8 @@ There has been a lot of interest from HI Capacity members and the maker communit
 
 **Hours of Operation**
 
-Monday-Friday, 8am-12am
-Saturday-Sunday, 11am-6pm
+Monday-Friday, 8am-8pm
+Saturday-Sunday, 11am-4pm
 
 **Restrictions**
 

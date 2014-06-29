@@ -1,7 +1,7 @@
 /* Custom Fonts */
 @font-face {
     font-family: Outage-Cut;
-    src: url('/font/Outage Cut.ttf');
+    src: url('/fonts/Outage Cut.ttf');
 }
 
 body { 
@@ -36,6 +36,26 @@ a, a:focus {
 
 a:hover {
   text-decoration: none;
+}
+
+.vertical-outer {
+    display: table;
+    height: 10em
+}
+
+.vertical-inner {
+    display: table-cell;
+    vertical-align: middle
+}
+
+.grid {
+    text-align: justify;
+    font-size: 0;
+}
+
+.box {
+    font-size: 1rem;
+    display: inline-block;
 }
 
 .header {
@@ -202,13 +222,39 @@ a:hover {
   padding-top: 5px;
 }
 
-.widget input {
-  line-height: 15px;
-  margin-bottom: 0px;
+.address {
+  color: #3F8686;
 }
 
-.widget select{
-  margin-bottom: 0px;
+.info-icon {
+  color: #3F8686;
+  font-size: 12px;
+  padding-left: 5px;
+}
+
+.paypal {
+  font-family: Verdana, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 10pt;
+  margin-left: 15px;
+  background-color: white;
+  padding: 5px;
+  border: 1px solid;
+  border-radius: 5px;
+  border-color: black;
+}
+
+.paypal1 {
+  color: #00335E;
+}
+
+.paypal2 {
+  color: #296192;
+}
+
+.trademark {
+  font-size: 10pt;
 }
 
 .copyright {

@@ -14,7 +14,7 @@ We currently have a MakerBot Replicator (Fifth Generation) available for printin
 There is a flat fee for using the printer. In addition to the flat fee, it costs $0.05 per a minute of printer usage. Larger or higher quality models will take longer. Final cost cannot be determined until model is completed. Please note that the MakerBot Replicator will attempt to estimate the amount of time the model will take to print but this is frequently wrong.
 
 #### 3D Model Design ####
-We currently have someone in HICapacity member that is available to assist with the designing of 3D models. Please note that depending on how many requests are receieved, there may be a waiting period.
+We currently have someone in HICapacity that is available to assist with the designing of 3D models. Please note that depending on how many requests are receieved, there may be a waiting period.
 
 ##### Design Rates #####
 * $35/hr for HICapacity members

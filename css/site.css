@@ -259,14 +259,10 @@ a:hover {
 
 .category {
   margin-top: 5px;
-/*  background-color: #991C1C;*/
   color: #991C1C;
-/*  border-radius: 3px;*/
-/*  padding: 2px 10px 2px 10px;*/
   font-size: 11px;
   font-weight: bold;
   display: inline-block;
-/*  box-shadow: 1px 1px 1px #333;*/
 }
 
 .pagerWrapper {
@@ -280,8 +276,7 @@ a:hover {
 
 .pager a {
   border-radius: 4px;
-  background-color: transparent;
-  background-image: url('/img/widget_bg.png');
+  background-color: black;
   color: #999999;
 }
 
@@ -292,7 +287,7 @@ a:hover {
 .pager .previous span {
   float: left;
   border-radius: 4px;
-  background-image: url('/img/widget_bg.png');
+  background-color: black;
   display: inline-block;
   padding: 6px 15px;
 }
@@ -300,13 +295,13 @@ a:hover {
 .pager .next span {
   float: right;
   border-radius: 4px;
-  background-image: url('/img/widget_bg.png');
+  background-color: black;  
   display: inline-block;
   padding: 6px 15px;
 }
 
 .pager li > a {
-  background-color: transparent;
+  background-color: black;
   border-radius: 4px;
   border: 0px;
 }
@@ -319,7 +314,7 @@ a:hover {
 }
 
 .pager li > a:hover, .pager li > a:focus {
-  background-color: transparent;
+  background-color: black;
 }
 
 /* CSS for search page  */

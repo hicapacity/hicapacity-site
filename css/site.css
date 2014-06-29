@@ -169,14 +169,6 @@ a:hover {
 }
 .postComments:hover { color: #AAAAAA; text-decoration: none; text-shadow: none; }
 
-.postHeaderRule {
-  background: url('/img/post_hr.png');
-  width: 100%;
-  height: 2px;
-  margin: 10px 0px 10px 0px;
-  clear: both;
-}
-
 .imgLeft {
   float: left;
   margin-right: 10px;

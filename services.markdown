@@ -3,47 +3,20 @@ layout: static
 title: Services
 permalink: /services/
 ---
-# Header 1 #
-## Header 1 #
-### Header 1 #
-#### Header 1 #
-##### Header 1 #
-###### Header 1 #
 
+#### 3D Printing ####
+We currently have a MakerBot Replicator (Fifth Generation) available for printing models. Designated HICapacity members will assist anyone wishing to use the printer.
 
-### Why should you be a HI Capacity member? ###
-*For the perks of course!*
+##### Printing Rates #####
+* $5 flat fee (waived for HICapacity &amp; BoxJelly members)
+* $0.05/min of printing time
 
-#### Essentials ####
-* Community! Meet cool people and those who pass through!
-* Space for doing projects
-* Space for holding talks and other events
-* High-speed wireless internet
-* Snacks
+There is a flat fee for using the printer. In addition to the flat fee, it costs $0.05 per a minute of printer usage. Larger or higher quality models will take longer. Final cost cannot be determined until model is completed. Please note that the MakerBot Replicator will attempt to estimate the amount of time the model will take to print but this is frequently wrong.
 
-#### Equipment ####
-* HD Projector (for giving talks)
-* Soldering tools (soldering irons, helping hands, solder)
-* 3D Printers (MakerBot)
+#### 3D Model Design ####
+We currently have someone in HICapacity member that is available to assist with the designing of 3D models. Please note that depending on how many requests are receieved, there may be a waiting period.
 
-<div class="gallery" style="padding-bottom: 10px;">
-<a href="/img/makerbot/makerbot.jpg" rel="gallery" class="pirobox_gall first" title="MakerBot" rev="0"><img src="/img/makerbot/makerbot_thumb.jpg" alt="image"></a>
-<a href="/img/makerbot/yoda_partial.jpg" rel="gallery" class="pirobox_gall" title="Yoda Being Printed" rev="1"><img src="/img/makerbot/yoda_partial_thumb.jpg" alt="image"></a>
-<a href="/img/makerbot/yoda_finished.jpg" rel="gallery" class="pirobox_gall" title="Finished Yoda" rev="2"><img src="/img/makerbot/yoda_finished_thumb.jpg" alt="image"></a>
-<a href="/img/makerbot/yoda_finished_2.jpg" rel="gallery" class="pirobox_gall last" title="Yoda" rev="3"><img src="/img/makerbot/yoda_finished_2_thumb.jpg" alt="image"></a>
-</div>
-
-#### Weekly Meetups ####
-* Hardware Wednesdays
-* Programming Night Thursdays
-
-#### Events ####
-* Access to all public events
-* Access to private members only talks
-
-#### Development ####
-* iPhone Developers License
-
-#### Premium Membership Benefits ####
-* Subdomain/hosting space
-* HI Capacity email address
+##### Design Rates #####
+* $35/hr for HICapacity members
+* $45/hr for BoxJelly members
+* $50/hr for visitors

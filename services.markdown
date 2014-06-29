@@ -5,7 +5,7 @@ permalink: /services/
 ---
 
 #### 3D Printing ####
-We currently have a MakerBot Replicator (Fifth Generation) available for printing models. Designated HICapacity members will assist anyone wishing to use the printer.
+We currently have a MakerBot Replicator (Fifth Generation) available for printing models. Designated HICapacity members will assist anyone wishing to use the printer. Please note that this printer only accepts PLA, so if you would like to bring your own material make sure it is PLA.
 
 ##### Printing Rates #####
 * $5 flat fee (waived for HICapacity &amp; BoxJelly members)

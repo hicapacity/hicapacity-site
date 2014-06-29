@@ -2,7 +2,11 @@
 layout: default
 title: HICapacity Calendar
 permalink: /calendar/
+type: calendar
 ---
+<script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.7.0/moment.min.js"></script>
+<script src="/js/fullcalendar.min.js"></script>
+<script src="/js/gcal.js"></script>
 <script src="/js/hicap.calendar.js"></script>
 
 <div class="post">

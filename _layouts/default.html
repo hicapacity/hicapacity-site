@@ -48,6 +48,9 @@
 <link rel="stylesheet" href="/css/events.css">
 <link rel="stylesheet" href="/css/github.css">
 <link rel="stylesheet" href="/css/menu.css">
+{% if page.type == "calendar" %}
+<link rel="stylesheet" href="/css/fullcalendar.css">
+{% endif %}
 
 <script src="/js/jquery-2.1.1.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
@@ -72,6 +75,20 @@
     else {
       $('#home').addClass('active');
     }
+    
+    // Insert post comment counts
+    $('.postComments').each(function(index) {
+      var element = $(this); // keep the element in scope!
+      var page_url = element.attr('data-url');
+      $.getJSON('https://graph.facebook.com/' + page_url, function(json) {
+        console.log(json);
+          var comments = 0;  
+          if (json.comments !== undefined) {
+            comments = json.comments;
+          }
+          element.html('Comments (' + comments + ')');
+      });
+    });
   });
 </script>
 

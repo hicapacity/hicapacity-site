@@ -39,3 +39,8 @@
 .timeLabel {
   color: #999;
 }
+
+.calButton a {
+  color: #3F8686;
+  text-decoration: none;
+}

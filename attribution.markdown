@@ -3,6 +3,7 @@ layout: static
 title: Attribution
 permalink: /attribution/
 type: main
+description: Attributions for free software and assets used for the creation of this HICapacity website.
 ---
 
 Social Media Font: [http://socicon.com/](http://socicon.com/)

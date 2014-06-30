@@ -3,6 +3,7 @@ layout: static
 title: About HICapacity
 permalink: /about/
 type: main
+description: About the HICapacity makerspace!
 ---
 
 ### What is HI Capacity? ###

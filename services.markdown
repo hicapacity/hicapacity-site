@@ -3,6 +3,7 @@ layout: static
 title: Services
 permalink: /services/
 type: main
+description: Details about the services being offered at the makerspace!
 ---
 
 #### 3D Printing ####

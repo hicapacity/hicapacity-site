@@ -3,6 +3,7 @@ layout: static
 title: Membership
 permalink: /membership/
 type: main
+description: Learn more about the benefits of becoming a member!
 ---
 There has been a lot of interest from HI Capacity members and the maker community to open a Makerspace. We have attained our dedicated space! We are located at the very back of The Box Jelly. Enter through the front of The Box Jelly and go all the way to the back (past the conference rooms and the canvas door). We are on the right inside of the white sliding doors!
 

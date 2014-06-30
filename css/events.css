@@ -1,7 +1,5 @@
 /* CSS for the Google Calendar events widget. */
 #events {
-  /*font: 12px "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-  font-family: "Lucida Sans Unicode", "Lucida Sans", Verdana, Helvetica, Arial, sans-serif;
   color: #777;
 }
 
@@ -24,7 +22,7 @@
 }
 .eventTitle  a:link {
   font-size: 11px;
-  color: #A5A5A5;
+  color: #3F8686;
   text-decoration: none;
   font-weight: 600;
 }      /* unvisited link */
@@ -40,4 +38,9 @@
 
 .timeLabel {
   color: #999;
+}
+
+.calButton a {
+  color: #3F8686;
+  text-decoration: none;
 }

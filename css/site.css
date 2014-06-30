@@ -1,35 +1,33 @@
+/* Custom Fonts */
+@font-face {
+    font-family: Outage-Cut;
+    src: url('/fonts/Outage Cut.ttf');
+}
+
 body { 
   font-family: "Lucida Sans Unicode", "Lucida Sans", Verdana, Helvetica, Arial, sans-serif;
-  font-size: 12px; 
-  padding-top: 40px; 
+  font-size: 13px; 
   background-color: #353535;
-  background-image: url('/img/bg.png');
-  background-attachment: fixed;
 }
 
 h1 {
-  color: #888;
-  text-shadow: 2px 2px 3px #222;
+  color: #686868;
 }
 
 h2 {
-  color: #BBB;
-  text-shadow: 2px 2px 3px #222;
+  color: #707070;
 }
 
 h3 {
-  color: #CCC;
-  text-shadow: 2px 2px 3px #222;
+  color: #787878;
 }
 
 h4 {
-  color: #DDD;
-  text-shadow: 2px 2px 3px #222;
+  color: #888888;
 }
 
 h5 {
-  color: #EEE;
-  text-shadow: 2px 2px 3px #222;
+  color: #989898;
 }
 
 a, a:focus {
@@ -40,42 +38,99 @@ a:hover {
   text-decoration: none;
 }
 
-.span3 {
-  margin-top: 20px;
+.vertical-outer {
+    display: table;
+    height: 10em
+}
+
+.vertical-inner {
+    display: table-cell;
+    vertical-align: middle
+}
+
+.grid {
+    text-align: justify;
+    font-size: 0;
+}
+
+.box {
+    font-size: 1rem;
+    display: inline-block;
+}
+
+.header {
+  font-family: Outage-Cut;
+  text-align: center;
+  font-size: 64px;
+  color: white;
+  
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+  vertical-align: middle;
+}
+
+.header a {
+  color: white;
+}
+
+.header .accent {
+  color: #991C1C;
+}
+
+.header .logo {
+  vertical-align: middle;
+  margin-left: -10px;
+}
+
+.header .subtitle {
+  font-family: 'socicon' !important;
+  font-size: 24px;
+  color: #525252;
+  padding: 0 0 10px 0;
+  margin-top: -10px;
+}
+
+.header .subtitle .social {
+  padding: 5px;
+}
+
+.header .subtitle a {
+  color: #525252;
+}
+
+.header .subtitle a:hover {
+  color: #BBBBBB;
+}
+
+.sidebar {
+  padding-left: 0px;
 }
 
 /* CSS for the posts */
 .post {
-  background: url('/img/content_bg.png');
+  background-color: white;
   border-radius: 4px;
   font-size: 13px;
-  color: #E5E5E5;
-  /*text-shadow: 0px 1px 5px #222;*/
-  margin-top: 20px;
+  color: #444444;
+  margin-bottom: 15px;
   padding: 15px;
   box-shadow: 3px 3px 3px #333;
 }
 
-.post ul {
-  list-style-image: url('/img/red_bullet.png');
+.post ul li {
+    list-style-type: disc;
+    margin-left: 2em;
+    color: #991C1C;
 }
 
-.post li {
-  font-size: 13px;
-  color: #999;
-  /*color: #789;*/
-  line-height: 22px;
+.postContent {
+  margin-top: 20px;
 }
-/* #b71c27 */ /* blue: #6388AD */
-/*
-.postContent a:link, .postContent a:active, .postContent a:visited { color: #b71c27; font-style: italic; font-weight: bold }
-.postContent a:hover { color: #FFF; text-decoration: none; }
-*/
+
 .postContent a:link, .postContent a:active, .postContent a:visited { 
-  color: #AABBAA;
-  font-style: italic;
+  color: #3F8686;
   text-decoration: underline;
-  font-weight: bold;
 }
 .postContent a:hover { color: #DDDDDD; text-decoration: none; text-shadow: none; }
 
@@ -90,13 +145,11 @@ a:hover {
   font-size: 28px;
   color: #EEEEEE;
   padding-bottom: 5px;
-  line-height: 28px;
-  text-shadow: 2px 2px 5px #222;
-  /*text-shadow: 2px 2px 5px #000;*/
+  line-height: 1.3;
   font-family: 'Questrial', sans-serif;
 }
 
-.postTitle a:link, .postTitle a:visited, .postTitle a:active { color: #EEEEEE; }
+.postTitle a:link, .postTitle a:visited, .postTitle a:active { color: #666666; }
 .postTitle a:hover { color: #AAAAAA; text-decoration: none; }
 
 .postInfo {
@@ -114,22 +167,6 @@ a:hover {
   font-size: 11px;
 }
 .postComments:hover { color: #AAAAAA; text-decoration: none; text-shadow: none; }
-
-.postShare {
-  float: right;
-  font-style: normal;
-  margin-top: -5px;
-  font-size: 11px;
-}
-.postShare:hover { color: #002280; text-decoration: none; text-shadow: none; }
-
-.postHeaderRule {
-  background: url('/img/post_hr.png');
-  width: 100%;
-  height: 2px;
-  margin: 10px 0px 10px 0px;
-  clear: both;
-}
 
 .imgLeft {
   float: left;
@@ -164,11 +201,12 @@ a:hover {
 }
 
 .widget {
-  background: url('/img/widget_bg.png');
+  background-color: #232323;
   border-radius: 4px;
   margin-bottom: 10px;
   padding: 10px;
   box-shadow: 3px 3px 3px #333;
+  font-family: 'Muli';
 }
 
 .widget form {
@@ -176,18 +214,39 @@ a:hover {
   padding-top: 5px;
 }
 
-.widget input {
-  line-height: 15px;
-  margin-bottom: 0px;
+.address {
+  color: #3F8686;
 }
 
-.widget select{
-  margin-bottom: 0px;
+.info-icon {
+  color: #3F8686;
+  font-size: 12px;
+  padding-left: 5px;
 }
 
-.socialMedia {
-  padding: 0px 2px 0px 2px; 
-  text-align: center;
+.paypal {
+  font-family: Verdana, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 10pt;
+  margin-left: 15px;
+  background-color: white;
+  padding: 5px;
+  border: 1px solid;
+  border-radius: 5px;
+  border-color: black;
+}
+
+.paypal1 {
+  color: #00335E;
+}
+
+.paypal2 {
+  color: #296192;
+}
+
+.trademark {
+  font-size: 10pt;
 }
 
 .copyright {
@@ -199,14 +258,10 @@ a:hover {
 
 .category {
   margin-top: 5px;
-  background-color: #901e28;
-  color: #DDDDDD;
-  border-radius: 3px;
-  padding: 2px 10px 2px 10px;
+  color: #991C1C;
   font-size: 11px;
   font-weight: bold;
   display: inline-block;
-  box-shadow: 1px 1px 1px #333;
 }
 
 .pagerWrapper {
@@ -220,8 +275,7 @@ a:hover {
 
 .pager a {
   border-radius: 4px;
-  background-color: transparent;
-  background-image: url('/img/widget_bg.png');
+  background-color: black;
   color: #999999;
 }
 
@@ -232,7 +286,7 @@ a:hover {
 .pager .previous span {
   float: left;
   border-radius: 4px;
-  background-image: url('/img/widget_bg.png');
+  background-color: black;
   display: inline-block;
   padding: 6px 15px;
 }
@@ -240,13 +294,13 @@ a:hover {
 .pager .next span {
   float: right;
   border-radius: 4px;
-  background-image: url('/img/widget_bg.png');
+  background-color: black;  
   display: inline-block;
   padding: 6px 15px;
 }
 
 .pager li > a {
-  background-color: transparent;
+  background-color: black;
   border-radius: 4px;
   border: 0px;
 }
@@ -259,7 +313,7 @@ a:hover {
 }
 
 .pager li > a:hover, .pager li > a:focus {
-  background-color: transparent;
+  background-color: black;
 }
 
 /* CSS for search page  */
@@ -278,6 +332,12 @@ a:hover {
 /*@media screen and (max-width: 767px) {
   body { padding-top: 0px; }
 }*/
+
+@media only screen and (max-width: 767px) {
+  .sidebar {
+    padding-left: 15px;
+  }
+}
 
 @media screen and (max-width: 480px) {
   .postShare {

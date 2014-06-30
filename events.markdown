@@ -2,22 +2,10 @@
 layout: default
 title: HICapacity Events
 permalink: /events/
+type: main
 ---
 <div>
-  {% for post in site.categories.Event %}
-  <div class="post">
-    <div class="postTitle">
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </div>
-    <div class="postInfo">
-      {{ post.date | date: "%B %e, %Y" }} by {{ post.author }}
-      <a href="http://hicapacity.org{{ post.url }}#comments" data-url="http://hicapacity.org{{ post.url }}" class="postComments"></a>
-      <a href="" title="{{ post.title }}" data-url="http://hicapacity.org{{ post.url }}" class="postShare"><img src="/img/facebook_share.png" width="75"></img></a>
-    </div>
-    <div class="postHeaderRule"></div>
-    <div class="postContent">
-      {{ post.content }}
-    </div>
-  </div>
+  {% for post in site.categories.event %}
+    {% include post.html %}
   {% endfor %}  
 </div>

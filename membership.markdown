@@ -7,8 +7,8 @@ There has been a lot of interest from HI Capacity members and the maker communit
 
 **Hours of Operation**
 
-Monday-Friday, 8am-12am
-Saturday-Sunday, 11am-6pm
+Monday-Friday, 8am-8pm
+Saturday-Sunday, 11am-4pm
 
 **Restrictions**
 
@@ -21,7 +21,15 @@ Certain evenings will be closed due to Box Jelly events. We will notify you in a
 * Comfortable chairs and tables.
 * Whiteboards.
 * A community of people that want to do things!
-* Check out the [perks](/perks) page for more details.
+* Space for holding talks and other events
+* High-speed wireless internet
+* Access to all public events and access to any member only events
+
+**Equipment Available**
+
+* HD Projector
+* Soldering tools
+* MakerBot Replicator (Fifth Generation)
 
 **Monthly Dues**
 
@@ -34,6 +42,12 @@ Starving Hacker and Student rates are available. Please email maker(a)hicapacity
 <div> <!-- Membership Widget -->
 {% include paypal.html %}
 </div>
+
+<br/>
+
+**Add-Ons**
+
+$15/month &mdash; Locker to store projects (subject to availability). Lockers are assigned on first come, first serve basis. If you are interested in getting a locker please see Noah, Ed, or James.
 
 ** Where **
 
@@ -55,11 +69,10 @@ Parking for HI Capacity is street parking only. There is parking on side streets
 
 And we'll continue to grow.
 
-* Projector
 * Monitors
 * More desks
 * Space for machinery
-* 3D printers
+* More 3D printers
 * CNC Machines
 * Laser cutters
 * Lathes and other tools

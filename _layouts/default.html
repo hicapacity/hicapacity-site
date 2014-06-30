@@ -34,7 +34,13 @@
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="HI Capacity" />
+
+{% if page.image == undefined %}
+<meta property="og:image" content="http://hicapacity.org/img/hicap_logo_vectorized_no_bg.png" />
+{% else %}
 <meta property="og:image" content="http://{{ page.image | image_url }}" />
+{% endif %}
+
 <meta property="og:description" content="{{ page.description }}" />
 <meta property="og:url" content="http://hicapacity.org{{ page.url }}">
 {% endif %}

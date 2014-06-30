@@ -2,6 +2,7 @@
 layout: static
 title: Services
 permalink: /services/
+type: main
 ---
 
 #### 3D Printing ####

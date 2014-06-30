@@ -2,6 +2,7 @@
 layout: static
 title: Attribution
 permalink: /attribution/
+type: main
 ---
 
 Social Media Font: [http://socicon.com/](http://socicon.com/)

@@ -2,6 +2,7 @@
 layout: static
 title: About HICapacity
 permalink: /about/
+type: main
 ---
 
 ### What is HI Capacity? ###

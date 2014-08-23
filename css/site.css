@@ -141,6 +141,11 @@ a:hover {
 
 .postContent p { font-family: 'Muli', sans-serif; word-wrap: break-word; }
 
+.postContent img {
+  max-width: 100%;
+  height: auto;
+}
+
 .postTitle {
   font-size: 28px;
   color: #EEEEEE;

@@ -37,7 +37,7 @@ Certain evenings will be closed due to Box Jelly events. We will notify you in a
 
 $60/month &mdash; Basic membership, which includes access to the space.
 
-$75/month &mdash; This includes basic membership, a HI Capacity email address, and a personal web page on the hicapacity.org subdomain. You can advertise your membership or talk about your projects! Your additional contribution will go towards opening a larger Makerspace and equipment. By contributing a little more, you can help our Makerspace grow even faster!
+$75/month &mdash; This includes basic membership, a locker, and a HI Capacity email address (if requested). You can advertise your membership or talk about your projects! Your additional contribution will go towards opening a larger Makerspace and equipment. By contributing a little more, you can help our Makerspace grow even faster!
 
 Starving Hacker and Student rates are available. Please email maker(a)hicapacity.org
 
@@ -49,7 +49,7 @@ Starving Hacker and Student rates are available. Please email maker(a)hicapacity
 
 **Add-Ons**
 
-$15/month &mdash; Locker to store projects (subject to availability). Lockers are assigned on first come, first serve basis. If you are interested in getting a locker please see Noah, Ed, or James.
+$15/month &mdash; Locker to store projects (subject to availability). Lockers are assigned on first come, first serve basis. If you are interested in getting a locker please see Noah, Ed, or James. Please note that the higher tier of membership includes a locker, if you want an additional one, you will need to an extra $15/month.
 
 ** Where **
 

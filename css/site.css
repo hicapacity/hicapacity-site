@@ -342,6 +342,14 @@ a:hover {
   .sidebar {
     padding-left: 15px;
   }
+  
+  .header {
+    font-size: 40px;    
+  }
+  
+  .logo {
+    height: 40px;
+  }
 }
 
 @media screen and (max-width: 480px) {

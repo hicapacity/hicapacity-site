@@ -1,16 +1,12 @@
 --- 
 layout: post
-title: Moving Update
-date: 2014-09-03 20:30:00
+title: We are moving this weekend!
+date: 2014-08-29 12:00:00
 author: Julie Ann Sakuda
 categories: ['announcement']
-description: HICapacity is closed until further notice.
+description: HICapacity will be moving over the long Labor Day weekend. If you can help, please contact us!
 ---
 
-Hey everyone, we've managed to move most of our things over to the MIC! The only things remaining are some miscellaneous boxes, chairs, and the smaller desk that the MakerBot resides on. We managed to move the lockers and large wooden table earlier today. At this time we're announcing that __HICapacity at the BoxJelly is now closed__. Only those who are helping us pack, move, or clean up the space should be there. We're hoping the last of our paperwork will come through by the end of this week so that the space can officially open up at the Manoa Innovation Center.
+Hey everyone, if you don't already know, we're moving to the __Manoa Innovation Center__! We're sorry for not officially announcing it sooner, but we wanted to make sure we were further along in the process before announcing it. While we are moving this weekend, we cannot officially open at MIC until a few more things come through. MIC is allowing us to borrow the key this weekend to start storing stuff in our new space. We must vacate our current space at the BoxJelly by the 15th at the very latest, but we really want to be fully moved out by the 1st. If anyone is available to help this weekend please get in contact with Ed or myself soon. Or post on our Facebook page and one of us will get back to you.
 
-We thank you all for your understanding as we await our exciting new space. We would also like to thank everyone who has loaned us a hand, equipment, or vechicle to make this move possible. We're grateful for everything everyone has done for us.
-
-Keep checking back, we will update again soon!
-
-<img src="/img/IMG_1200.JPG" width="500"></img>
+At this time we are entering into our transitional period. We will be trying to move some of the larger pieces of furniture this weekend so the usage of the current HICAP space will be very limited starting next week. We will continue to post updates on Facebook and on our website to notify our members when we will officially cease operations at the BoxJelly and open at the MIC. We are working as fast as we can to get everything finalized so please stay tuned!

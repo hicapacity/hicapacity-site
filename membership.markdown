@@ -9,8 +9,7 @@ There has been a lot of interest from HI Capacity members and the maker communit
 
 **Hours of Operation**
 
-Monday-Friday, 8am-8pm
-Saturday-Sunday, 11am-4pm
+Hours to be announced once we reopen.
 
 **Restrictions**
 
@@ -53,16 +52,11 @@ $15/month &mdash; Locker to store projects (subject to availability). Lockers ar
 
 ** Where **
 
-307a Kamani Street, Honolulu, HI
-<div>
-  <iframe src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=The+Box+Jelly,+Kamani+Street,+Honolulu,+HI&amp;aq=0&amp;sll=37.0625,-95.677068&amp;sspn=46.946584,88.857422&amp;vpsrc=0&amp;ie=UTF8&amp;hq=The+Box+Jelly,&amp;hnear=Kamani+St,+Honolulu,+Hawaii&amp;t=m&amp;ll=21.296642,-157.856993&amp;spn=0.006295,0.006295&amp;output=embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="425" height="350"></iframe><br>
-</div>
-
-[View Larger Map](http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=The+Box+Jelly,+Kamani+Street,+Honolulu,+HI&amp;aq=0&amp;sll=37.0625,-95.677068&amp;sspn=46.946584,88.857422&amp;vpsrc=0&amp;ie=UTF8&amp;hq=The+Box+Jelly,&amp;hnear=Kamani+St,+Honolulu,+Hawaii&amp;t=m&amp;ll=21.296642,-157.856993&amp;spn=0.006295,0.006295)
+TEMPORARILY CLOSED WHILE WE MOVE TO OUR NEW SPACE. CHECK BACK SOON!
 
 **Parking**
 
-Parking for HI Capacity is street parking only. There is parking on side streets surrounding Kamani Street and also on Ward Avenue.
+More details to come.
 
 **Our Future**
 

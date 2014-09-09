@@ -5,6 +5,7 @@ date: 2014-09-08 16:30:00
 author: Julie Ann Sakuda
 categories: ['announcement']
 description: The BoxJelly is kindly throwing us a going away party this Friday, September 12th!
+image: hicapacity.org/img/hicap.jpg
 ---
 
 Hello everyone! The BoxJelly is throwing us a going away party! It will this week Friday, September 12th from 6pm to 9pm. Come down and hang out with everyone!

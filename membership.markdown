@@ -9,7 +9,7 @@ There has been a lot of interest from HI Capacity members and the maker communit
 
 **Hours of Operation**
 
-Hours to be announced once we reopen.
+Hours to be announced once we are done fully setting up our space at MIC.
 
 **Restrictions**
 
@@ -48,15 +48,20 @@ Starving Hacker and Student rates are available. Please email maker(a)hicapacity
 
 **Add-Ons**
 
-$15/month &mdash; Locker to store projects (subject to availability). Lockers are assigned on first come, first serve basis. If you are interested in getting a locker please see Noah, Ed, or James. Please note that the higher tier of membership includes a locker, if you want an additional one, you will need to an extra $15/month.
+$15/month &mdash; Locker to store projects (subject to availability). Lockers are assigned on first come, first serve basis. If you are interested in getting a locker please see Noah, Ed, or James. Please note that the higher tier of membership includes a locker, if you want an additional one, you will need to pay an extra $15/month.
 
 ** Where **
 
-TEMPORARILY CLOSED WHILE WE MOVE TO OUR NEW SPACE. CHECK BACK SOON!
+2800 Woodlawn Drive, Suite #132, Honolulu, HI 96822
+<div>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1858.5255519535974!2d-157.80845263558203!3d21.308996934968775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd84a9348810716bf!2sManoa+Innovation+Center!5e0!3m2!1sen!2sus!4v1411440100710" width="600" height="450" frameborder="0" style="border:0"></iframe><br>
+</div>
+
+[View Larger Map](https://goo.gl/maps/UBHN3)
 
 **Parking**
 
-More details to come.
+Visitor parking is available in the front lot of MIC. The visitor stalls are green. DO NOT PARK IN THE RESERVED STALLS. There is also ample street parking next to MIC that is free. DO NOT park at the shopping center, your car may get towed.
 
 **Our Future**
 

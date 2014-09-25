@@ -11,6 +11,10 @@ Hello everyone! It appears that some of our members were super excited and have 
 
 Since we're up and running we're ready to announce our grand opening party! It will be on Friday, October 10th from 5pm until 8pm at our new space at the Manoa Innovation Center. Food will be provided by Slickage. If you plan to attend please RSVP on EventBrite so we have a better idea of how much food we need to order. We ask that HICAP members also RSVP please!
 
+__Where:__ 2800 Woodlawn Drive, Suite 132, Honolulu, HI 96822 [[map]](https://goo.gl/maps/UBHN3)
+
+__When:__ Friday, October 10, 2014 @ 5pm - 8pm
+
 __RSVP at: [https://www.eventbrite.com/e/hicapacity-grand-re-opening-party-tickets-13320151933](https://www.eventbrite.com/e/hicapacity-grand-re-opening-party-tickets-13320151933)__
 
 

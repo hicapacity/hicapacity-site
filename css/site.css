@@ -254,6 +254,11 @@ a:hover {
   font-size: 10pt;
 }
 
+.mailing-list {
+  padding: 5px 0 0 5px;
+  color: #999999;
+}
+
 .copyright {
   width: 100%;
   margin: 10px 0px 10px 0px;

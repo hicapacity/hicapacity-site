@@ -20,7 +20,7 @@ __When:__ Thursday, November 6, 2014 @ 6pm to 8pm
 __Where:__ Online
 
 
-===
+***
 
 Immediately following the intro to web applications session is the Meteor session. They will be introducing the Meteor platform as well as taking attendees through a sample app. There will also be a show and tell for those who are already building their applications with Meteor. For for information see the Meetup page.
 

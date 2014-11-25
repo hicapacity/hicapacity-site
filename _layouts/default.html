@@ -55,7 +55,6 @@
 <link rel="stylesheet" href="/css/socicon.css">
 <link rel="stylesheet" href="/css/site.css">
 <link rel="stylesheet" href="/css/events.css">
-<link rel="stylesheet" href="/css/github.css">
 <link rel="stylesheet" href="/css/menu.css">
 {% if page.type == "calendar" %}
 <link rel="stylesheet" href="/css/fullcalendar.min.css">
@@ -66,13 +65,11 @@
 <script type="text/javascript" src="/js/menu_jquery.js"></script>
 <script src="/js/dateFormat.min.js"></script>
 <script src="/js/events.js"></script>
-<script src="/js/github.js"></script>
 
 <script>
   $(document).ready(function() {
     // load sidebar contents
     populateEvents();
-    populateProjects();
     
     // Set the active page on the navigation page
     var path = location.pathname.substring(1); // strip the slash in the beginning

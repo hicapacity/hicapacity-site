@@ -15,7 +15,7 @@ Run the site locally:
 
     $ jekyll serve
 
-Tip: Use the --auto flag during development to automatically regenerate the site when files are modified.
+For development use --watch to refresh upon write:
     
     $ jekyll serve --watch
     

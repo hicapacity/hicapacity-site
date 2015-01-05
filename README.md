@@ -4,11 +4,12 @@ hackerspace/makerspace from Honolulu, HI. Previous version was in Wordpress
 and we are currently migrating.
 
 #### Development
+[Ruby](https://www.ruby-lang.org) 2.2.0 is needed for Jekyll.
 [Jekyll](https://github.com/mojombo/jekyll) is needed to generate the site.
-Install it..
 
-    $ gem install jekyll
-    $ gem install rdiscount
+Install dependencies:
+
+    $ bundle
 
 Run the site locally:
 
@@ -23,4 +24,3 @@ See [https://github.com/mojombo/jekyll/wiki/configuration](https://github.com/mo
 #### Contact
 Github: [wangbus](http://github.com/wangbus) [jsakuda](https://github.com/jsakuda)
 Twitter: [@wangbus](http://twitter.com/wangbus)
-

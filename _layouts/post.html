@@ -1,16 +1,6 @@
 ---
 layout: default
 ---
-<script>
-  (function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=247762308599581";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
-</script>
-<div id="fb-root"></div>
 <div class="post">
   <div class="postTitle">
     <a href="{{ post.url }}">{{ page.title }}</a>
@@ -29,4 +19,3 @@ layout: default
   </div>
 </div>
 
-<div id="comments" class="fb-comments" style="padding-top: 10px" data-href="http://hicapacity.org{{ page.url }}" data-num-posts="2" data-width="767" data-colorscheme="dark"></div>

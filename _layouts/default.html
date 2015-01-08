@@ -81,20 +81,6 @@
     else {
       $('#home').addClass('active');
     }
-    
-    // Insert post comment counts
-    $('.postComments').each(function(index) {
-      var element = $(this); // keep the element in scope!
-      var page_url = element.attr('data-url');
-      $.getJSON('https://graph.facebook.com/' + page_url, function(json) {
-        console.log(json);
-          var comments = 0;  
-          if (json.comments !== undefined) {
-            comments = json.comments;
-          }
-          element.html('Comments (' + comments + ')');
-      });
-    });
   });
 </script>
 

@@ -9,7 +9,7 @@ There has been a lot of interest from HI Capacity members and the maker communit
 
 **Hours of Operation**
 
-Hours to be announced once we are done fully setting up our space at MIC.
+Monday - Saturday 10am to 9pm
 
 **Restrictions**
 

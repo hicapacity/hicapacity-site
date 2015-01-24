@@ -4,6 +4,7 @@ title: Golang Talk
 date: 2015-01-24 02:30:00
 author: Julie Ann Sakuda
 categories: ['event']
+image: i.imgur.com/RijLLv6.png
 description: James Wang will be doing a talk on Golang.
 ---
 <div style="float: left; margin-right: 15px; padding-right: 10px;" >

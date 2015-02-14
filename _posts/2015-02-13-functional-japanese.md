@@ -7,7 +7,7 @@ categories: ['event']
 description: Trevor Alexander will give a talk on Japanese grammar from a unique perspective, drawing on his experience as an engineer and professional translator.
 ---
 
-![japanese flag with parens](./img/funcjpnflag.svg =300x)
+![japanese flag with parens](/img/funcjpnflag.svg =300x)
 
 Think Japanese is hard? Confusing? Well, you're wrong!
 

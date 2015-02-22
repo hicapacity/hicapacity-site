@@ -21,9 +21,19 @@ function populateEvents() {
         }
       }
       
-      var date = (new Date(entry.start.dateTime)).format("F j, Y");
-      var startTime = (new Date(entry.start.dateTime)).format("h:i A");
-      var endTime = (new Date(entry.end.dateTime)).format("h:i A");
+      var date;
+      var startTime;
+      var endTime;
+      
+      if (entry.start.dateTime) {
+        date = (new Date(entry.start.dateTime)).format("F j, Y");
+        startTime = (new Date(entry.start.dateTime)).format("h:i A");
+        endTime = (new Date(entry.end.dateTime)).format("h:i A");        
+      }
+      else {
+        date = (new Date(entry.start.date)).format("F j, Y");
+      }
+
 
       html += '<div class="eventTitle">';
 
@@ -34,7 +44,14 @@ function populateEvents() {
       // event date, start time, and end time
       html += '<div class="dateTimeInfo">' + '<span class="timeLabel">Date: </span>' + date + '<br/>';
       //html += '<span class="timeLabel">Start: </span>' + startTime + '</br>' + '<span class="timeLabel">End: </span>' + endTime;
-      html += '<span class="timeLabel">Time: </span>' + startTime + " - " + endTime;
+      
+      if (startTime) {
+        html += '<span class="timeLabel">Time: </span>' + startTime + " - " + endTime;        
+      }
+      else {
+        html += '<span class="timeLabel">Time: All Day</span>'; 
+      }
+
       html += '</div>';        
     })
     html += '</ul>';

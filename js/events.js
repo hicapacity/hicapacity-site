@@ -49,7 +49,7 @@ function populateEvents() {
         html += '<span class="timeLabel">Time: </span>' + startTime + " - " + endTime;        
       }
       else {
-        html += '<span class="timeLabel">Time: All Day</span>'; 
+        html += '<span class="timeLabel">Time: </span> All Day'; 
       }
 
       html += '</div>';        

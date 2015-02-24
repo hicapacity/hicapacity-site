@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Japanese for Functional Programmers
+title: Callbacks ... or Promises?
 date: 2015-02-23 22:25:00
 author: Edward Kim
 categories: ['event']

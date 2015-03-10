@@ -29,3 +29,8 @@ __When:__ Tuesday, March 10, 2015 @ 7:00pm
 __Where:__ Manoa Innovation Center (HICapacity), 2800 Woodlawn Drive, Suite #132, Honolulu, Hawaii 96822. 
 
 Street parking is available, as well as a limited amount of green vistor stalls are available. Please do not park in the reserved stalls.
+
+---
+
+#### Edward Kim ####
+Edward Kim is a developer for Slickage Studios. He graduated from the University of Manoa with a Bachelor of Science degree in Information and Computer Science. Since graduating, he has mainly focused on building web services and applications for both the client and server side. He's also has experience building Machine Learning Frameworks and A.I. type applications, worked with GIS type applications for the military, and has also dabbled in buzz words like Big Data and Cloud.

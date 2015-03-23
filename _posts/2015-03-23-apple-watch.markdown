@@ -5,7 +5,7 @@ date: 2015-03-23 00:45:00
 author: Julie Ann Sakuda
 categories: ['event']
 image: imgur.com/4Oy6Ewi.png
-description: James Wang will be doing a talk on Golang.
+description: James Wang will be doing a talk on the Apple Watch SDK.
 ---
 <div style="float: left; margin-right: 15px; padding-right: 10px;" >
 <a href="http://imgur.com/4Oy6Ewi"><img src="http://i.imgur.com/4Oy6Ewi.png" title="source: imgur.com" style="width: 25rem;" /></a>

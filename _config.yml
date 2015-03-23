@@ -4,3 +4,4 @@ exclude: [Gemfile, Gemfile.lock, README.md]
 rdiscount:
   extensions: [smart]
 paginate: 3
+gems: [jekyll-paginate]

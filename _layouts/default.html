@@ -26,17 +26,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- OpenGraph tag stuff -->
-{% if page.type == "main" || page.type == "calendar" %}
+{% if page.type == "main" or page.type == "calendar" %}
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:type" content="website" />
-<meta property="og:site_name" content="HI Capacity" />
+<meta property="og:site_name" content="HICapacity" />
 <meta property="og:image" content="http://hicapacity.org/img/hicap_logo_vectorized_no_bg.png" />
 <meta property="og:description" content="{{ page.description }}" />
 <meta property="og:url" content="http://hicapacity.org{{ page.url }}">
 {% else %}
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:type" content="article" />
-<meta property="og:site_name" content="HI Capacity" />
+<meta property="og:site_name" content="HICapacity" />
 
 {% if page.image == undefined %}
 <meta property="og:image" content="http://hicapacity.org/img/hicap_logo_vectorized_no_bg.png" />

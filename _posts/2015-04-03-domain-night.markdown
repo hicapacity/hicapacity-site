@@ -4,8 +4,7 @@ title: Domain Night
 date: 2015-04-03 00:45:00
 author: Ryan Kanno
 categories: ['event']
-image:
-description: Domain Night
+description: Domain owners unite! Discussion group, ideation, and networking around domains.
 ---
 
 Do you have a domain? More than one? If so, you'll fit right in at DOTCOM, a new discussion and support group for domain hoarders collectors hosted by HICapacity at <a href="https://www.google.com/maps/place/BoxJelly/@21.296687,-157.856515,17z/data=!3m1!4b1!4m2!3m1!1s0x7c006e0820771d41:0xbf7fee287e045e6f" target="_new">Box Jelly</a>.

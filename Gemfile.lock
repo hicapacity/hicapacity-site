@@ -52,5 +52,6 @@ DEPENDENCIES
   jekyll (~> 3.0.0.pre.beta2)
   jekyll-localization (~> 0.1.7)
   jekyll-paginate
-  pygments.rb (~> 0.6.0)
+  jekyll-watch (~> 1.1)
+  pygments.rb
   rdiscount (~> 2.1.7.1)

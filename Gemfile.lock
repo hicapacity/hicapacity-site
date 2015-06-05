@@ -6,7 +6,7 @@ GEM
     colorator (0.1)
     ffi (1.9.8)
     hitimes (1.2.2)
-    jekyll (3.0.0.pre.beta2)
+    jekyll (3.0.0.pre.beta6)
       colorator (~> 0.1)
       jekyll-sass-converter (~> 1.0)
       jekyll-watch (~> 1.1)
@@ -49,7 +49,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.0.0.pre.beta2)
+  jekyll (~> 3.0.0.pre.beta6)
   jekyll-localization (~> 0.1.7)
   jekyll-paginate
   jekyll-watch (~> 1.1)

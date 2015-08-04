@@ -13,10 +13,8 @@ description: About the HICapacity makerspace!
 #### Our Maker Bot 3D printer:
 ![printer](https://scontent.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10383510_674891575909558_399943442631151463_n.jpg?oh=75868ece0411a87ace4a2b50bbc40f2f&oe=565BE1F9)</br></br>
 <!-- ![Arduino](http://farm6.static.flickr.com/5229/5663399761_b31f4c1aa2_z.jpg) -->
-The video below shows HI Capacity's humble beginnings. Even though we have moved to a new space, the goal of HI Capacity remains unchanged. Listen to co-founders Matthew Badeau, Austen Ito, and Jason Axelson talk about what HI Capacity is and what they hope HI Capacity accomplishes.
-<div style="padding: 5px 0 5px 0">
-<iframe width="560" height="315" src="http://www.youtube.com/embed/LqFuv1QGxs0?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
+
+[Feel free to stop by any night to check us out! We are located in the Manoa Innovation Center. Enter through the front walkway, follow the side walk to your second door on the right. When you take the first left in the hallway, you will see our door on the right.]
 
 We've been meeting a lot of people in the community recently. Whether it was at the [Hawaii Geek Meet](http://hawaiigeek.com/), or our first/[second](http://www.facebook.com/media/set/fbx/?set=a.150614461670608.37454.138211559577565) electronic Arduino night, we often hear people asking what exactly is a Hackerspace?  We know the name sounds extremely intimidating &mdash; shoot, it even intimidates us at times!  We wanted to clear up the confusion on what exactly we are and what we're trying to do on Oahu.
 
@@ -24,7 +22,7 @@ If you search on Google, a Hackerspace is often defined as
 
 > [Hackerspaces](http://en.wikipedia.org/wiki/Hackerspace) are community-operated physical places, where people can meet and work on their projects. (from http://hackerspaces.org)
 
-While you typically need some type of critical mass to get a physical space, for the past few months, we've been primarily focused on organizing the local communities.  Initially, we focused on electronics, but we've quickly realized that there's no reason to be so specialized.  We're branching out, reaching out to those passionate about fostering an environment that creates value, and forming "Community Nights".
+ Initially, we focused on electronics, but we've quickly realized that there's no reason to be so specialized.  We're branching out, reaching out to those passionate about fostering an environment that creates value, and forming "Community Nights".
 
 **So what is a Community Night?**
 
@@ -49,3 +47,8 @@ We want to raise the bar and level of knowledge here in the islands.  What bette
 Please follow us on this website, our Social Media: [Facebook](http://facebook.com/hicapacity), [Instagram](https://instagram.com/hicapacity/), [Flickr](https://www.flickr.com/photos/hicapacity), [Twitter](https://twitter.com/hnlmakerspace) or our [Wiki Site](https://wiki.hicapacity.org).
 
 We're at an exciting time... and we hope you'll want to be a part of it, too!
+
+The video below shows HI Capacity's humble beginnings. Even though we have moved to a new space, the goal of HI Capacity remains unchanged. Listen to co-founders Matthew Badeau, Austen Ito, and Jason Axelson talk about what HI Capacity is and what they hope HI Capacity accomplishes.
+<div style="padding: 5px 0 5px 0">
+<iframe width="560" height="315" src="http://www.youtube.com/embed/LqFuv1QGxs0?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>

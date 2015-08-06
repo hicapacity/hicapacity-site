@@ -6,7 +6,7 @@ GEM
     colorator (0.1)
     ffi (1.9.8)
     hitimes (1.2.2)
-    jekyll (3.0.0.pre.beta6)
+    jekyll (3.0.0.pre.beta8)
       colorator (~> 0.1)
       jekyll-sass-converter (~> 1.0)
       jekyll-watch (~> 1.1)
@@ -40,7 +40,7 @@ GEM
     rdiscount (2.1.7.1)
     rouge (1.8.0)
     safe_yaml (1.0.4)
-    sass (3.4.13)
+    sass (3.4.14)
     timers (4.0.1)
       hitimes
     yajl-ruby (1.2.1)
@@ -49,9 +49,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.0.0.pre.beta6)
+  jekyll (~> 3.0.0.pre.beta8)
   jekyll-localization (~> 0.1.7)
   jekyll-paginate
   jekyll-watch (~> 1.1)
   pygments.rb
   rdiscount (~> 2.1.7.1)
+
+BUNDLED WITH
+   1.10.5

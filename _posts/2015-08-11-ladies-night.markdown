@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ladies in Tech Night @ HiCap!
+title: Ladies in Tech Night @ HICap!
 date: 2015-08-11 10:13:00
 author: Jessica Grazziotin
 categories: ['event']

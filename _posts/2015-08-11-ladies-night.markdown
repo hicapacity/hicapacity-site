@@ -4,10 +4,10 @@ title: Ladies in Tech Night @ HiCap!
 date: 2015-08-11 10:13:00
 author: Jessica Grazziotin
 categories: ['event']
-description: Ladies night at HiCapacity August 25th (5:30-7).  
+description: Ladies night at HICapacity August 25th (5:30-7).  
 ---
 
-__Aloha Ladies! You're invited to HiCapacity's first ever Ladies Social event!__
+__Aloha Ladies! You're invited to HICapacity's first ever Ladies Social event!__
 ![ladiesnight](http://pwrfwd.net/wp-content/uploads/2013/09/ladiesnight.jpg)
 
 Join us ___Tuesday August 25th (5:30-7pm)___ for snacks and socializing with other women in the Hawaii tech industry!

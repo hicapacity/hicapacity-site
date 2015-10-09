@@ -1,11 +1,11 @@
-----
+---
 layout: post
 title: Arduino Night!
 date: 2015-10-09 05:16:00
 author: Jessica Grazziotin
 categories: ['event']
 description: Join us for a free tutorial on Arduino microcontroller devices. Come see all the possibilities and how to get started on your electronic projects.
-----
+---
 
 ![Arduino](https://learn.adafruit.com/system/guides/images/000/000/366/medium500/adafruit-neopixel-ring-flora-watch.jpg?1396718360)
 

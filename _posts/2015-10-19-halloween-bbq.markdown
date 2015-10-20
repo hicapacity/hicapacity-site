@@ -4,6 +4,7 @@ title: HICapacity Halloween BBQ
 date: 2015-10-19 11:14:00
 author: Bob Matcuk
 categories: ['event']
+image: imgur.com/yPCVuK5.jpg
 description: Join us for a HICapacity BBQ Halloween Day! Open to everyone!
 ---
 

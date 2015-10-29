@@ -4,10 +4,11 @@ title: Fashion Tech Workshops!
 date: 2015-10-29 10:55:00
 author: Jessie Grazziotin
 categories: ['event']
+image: imgur.com/gtnDF3j
 description: Fashion Tech Workshops with Anouk Wipprecht
 ---
 
-![Anouk](https://gm1.ggpht.com/2hNLrnKfIQB29sdh7GwCta-V8_sgfW-iOHlyStkd8Ion8szLEcoBXZZX1KmpvdkAinz-H2_0ONPq8JydhldwssSvTE-KZ5UdlS8WmkWS0vodW5v-p-SAOl4kwb7IN3J6XBcVvzYvMKL4gcl2IJ-zR9NOuY0-wpqv9rdmPkuuOSm9TboiFDnXBNLXW4AlQmkFtiRshAmu3r3CkX0cl2C0dYBbIaOfpeXCo4-DiJTXOMAreS7sIr6x79CjM31qaS5g5DyinMYr3_pSxaH_eqWZng0kPv8hySNtZpi4_ScgIFFkdv1IXl068JPWeFs0QSSFfkhqfUhA4XQmkoEaOCYViu6Pgx8DvYZ83RRjkrKEqkc6DW8hTCfPk2Y58Pd0kR2rTaACsJLEkg7OjjDfEr1l81SLYfnd_3gDC2373JjFFj7MypLE_u0ziZEb7Frbp5eod_qGsW7gHtaLkPiR3kZBU99u5d6RgH8UUI5AiMQ5pik1m5UeJ4o9cGYJL8TJDaWsyMzRrDWGVPWxh1T5PNeCDYf_x_jmnau252j3pKNkP4ocLiBi4G4-dMk3sLxOFD1RVtzWNHROpC33d6h74FrIVT3AJUhmYQY05tNsDT6RoMPQBzKpswDCmMSTpc5_Xuve_nFxRJLHk-WSjQCk1uoe51sVn14SFtgJ4_DF=w1398-h1810-l75-ft)
+![Anouk](http://i.imgur.com/gtnDF3jl.jpg)
 
 CLICK HERE TO SEE VIDEOS: [https://vimeo.com/142590171](https://vimeo.com/142590171) or [https://vimeo.com/141569102](https://vimeo.com/141569102)
 

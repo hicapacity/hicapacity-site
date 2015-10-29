@@ -20,14 +20,22 @@ _design:_ sewing help
 
 The workshops will be Tuesday, Nov 10 - Thursday, Nov 12 from 10am-6pm. The Fashion Show will be at the Modern Hotel on Saturday, Nov 14th. Volunteering for 2 shifts earns you a  free ticket! Otherwise tickets are $100 each. Volunteer experience can range from students to professionals. If you are available and interested in volunteering please email [jlblanke@hawaii.edu](jlblanke@hawaii.edu) what your shift preferences are:
 
-_Day1 Tuesday, Nov 10_
+**_Day1 Tuesday, Nov 10_**
+
 Shift 1: 10am-2pm Tech intro
+
 Shift 2: 2pm-6pm
-_Day2 Wednesday, Nov 11_
+
+**_Day2 Wednesday, Nov 11_**
+
 Shift 1: 10am-2pm
+
 Shift 2: 2pm-6pm
-_Day3 Thursday, Nov 12_
+
+**_Day3 Thursday, Nov 12_**
+
 Shift 1: 10am-2pm
+
 Shift 2: 2pm-6pm
 
 If you would like to learn more about the devices you will be working with before the event, Tuesday Nov 3rd, HICapacity (makerspace in the Manoa Innovation Center) will be hosting it's weekly hardware night and will focus on the devices that will be used during the workshop. If Tuesday does not work for your schedule, but you would still like some practice before, feel free to email me [jlblanke@hawaii.edu](jlblanke@hawaii.edu) and we will see what we can do.

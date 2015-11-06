@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fashion Tech Workshops Updates
-date: 2015-11-07 11:00:00
+date: 2015-11-06 11:00:00
 author: Julie Ann Sakuda
 categories: ['event']
 image: imgur.com/gtnDF3j

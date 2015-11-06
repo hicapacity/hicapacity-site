@@ -8,7 +8,7 @@ image: imgur.com/gtnDF3j
 description: Fashion Tech Workshops with Anouk Wipprecht
 ---
 
-### NOTE: The information in this post is outdated. See all updated information [here](https://hicapacity.org/2015/11/07/fashion-tech-update/). ###
+### NOTE: The information in this post is outdated. See all updated information [here](https://hicapacity.org/2015/11/06/fashion-tech-update/). ###
 
 ![Anouk](http://i.imgur.com/gtnDF3jl.jpg)
 

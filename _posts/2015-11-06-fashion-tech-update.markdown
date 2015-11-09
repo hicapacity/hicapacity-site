@@ -19,7 +19,7 @@ _tech:_ any experience with arduinos or other hardware devices (teensy, octo, ne
 
 _design:_ sewing help
 
-The workshops will be Tuesday, Nov 10 - Thursday, Nov 12 from 10am-3pm. Volunteering earns you a free ticket! Otherwise tickets are $100 each. Volunteer experience can range from students to professionals. If you are available and interested in volunteering please email [jlblanke@hawaii.edu](jlblanke@hawaii.edu) with the days you are intersted in volunteering for.
+The workshops will be Tuesday, Nov 10 - Thursday, Nov 12 from 10am-3pm. Volunteering earns you a free ticket! Volunteer experience can range from students to professionals. If you are available and interested in volunteering please email <a href="mailto: info@shoux.media">info@shoux.media</a> with the days you are intersted in volunteering for.
 
 To honor the commemoration of fashion month and debut our hard working and innovative movers and shakers driving innovation in fashion tech, we will be showcasing our inaugural hybrid designs to blow your mind. The date of the showcase will be announced so keep an eye out for an official announcement!
 

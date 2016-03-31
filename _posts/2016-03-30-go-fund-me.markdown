@@ -3,7 +3,7 @@ layout: post
 title: HICapacity News and Updates
 date: 2016-03-30 15:00:00
 author: Julie Ann Sakuda
-categories: ['announcment']
+categories: ['announcement']
 image: i.imgur.com/XBRJxa9.png
 description: Current updates and news about what's going on at HICAP!
 ---

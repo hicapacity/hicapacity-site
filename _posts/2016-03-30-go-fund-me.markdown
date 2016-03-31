@@ -17,6 +17,6 @@ More improvements are forthcoming and Jesse has setup a GoFundMe donation drive 
 
 We're going to be addressing two major pain points that we've always had. The need for decent seating (we currently have a mismash of partially broken office chairs) and the lack of AC after 7 PM. Even though we have windows they do little to help cool the space at night. The bulk of the funds will go toward buying us new chairs and a portable AC unit. The remainder will go to upgrading the technology in the space to support recording/streaming for presentations and additional storage solutions.
 
-So what else have we been up to? Pretty much the same as last yer. We've been continuing with having talks at the space. In fact there is one tomorrow! It is titled [There's a Pheonix In My Elm Tree](https://hnl.io/events/256?n=There-s-a-Phoenix-In-My-Elm-Tree) and will be an introduction to using Elm with the Pheonix framework. Stop by if you can!
+So what else have we been up to? Pretty much the same as last year. We've been continuing with having talks at the space. In fact there is one tomorrow! It is titled [There's a Pheonix In My Elm Tree](https://hnl.io/events/256?n=There-s-a-Phoenix-In-My-Elm-Tree) and will be an introduction to using Elm with the Pheonix framework. Stop by if you can!
 
 That's it for now! We will post photos of the space as we update it. We're extremely grateful to all the members and supporters for helping us to keep HICapacity going!

@@ -6,7 +6,7 @@ GEM
     colorator (0.1)
     ffi (1.9.8)
     hitimes (1.2.2)
-    jekyll (3.0.0.pre.beta9)
+    jekyll (3.1.2)
       colorator (~> 0.1)
       jekyll-sass-converter (~> 1.0)
       jekyll-watch (~> 1.1)
@@ -19,12 +19,12 @@ GEM
       jekyll-rendering
     jekyll-paginate (1.1.0)
     jekyll-rendering (0.0.9)
-    jekyll-sass-converter (1.3.0)
-      sass (~> 3.2)
+    jekyll-sass-converter (1.4.0)
+      sass (~> 3.4)
     jekyll-watch (1.2.1)
       listen (~> 2.7)
-    kramdown (1.8.0)
-    liquid (3.0.1)
+    kramdown (1.10.0)
+    liquid (3.0.6)
     listen (2.9.0)
       celluloid (>= 0.15.2)
       rb-fsevent (>= 0.9.3)
@@ -38,9 +38,9 @@ GEM
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
     rdiscount (2.1.7.1)
-    rouge (1.8.0)
+    rouge (1.10.1)
     safe_yaml (1.0.4)
-    sass (3.4.16)
+    sass (3.4.22)
     timers (4.0.1)
       hitimes
     yajl-ruby (1.2.1)
@@ -49,7 +49,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.0.0.pre.beta9)
+  jekyll (~> 3.1.2)
   jekyll-localization (~> 0.1.7)
   jekyll-paginate
   jekyll-watch (~> 1.1)
@@ -57,4 +57,4 @@ DEPENDENCIES
   rdiscount (~> 2.1.7.1)
 
 BUNDLED WITH
-   1.10.5
+   1.11.2

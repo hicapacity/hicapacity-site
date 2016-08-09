@@ -6,3 +6,5 @@ gem 'jekyll-paginate'
 gem 'rdiscount', '~> 2.1.7.1'
 gem 'pygments.rb'
 gem 'jekyll-watch', '~> 1.1'
+
+gem 'liquid', '3.0.6'

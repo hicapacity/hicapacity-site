@@ -70,11 +70,11 @@
   $(document).ready(function() {
     // load sidebar contents
     populateEvents();
-    
+
     // Set the active page on the navigation page
     var path = location.pathname.substring(1); // strip the slash in the beginning
     path = path.replace(/\/$/, ""); // strip the trailing slash if it exists
-  
+
     if ( path ) {
       $('.nav a[href$="' + path + '"]').parent().addClass('active');
     }
@@ -88,21 +88,21 @@
 <body>
   {% include header.html %}
   {% include navbar.html %}
-  
+
   <div class="container">
     <div class="row">
       <div class="col-sm-9 main">
         {{ content }}
       </div>
       <div class="col-sm-3 sidebar">
-        {% include sidebar.html %}        
+        {% include sidebar.html %}
       </div>
     </div>
   </div>
-  
+
   <div class="copyright">
-    &copy HICapacity LLC 2014</script>
+    &copy HICapacity LLC 2016</script>
   </div>
-  {% include analytics.html %}  
+  {% include analytics.html %}
 </body>
 </html>

@@ -8,7 +8,7 @@ image: i.imgur.com/ksCypL8.png
 description: Thank you to everyone that helped us to improve our space!
 ---
 <div style="position:relative;height:0;overflow:hidden;padding-bottom:56.25%;">
-  <iframe src="http://s38.photobucket.com/user/hicap_julie/embed/slideshow/GoFundMe" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>
+  <iframe src="https://s38.photobucket.com/user/hicap_julie/embed/slideshow/GoFundMe" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>
 </div>
 
 Hey everyone! We're sorry for being off the radar for so long, again. We're still here! We just wanted to share that our GoFundMe campaign was a success! The space is looking better and we have a more comfortable environment for everyone! It took us a bit but we have purchased everything we wanted. We've purchased brand new office chairs to replace our old, half-working, and mismatched ones. We've also got a portable AC to get us through those warm summer nights. In addition we've got a second projector that we can mount and a webcam to record and/or stream talks. You can see our new equipment in the slideshow above. A special shout out to member Jesse for coordinating the entire campaign and setting everything up!

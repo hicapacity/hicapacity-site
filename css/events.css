@@ -1,4 +1,18 @@
-/* CSS for the Google Calendar events widget. */
+#hnlio img {
+  padding: 1rem;
+  background-color: white;
+  width: 100%;
+}
+
+
+.hnlio-event {
+  color: #777;
+}
+
+.hnlio-title {
+  word-break: break-all;
+}
+
 #events {
   color: #777;
 }
@@ -12,35 +26,18 @@
 
 #events ul li{
   margin-left: 0px;
-  padding-left: 0px;  
-} 
+  padding-left: 0px;
+}
 
-.eventTitle {
+.hnlio-event-title {
   padding: 2px;
-  padding-top: 10px;
   font-weight: bold;
 }
-.eventTitle  a:link {
-  font-size: 11px;
+.hnlio-event-title  a:link {
   color: #3F8686;
   text-decoration: none;
   font-weight: 600;
 }      /* unvisited link */
-.eventTitle a:visited {color: #3F8686;}  /* visited link */
-.eventTitle a:hover {color: #888;}  /* mouse over link */
-.eventTitle a:active {color: #A5A5A5;}  /* selected link */
-
-.dateTimeInfo {
-  color: #666;
-  font-weight: 400;
-  padding: 2px;
-}
-
-.timeLabel {
-  color: #999;
-}
-
-.calButton a {
-  color: #3F8686;
-  text-decoration: none;
-}
+.hnlio-event-title a:visited {color: #3F8686;}  /* visited link */
+.hnlio-event-title a:hover {color: #888;}  /* mouse over link */
+.hnlio-event-title a:active {color: #A5A5A5;}  /* selected link */

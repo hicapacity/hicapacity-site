@@ -9,10 +9,6 @@
   color: #777;
 }
 
-.hnlio-title {
-  word-break: break-all;
-}
-
 #events {
   color: #777;
 }
@@ -32,6 +28,7 @@
 .hnlio-event-title {
   padding: 2px;
   font-weight: bold;
+  word-break: break-all;
 }
 .hnlio-event-title  a:link {
   color: #3F8686;

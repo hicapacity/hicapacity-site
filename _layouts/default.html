@@ -56,6 +56,7 @@
 <link rel="stylesheet" href="/css/site.css">
 <link rel="stylesheet" href="/css/events.css">
 <link rel="stylesheet" href="/css/menu.css">
+<link rel="stylesheet" type="text/css" href="https://hnl.io/embeddables/hnlio-calendar.css" />
 {% if page.type == "calendar" %}
 <link rel="stylesheet" href="/css/fullcalendar.min.css">
 {% endif %}
@@ -64,13 +65,11 @@
 <script src="/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="/js/menu_jquery.js"></script>
 <script src="/js/dateFormat.min.js"></script>
-<script src="/js/events.js"></script>
+
+<script type="text/javascript" src="https://hnl.io/embeddables/hnlio-calendar.js"></script>
 
 <script>
   $(document).ready(function() {
-    // load sidebar contents
-    populateEvents();
-
     // Set the active page on the navigation page
     var path = location.pathname.substring(1); // strip the slash in the beginning
     path = path.replace(/\/$/, ""); // strip the trailing slash if it exists

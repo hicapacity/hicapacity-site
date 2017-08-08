@@ -1,0 +1,17 @@
+---
+layout: post
+title: Tech Talk ~ Backpack
+date: 2014-11-18 23:30:00
+author: Trevor Alexander
+categories: ['event']
+description: Trevor Alexander will be giving an informal technical talk about Backpack, one of the projects born from the recent Startup Weekend.
+---
+Trevor Alexander, HICapacity member and Student Liaison, will give an informal technical talk about backpack, an 'information introspection application' developed at Startup Weekend with the help of a couple of UH student biz devs, a tenacious student from DevLeague (hi Eun Joo!), and some punks from Sudokrew (hi Manny! hi Matt!). Expect bad jokes, terrible commit messages, sappy reminiscence, shoutouts to the community, and maybe even a little lucid code review! 
+
+***
+
+__When:__ Tuesday, November 25, 2014 @ 7:00pm
+
+__Where:__ Manoa Innovation Center (HICapacity), 2800 Woodlawn Drive, Suite #132, Honolulu, Hawaii 96822. 
+
+Street parking is available, as well as a limited amount of green vistor stalls are available. Please do not park in the reserved stalls.

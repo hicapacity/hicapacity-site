@@ -1,4 +1,4 @@
 _site/
 _published/
 .DS_Store
-
+.jekyll-metadata

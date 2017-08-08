@@ -1,0 +1,17 @@
+<div class="post">
+  <div class="postTitle">
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </div>
+  <div class="postInfo">
+    {{ post.date | date: "%B %e, %Y" }} by {{ post.author }}
+  </div>
+  <div class="postContent">
+    {{ post.content }}
+  </div>
+  <div>
+    <span class="postInfo">Posted in: </span>
+    {% for category in post.categories %}
+      <div class="category">{{ category }}</div>
+    {% endfor %}  
+  </div>
+</div>

@@ -1,0 +1,51 @@
+---
+layout: post
+title: Golang Talk
+date: 2015-01-24 02:30:00
+author: Julie Ann Sakuda
+categories: ['event']
+image: i.imgur.com/RijLLv6.png
+description: James Wang will be doing a talk on Golang.
+---
+<div style="float: left; margin-right: 15px; padding-right: 10px;" >
+<a href="http://imgur.com/RijLLv6"><img src="http://i.imgur.com/RijLLv6.png" width="300" title="source: imgur.com" /></a>
+</div>
+
+James Wang will be giving a talk on <a href="https://golang.org">Go</a> this coming Thursday!
+
+Go is an exciting programming language that is aimed to replace C in many ways. From groundbreaking benchmarks to Erlang-like concurrency focused language constructs make it one of the go to languages for code that demand performance.
+
+From Go’s Documentation:
+
+The Go programming language is an open source project to make programmers more productive.
+
+Go is expressive, concise, clean, and efficient. Its concurrency mechanisms make it easy to write programs that get the most out of multicore and networked machines, while its novel type system enables flexible and modular program construction. Go compiles quickly to machine code yet has the convenience of garbage collection and the power of run-time reflection. It's a fast, statically typed, compiled language that feels like a dynamically typed, interpreted language.
+
+The agenda for this talk is as follows:
+
+* Environment Setup
+* Getting Started: Simple Programs and Algorithms
+* Concurrency & Design Patterns
+* Tools and Projects written in Go
+
+Golang links:
+
+* <a href="https://golang.org">https://golang.org</a>
+* <a href="https://github.com/golang/go">https://github.com/golang/go</a>
+
+***
+
+__When:__ Thursday, January 29, 2015 @ 7:00pm
+
+__Where:__ Manoa Innovation Center (HICapacity), 2800 Woodlawn Drive, Suite #132, Honolulu, Hawaii 96822. 
+
+Street parking is available, as well as a limited amount of green vistor stalls are available. Please do not park in the reserved stalls.
+
+---
+<div style="float: left; margin-right: 15px;">
+<a href="http://imgur.com/zCMOHqZ"><img src="http://i.imgur.com/zCMOHqZ.jpg" width="75" title="Hosted by imgur.com" /></a>
+</div>
+#### James Wang ####
+James Wang is the CEO and Principal Software Engineer of Slickage, a Honolulu based software engineering firm. He is also a co-founder of HI Capacity, a hackerspace in Honolulu formed in 2011. When hacking he enjoys the intricacies of large scale systems all the way up to the response times of beautiful user interfaces. When James is not coding he engages in competitive fighting games and competes in tournaments across the US.
+
+<br style="clear:both" />

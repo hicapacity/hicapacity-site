@@ -2,102 +2,107 @@
 <html>
 <head>
 <title>{{ page.title }}</title>
+
+<meta charset="UTF-8">
+
+<link rel="shortcut icon" href="/img/favicon/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/img/favicon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/img/favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/img/favicon/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="/img/favicon/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="/img/favicon/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="/img/favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/img/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/img/favicon/favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#2b5797">
+<meta name="msapplication-TileImage" content="/img/favicon/mstile-144x144.png">
+<meta name="msapplication-config" content="/img/favicon/browserconfig.xml">
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<link href='http://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Questrial' rel='stylesheet' type='text/css'>
+<!-- OpenGraph tag stuff -->
+{% if page.type == "main" or page.type == "calendar" %}
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="HICapacity" />
+<meta property="og:image" content="http://hicapacity.org/img/hicap_logo_vectorized_no_bg.png" />
+<meta property="og:description" content="{{ page.description }}" />
+<meta property="og:url" content="http://hicapacity.org{{ page.url }}">
+{% else %}
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="HICapacity" />
+
+{% if page.image == undefined %}
+<meta property="og:image" content="http://hicapacity.org/img/hicap_logo_vectorized_no_bg.png" />
+{% else %}
+<meta property="og:image" content="http://{{ page.image | image_url }}" />
+{% endif %}
+
+<meta property="og:description" content="{{ page.description }}" />
+<meta property="og:url" content="http://hicapacity.org{{ page.url }}">
+{% endif %}
+
+<link href='https://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Questrial' rel='stylesheet' type='text/css'>
+
 <link rel="stylesheet" href="/css/bootstrap.min.css">
-<link rel="stylesheet" href="/css/bootstrap-responsive.css">
+<link rel="stylesheet" href="/css/socicon.css">
 <link rel="stylesheet" href="/css/site.css">
 <link rel="stylesheet" href="/css/events.css">
-<link rel="stylesheet" href="/css/github.css">
-<link rel="stylesheet" href="/css/css_pirobox/style.css">
-<link rel="stylesheet" href="/css/fullcalendar.css">
-<script src="/js/jquery-1.7.1.min.js"></script>
-<script src="/js/less-1.1.3.min.js"></script>
+<link rel="stylesheet" href="/css/menu.css">
+{% if page.type == "calendar" %}
+<link rel="stylesheet" href="/css/fullcalendar.min.css">
+{% endif %}
+
+<script src="/js/jquery-2.1.1.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
-<!--
-<script src="/js/bootstrap-dropdown.js"></script>
-<script src="/js/bootstrap-tooltip.js"></script> -->
+<script type="text/javascript" src="/js/menu_jquery.js"></script>
 <script src="/js/dateFormat.min.js"></script>
 <script src="/js/events.js"></script>
-<script src="/js/github.js"></script>
-<script src="/js/pirobox_extended_feb_2011.js"></script>
 
-<script type="text/javascript">
+<script>
   $(document).ready(function() {
+    // load sidebar contents
     populateEvents();
-    populateProjects();
 
-    $('.socialMedia').tooltip({ 'placement': 'bottom' }); // tooltips for social media icons
-    
-    // Setup lightbox
-    $.piroBox_ext({
-    	piro_speed : 700,
-    	bg_alpha : 0.5,
-    	piro_scroll : true,
-    	piro_drag :false,
-    	piro_nav_pos: 'bottom'
-    });
-    
     // Set the active page on the navigation page
     var path = location.pathname.substring(1); // strip the slash in the beginning
     path = path.replace(/\/$/, ""); // strip the trailing slash if it exists
-    
+
     if ( path ) {
       $('.nav a[href$="' + path + '"]').parent().addClass('active');
     }
     else {
       $('#home').addClass('active');
     }
-    
-    // Insert post comment counts
-    $('.postComments').each(function(index) {
-      var element = $(this); // keep the element in scope!
-      var page_url = element.attr('data-url');
-      $.getJSON('https://graph.facebook.com/' + page_url, function(json) {
-        console.log(json);
-          var comments = 0;  
-          if (json.comments !== undefined) {
-            comments = json.comments;
-          }
-          element.html('Comments (' + comments + ')');
-      });
-    });
-    
-    // Insert urls for share links
-    $('.postShare').each(function(index) {
-      var element = $(this); // keep the element in scope!
-      var share_link = encodeURIComponent(element.attr('data-url'));
-      var share_title = encodeURIComponent(element.attr('title'));
-      var url = "http://www.facebook.com/sharer.php?u=" + share_link + "&t=" + share_title;
-      element.attr('href', url);
-    });
   });
 </script>
-<meta property="og:title" content="{{ page.title }}" />
-<meta property="og:type" content="article" />
-<meta property="og:site_name" content="HI Capacity" />
-<meta property="og:image" content="http://{{ page.image | image_url }}" />
-<meta property="og:description" content="{{ page.description }}" />
-</head>
 
+</head>
 <body>
-{% include navbar.html %}  
-<!-- <div class="fluid-container sidebar-right" style="min-width: 800px"> -->
-<div class="container-fluid">
-  <div class="row-fluid">
-  <!-- <div class="fluid-content"> -->
-  <div class="span9">
-    {{ content }}
+  {% include header.html %}
+  {% include navbar.html %}
+
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-9 main">
+        {{ content }}
+      </div>
+      <div class="col-sm-3 sidebar">
+        {% include sidebar.html %}
+      </div>
+    </div>
   </div>
-  {% include sidebar.html %}
-</div>
-  <div style="clear: both"></div>
-</div>
-<div class="copyright">
-  &copy HICapacity LLC <script>document.write((new Date()).getFullYear())</script>
-</div>
-{% include analytics.html %}
+
+  <div class="copyright">
+    &copy HICapacity LLC 2016</script>
+  </div>
+  {% include analytics.html %}
 </body>
 </html>

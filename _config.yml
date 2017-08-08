@@ -1,6 +1,7 @@
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
-exclude: [Rakefile, README.md]
+exclude: [Gemfile, Gemfile.lock, README.md]
 rdiscount:
   extensions: [smart]
 paginate: 3
+gems: [jekyll-paginate]

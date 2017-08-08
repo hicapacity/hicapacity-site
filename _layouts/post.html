@@ -1,25 +1,13 @@
 ---
 layout: default
 ---
-<script>
-  (function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=247762308599581";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
-</script>
-<div id="fb-root"></div>
 <div class="post">
   <div class="postTitle">
     <a href="{{ post.url }}">{{ page.title }}</a>
   </div>
   <div class="postInfo">
     {{ page.date | date: "%B %e, %Y" }} by {{ page.author }}
-    <a href="" title="{{ page.title }}" data-url="http://hicapacity.org{{ page.url }}" class="postShare"><img src="/img/facebook_share.png" width="75"></img></a> 
   </div>
-  <div class="postHeaderRule"></div>
   <div class="postContent">
     {{ content }}
   </div>
@@ -31,4 +19,3 @@ layout: default
   </div>
 </div>
 
-<div id="comments" class="fb-comments" style="padding-top: 10px" data-href="http://hicapacity.org{{ page.url }}" data-num-posts="2" data-width="767" data-colorscheme="dark"></div>

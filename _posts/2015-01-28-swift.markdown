@@ -1,0 +1,38 @@
+---
+layout: post
+title: Experiments in Swift
+date: 2015-01-28 23:30:00
+author: Julie Ann Sakuda (via Kyle Oba)
+categories: ['event']
+image: i.imgur.com/JS7s5wL.png
+description: OUDL is having a Swift discussion! If you're interested in talking about the interesting features of Apple's Swift come down and join in!
+---
+<div style="float: left; margin-right: 15px; padding-right: 10px;" >
+<a href="http://imgur.com/JS7s5wL"><img src="http://i.imgur.com/JS7s5wL.png" title="source: imgur.com" /></a>
+</div>
+
+<a href="http://www.meetup.com/dynamic/">OUDL</a> is having a Swift discussion. Bring your laptops and follow along and be sure to participate in the discussion!
+
+
+From the Meetup event: <a href="http://imgur.com/sLk2VLY"><img src="http://i.imgur.com/sLk2VLY.gif" title="source: imgur.com" width="150"/></a>
+
+Warning: May include functional programming and excessive Playgrounds.
+
+A little bit of time has gone by since our last Swift meetup. It's time to regroup and have a discussion on Swift.
+
+The agenda is simple:
+
+* Discuss interesting Swift language features, guided by suggestions or led by my Playgrounds
+* Go over the GitHub project that I've put together to guide the PNM workshop in March (beta testing!)
+
+Our focus will be on guided discussion and writing a lot of code together.
+
+RSVP at: <a href="http://www.meetup.com/dynamic/events/220150799/">http://www.meetup.com/dynamic/events/220150799/</a>
+
+***
+
+__When:__ Monday, February 9, 2015 @ 6:00pm to 8:00pm
+
+__Where:__ Manoa Innovation Center, 2800 Woodlawn Drive, Honolulu, Hawaii 96822. __MIC Board Room - 2nd Floor__
+
+Street parking is available, as well as a limited amount of green vistor stalls are available. Please do not park in the reserved stalls.

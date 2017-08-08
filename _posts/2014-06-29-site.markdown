@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Site Update
+date: 2014-06-29
+author: Julie Ann Sakuda
+categories: ['announcement']
+description: The HICAP site receives a facelift!
+---
+Hello everyone! If you haven't already noticed the site has receieved a facelift. We originally launched the previous version of the site back in late 2011. The look and feel hadn't changed much since then. The site became old and boring and we felt it was time for a change. The goal of this version of the site was to minimize the amount of images being used. The old version would load badly on slower connections due to having too many background textures and other images.
+
+Another change that has been made to the site is the perks page has been sunset. Its pertinent information has been merged into the membership information page. We also now have a page about services provided by HICapacity. We now have 3D printing and 3D modeling services available! Check it out!
+
+We also have a new logo! HICapacity member Jesse has been hard at work! He created our new logo and it is proudly being displayed above.
+
+The site will continue to receive updates in the coming weeks but it will generally be small tweaks or updates to the information on the site. It won't be too drastic.
+
+If you haven't been down to the space recently, you should come check out our new MakerBot Replicator! It is frequently in use so you can watch a model getting printed. Or even print one of your own. Thank you to all of those who donated funds to purchase our awesome new toy! :)
+
+Hope everyone is doing well. See you later!

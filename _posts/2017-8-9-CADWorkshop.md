@@ -17,7 +17,7 @@ This workshop is recommended for anyone with previous 3D modeling and/or fabrica
 
 Presented by Megan Hoffman
 Where: [iLab @ UH Manoa](https://ilab.hawaii.edu/) Building 37
-When: Wednesday August 7th @ 7pm
+When: Wednesday August 9th @ 7pm
 
 ---
 

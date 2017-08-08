@@ -1,13 +1,13 @@
 ---
- layout: post
- title: Using CAD to Make Functional Objects
- date: 2017-8-7 00:00:00
- author: Jesse Thompson
+layout: post
+title: Using CAD to Make Functional Objects
+date: 2017-8-7 00:00:00
+author: Jesse Thompson
 categories: ['announcement']
- image: http://i.imgur.com/bUZLyzC.png
+image: http://i.imgur.com/bUZLyzC.png
 description: Using CAD to Make Functional Objects
-
 ---
+
 ![Fusion 360](http://i.imgur.com/bUZLyzC.png)
 
  In this workshop, we will learn to create 3D CAD models in a tools like Solidworks, AutoCAD, and Fusion 360 which incorporate our expectations about how those models will function in the real world.  We will discuss how to use parameterized geometry to connect what we see on the screen to what we want to fabricate and use. In addition to using standard CAD tools, workshop participants will use an experimental CAD tool created by researchers at Carnegie Mellon University.

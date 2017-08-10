@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using CAD to Make Functional Objects
-date: 2017-8-7 00:00:00
+date: 2017-8-10 00:00:00
 author: Jesse Thompson
 categories: ['announcement']
 image: http://i.imgur.com/bUZLyzC.png
@@ -15,9 +15,9 @@ description: Using CAD to Make Functional Objects
 This workshop is recommended for anyone with previous 3D modeling and/or fabrication experience who want to get more out of there 3D modeling experience. We will specifically be working with Autodesk Fusion 360 and request that all participants have this installed prior to the workshop. Installation is available here: https://www.autodesk.com/products/fusion-360/free-trial and recommended tutorials can be found here: http://help.autodesk.com/view/fusion360/ENU/. Participants should bring a personal laptop (PC or Mac) to the workshop.
 
 
-Presented by Megan Hoffman
+Presented by Megan Hofmann
 Where: [iLab @ UH Manoa](https://ilab.hawaii.edu/) Building 37
-When: Wednesday August 9th @ 7pm
+When: Tuesday August 15th @ 6pm
 
 ---
 

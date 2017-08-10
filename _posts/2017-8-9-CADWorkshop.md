@@ -18,7 +18,7 @@ This workshop is recommended for anyone with previous 3D modeling and/or fabrica
 Presented by Megan Hofmann
 Where: [iLab @ UH Manoa](https://ilab.hawaii.edu/) Building 37
 When: Tuesday August 15th @ 6pm
-
+RSVP: [Here](https://www.meetup.com/Honolulu-Digital-Art-Meetup-PixelHui/events/242449842/)
 ---
 
 ![Megan Hofmann](http://i.imgur.com/soSEyQh.png)

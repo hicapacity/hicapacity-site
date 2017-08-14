@@ -3,7 +3,7 @@ layout: post
 title: Using CAD to Make Functional Objects
 date: 2017-8-10 00:00:00
 author: Jesse Thompson
-categories: ['announcement']
+categories: ['event']
 image: http://i.imgur.com/bUZLyzC.png
 description: Using CAD to Make Functional Objects
 ---

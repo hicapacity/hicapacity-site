@@ -9,7 +9,7 @@ There has been a lot of interest from HI Capacity members and the maker communit
 
 **Hours of Operation**
 
-Monday - Saturday 10am to 9pm
+We're not longer keeping regular open hours. Members have access to the space via keycard. Check out the calender for information about upcoming public events. 
 
 **What is Provided**
 
@@ -49,16 +49,16 @@ $15/month &mdash; Locker to store projects (subject to availability). Lockers ar
 
 ** Where **
 
-2800 Woodlawn Drive, Suite #132, Honolulu, HI 96822
+UH Innovation Lab Bldg 37, Honolulu, HI 96822 
 <div>
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1858.5255519535974!2d-157.80845263558203!3d21.308996934968775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd84a9348810716bf!2sManoa+Innovation+Center!5e0!3m2!1sen!2sus!4v1411440100710" width="600" height="450" frameborder="0" style="border:0"></iframe><br>
+  <iframe src="https://www.google.com/maps/place/University+of+Hawaii+Innovation+Lab+(iLab)/@21.2978497,-157.8196382,17z/data=!4m8!1m2!2m1!1silab+building+37+UH+manoa!3m4!1s0x0:0xbbd507660354cb9a!8m2!3d21.2987597!4d-157.8177868" width="600" height="450" frameborder="0" style="border:0"></iframe><br>
 </div>
 
 [View Larger Map](https://goo.gl/maps/UBHN3)
 
 **Parking**
 
-Visitor parking is available in the front lot of MIC. The visitor stalls are green. DO NOT PARK IN THE RESERVED STALLS. There is also ample street parking next to MIC that is free. DO NOT park at the shopping center, your car may get towed.
+Parking @ UH Manoa is $5 a Day in the marked stalls.  
 
 **Our Future**
 

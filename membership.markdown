@@ -14,14 +14,14 @@ We're no longer keeping regular open hours. Members have access to the space via
 **What is Provided**
 
 * Space to work on software/hardware projects. Soldering is allowed.
-* A limited amount of storage space to store your projects.
-* Comfortable chairs and tables.
-* Whiteboards.
+* A limited amount of storage space to store your projects
+* Comfortable chairs and tables
+* Whiteboards
 * A community of people that want to do things!
 * Space for holding talks and other events
 * High-speed wireless internet
 * Access to all public events and access to any member only events
-* Mini fridge and access to the building's larger kitchen with a microwave
+* Shared kitchen with sink, refrigerator, and Keurig
 
 **Equipment Available**
 
